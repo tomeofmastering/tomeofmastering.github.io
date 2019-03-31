@@ -1,13 +1,11 @@
 <!DOCTYPE html>
 <html lang="en">
-
-<meta http-equiv="content-type" content="text/html;charset=utf-8" />
 <head>
   <meta charset="UTF-8" />
   <title>Tome of Mastering</title>
   <link href="https://fonts.googleapis.com/css?family=Noto+Sans" rel="stylesheet"> 
   <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" />
-  <link rel="stylesheet" href="style.css" />
+  <link rel="stylesheet" href="/style.css" />
 </head>
 <body>
   <div class="d-flex flex-column" id="wrapper">
@@ -65,8 +63,8 @@
       </div>
   </div>
         <div class="list-group list-group-flush d-flex flex-row justify-content-end align-items-center">
-          <a href="index.html" class="list-group-item list-group-item-action">About</a>
-          <a href="content.html" class="list-group-item list-group-item-action">Content</a>
+          <a href="/" class="list-group-item list-group-item-action">About</a>
+          <a href="/content.html" class="list-group-item list-group-item-action">Content</a>
         </div>
       </div>
 
@@ -77,7 +75,7 @@
   <div id="tomeentries" class="d-flex flex-row flex-wrap">
       <div class="m-1 tomeentry">
         <div class="border rounded-top tomeentryname p-2"><a class="entryname" name="Aarakocra" href="#Aarakocra">Aarakocra</a></div>
-        <div class="border rounded-bottom tomeentrycontent p-2">
+        <div class="d-flex flex-column border rounded-bottom tomeentrycontent p-2">
                 <div>
                     Is Summoner of <a onclick="ResetSearch()" href="#Air Elemental">Air Elemental</a>
                 </div>
@@ -97,7 +95,7 @@
     </div>
     <div class="m-1 tomeentry">
         <div class="border rounded-top tomeentryname p-2"><a class="entryname" name="Abjurer" href="#Abjurer">Abjurer</a></div>
-        <div class="border rounded-bottom tomeentrycontent p-2">
+        <div class="d-flex flex-column border rounded-bottom tomeentrycontent p-2">
                 <div>
                     Is Protecting <a onclick="ResetSearch()" href="#Vaults">Vaults</a>
                 </div>
@@ -114,7 +112,7 @@
     </div>
     <div class="m-1 tomeentry">
         <div class="border rounded-top tomeentryname p-2"><a class="entryname" name="Aboleth" href="#Aboleth">Aboleth</a></div>
-        <div class="border rounded-bottom tomeentrycontent p-2">
+        <div class="d-flex flex-column border rounded-bottom tomeentrycontent p-2">
                 <div>
                     Is Enemy of <a onclick="ResetSearch()" href="#Gods">Gods</a>
                 </div>
@@ -131,7 +129,7 @@
     </div>
     <div class="m-1 tomeentry">
         <div class="border rounded-top tomeentryname p-2"><a class="entryname" name="Abominable Yeti" href="#Abominable Yeti">Abominable Yeti</a></div>
-        <div class="border rounded-bottom tomeentrycontent p-2">
+        <div class="d-flex flex-column border rounded-bottom tomeentrycontent p-2">
                 <div>
                     Is Found in <a onclick="ResetSearch()" href="#Alpine Peaks">Alpine Peaks</a>
                 </div>
@@ -151,7 +149,7 @@
     </div>
     <div class="m-1 tomeentry">
         <div class="border rounded-top tomeentryname p-2"><a class="entryname" name="Acererak Demilich" href="#Acererak Demilich">Acererak Demilich</a></div>
-        <div class="border rounded-bottom tomeentrycontent p-2">
+        <div class="d-flex flex-column border rounded-bottom tomeentrycontent p-2">
                 <div>
                     Is Found in <a onclick="ResetSearch()" href="#Tomb">Tomb</a>
                 </div>
@@ -168,7 +166,7 @@
     </div>
     <div class="m-1 tomeentry">
         <div class="border rounded-top tomeentryname p-2"><a class="entryname" name="Acolyte" href="#Acolyte">Acolyte</a></div>
-        <div class="border rounded-bottom tomeentrycontent p-2">
+        <div class="d-flex flex-column border rounded-bottom tomeentrycontent p-2">
                 <div>
                     Is Minion of <a onclick="ResetSearch()" href="#Priest">Priest</a>
                 </div>
@@ -179,18 +177,21 @@
     </div>
     <div class="m-1 tomeentry">
         <div class="border rounded-top tomeentryname p-2"><a class="entryname" name="Air Elemental" href="#Air Elemental">Air Elemental</a></div>
-        <div class="border rounded-bottom tomeentrycontent p-2">
+        <div class="d-flex flex-column border rounded-bottom tomeentrycontent p-2">
                 <div>
                     Is Found in <a onclick="ResetSearch()" href="#Elemental Plane of Air">Elemental Plane of Air</a>
                 </div>
                 <div>
                     Is Summoned by <a onclick="ResetSearch()" href="#Aarakocra">Aarakocra</a>
                 </div>
+                <div>
+                    Is Minion of <a onclick="ResetSearch()" href="#Blue Dragon">Blue Dragon</a>
+                </div>
         </div>
     </div>
     <div class="m-1 tomeentry">
         <div class="border rounded-top tomeentryname p-2"><a class="entryname" name="Alpine Peaks" href="#Alpine Peaks">Alpine Peaks</a></div>
-        <div class="border rounded-bottom tomeentrycontent p-2">
+        <div class="d-flex flex-column border rounded-bottom tomeentrycontent p-2">
                 <div>
                     Is Subset of <a onclick="ResetSearch()" href="#Mountain Peaks">Mountain Peaks</a>
                 </div>
@@ -200,8 +201,16 @@
         </div>
     </div>
     <div class="m-1 tomeentry">
+        <div class="border rounded-top tomeentryname p-2"><a class="entryname" name="Assassins" href="#Assassins">Assassins</a></div>
+        <div class="d-flex flex-column border rounded-bottom tomeentrycontent p-2">
+                <div>
+                    Is Hired by <a onclick="ResetSearch()" href="#Blue Dragon">Blue Dragon</a>
+                </div>
+        </div>
+    </div>
+    <div class="m-1 tomeentry">
         <div class="border rounded-top tomeentryname p-2"><a class="entryname" name="Bahamut the Platinum Dragon" href="#Bahamut the Platinum Dragon">Bahamut the Platinum Dragon</a></div>
-        <div class="border rounded-bottom tomeentrycontent p-2">
+        <div class="d-flex flex-column border rounded-bottom tomeentrycontent p-2">
                 <div>
                     Is Enemy of <a onclick="ResetSearch()" href="#Tiamat the Dragon Queen">Tiamat the Dragon Queen</a>
                 </div>
@@ -211,8 +220,19 @@
         </div>
     </div>
     <div class="m-1 tomeentry">
+        <div class="border rounded-top tomeentryname p-2"><a class="entryname" name="Bards" href="#Bards">Bards</a></div>
+        <div class="d-flex flex-column border rounded-bottom tomeentrycontent p-2">
+                <div>
+                    Is Hired by <a onclick="ResetSearch()" href="#Blue Dragon">Blue Dragon</a>
+                </div>
+                <div>
+                    Is Ally of <a onclick="ResetSearch()" href="#Copper Dragon">Copper Dragon</a>
+                </div>
+        </div>
+    </div>
+    <div class="m-1 tomeentry">
         <div class="border rounded-top tomeentryname p-2"><a class="entryname" name="Beasts" href="#Beasts">Beasts</a></div>
-        <div class="border rounded-bottom tomeentrycontent p-2">
+        <div class="d-flex flex-column border rounded-bottom tomeentrycontent p-2">
                 <div>
                     Is Prey of <a onclick="ResetSearch()" href="#Abominable Yeti">Abominable Yeti</a>
                 </div>
@@ -220,7 +240,7 @@
     </div>
     <div class="m-1 tomeentry">
         <div class="border rounded-top tomeentryname p-2"><a class="entryname" name="Black Dragon" href="#Black Dragon">Black Dragon</a></div>
-        <div class="border rounded-bottom tomeentrycontent p-2">
+        <div class="d-flex flex-column border rounded-bottom tomeentrycontent p-2">
                 <div>
                     Is Found in <a onclick="ResetSearch()" href="#Ruins">Ruins</a>
                 </div>
@@ -245,8 +265,103 @@
         </div>
     </div>
     <div class="m-1 tomeentry">
+        <div class="border rounded-top tomeentryname p-2"><a class="entryname" name="Blue Dragon" href="#Blue Dragon">Blue Dragon</a></div>
+        <div class="d-flex flex-column border rounded-bottom tomeentrycontent p-2">
+                <div>
+                    Is Found in <a onclick="ResetSearch()" href="#Desert">Desert</a>
+                </div>
+                <div>
+                    Is Found in <a onclick="ResetSearch()" href="#Crystalised Cavern">Crystalised Cavern</a>
+                </div>
+                <div>
+                    Is Creator of <a onclick="ResetSearch()" href="#Thunderstorm">Thunderstorm</a>
+                </div>
+                <div>
+                    Is Creator of <a onclick="ResetSearch()" href="#Dust Devil">Dust Devil</a>
+                </div>
+                <div>
+                    Is Predator of <a onclick="ResetSearch()" href="#Caravans">Caravans</a>
+                </div>
+                <div>
+                    Is Enemy of <a onclick="ResetSearch()" href="#Brass Dragon">Brass Dragon</a>
+                </div>
+                <div>
+                    Is Employer of <a onclick="ResetSearch()" href="#Bards">Bards</a>
+                </div>
+                <div>
+                    Is Employer of <a onclick="ResetSearch()" href="#Assassins">Assassins</a>
+                </div>
+                <div>
+                    Is Employer of <a onclick="ResetSearch()" href="#Wizards">Wizards</a>
+                </div>
+                <div>
+                    Is Master of <a onclick="ResetSearch()" href="#Air Elemental">Air Elemental</a>
+                </div>
+                <div>
+                    Is Protecting <a onclick="ResetSearch()" href="#Gems">Gems</a>
+                </div>
+                <div>
+                    Is Creator of <a onclick="ResetSearch()" href="#Illusion">Illusion</a>
+                </div>
+                <div>
+                    Is Protected by <a onclick="ResetSearch()" href="#Sinkhole">Sinkhole</a>
+                </div>
+                <div>
+                    Is Subset of <a onclick="ResetSearch()" href="#Chromatic Dragons">Chromatic Dragons</a>
+                </div>
+        </div>
+    </div>
+    <div class="m-1 tomeentry">
+        <div class="border rounded-top tomeentryname p-2"><a class="entryname" name="Brass Dragon" href="#Brass Dragon">Brass Dragon</a></div>
+        <div class="d-flex flex-column border rounded-bottom tomeentrycontent p-2">
+                <div>
+                    Is Found in <a onclick="ResetSearch()" href="#Desert">Desert</a>
+                </div>
+                <div>
+                    Is Protecting <a onclick="ResetSearch()" href="#Sentient Items">Sentient Items</a>
+                </div>
+                <div>
+                    Is Protecting <a onclick="ResetSearch()" href="#Treasures">Treasures</a>
+                </div>
+                <div>
+                    Is Enemy of <a onclick="ResetSearch()" href="#Blue Dragon">Blue Dragon</a>
+                </div>
+                <div>
+                    Is Subset of <a onclick="ResetSearch()" href="#Metallic Dragons">Metallic Dragons</a>
+                </div>
+        </div>
+    </div>
+    <div class="m-1 tomeentry">
+        <div class="border rounded-top tomeentryname p-2"><a class="entryname" name="Bronze Dragon" href="#Bronze Dragon">Bronze Dragon</a></div>
+        <div class="d-flex flex-column border rounded-bottom tomeentrycontent p-2">
+                <div>
+                    Is Creator of <a onclick="ResetSearch()" href="#Illusory Sounds">Illusory Sounds</a>
+                </div>
+                <div>
+                    Is Creator of <a onclick="ResetSearch()" href="#Weather">Weather</a>
+                </div>
+                <div>
+                    Is Enemy of <a onclick="ResetSearch()" href="#Tyranny">Tyranny</a>
+                </div>
+                <div>
+                    Is Found in <a onclick="ResetSearch()" href="#Coasts">Coasts</a>
+                </div>
+                <div>
+                    Is Subset of <a onclick="ResetSearch()" href="#Metallic Dragons">Metallic Dragons</a>
+                </div>
+        </div>
+    </div>
+    <div class="m-1 tomeentry">
+        <div class="border rounded-top tomeentryname p-2"><a class="entryname" name="Caravans" href="#Caravans">Caravans</a></div>
+        <div class="d-flex flex-column border rounded-bottom tomeentrycontent p-2">
+                <div>
+                    Is Prey of <a onclick="ResetSearch()" href="#Blue Dragon">Blue Dragon</a>
+                </div>
+        </div>
+    </div>
+    <div class="m-1 tomeentry">
         <div class="border rounded-top tomeentryname p-2"><a class="entryname" name="Castles" href="#Castles">Castles</a></div>
-        <div class="border rounded-bottom tomeentrycontent p-2">
+        <div class="d-flex flex-column border rounded-bottom tomeentrycontent p-2">
                 <div>
                     Is Protected by <a onclick="ResetSearch()" href="#Gargoyle">Gargoyle</a>
                 </div>
@@ -260,9 +375,15 @@
     </div>
     <div class="m-1 tomeentry">
         <div class="border rounded-top tomeentryname p-2"><a class="entryname" name="Chromatic Dragons" href="#Chromatic Dragons">Chromatic Dragons</a></div>
-        <div class="border rounded-bottom tomeentrycontent p-2">
+        <div class="d-flex flex-column border rounded-bottom tomeentrycontent p-2">
                 <div>
                     Is Superset of <a onclick="ResetSearch()" href="#Black Dragon">Black Dragon</a>
+                </div>
+                <div>
+                    Is Superset of <a onclick="ResetSearch()" href="#Dracolich">Dracolich</a>
+                </div>
+                <div>
+                    Is Superset of <a onclick="ResetSearch()" href="#Blue Dragon">Blue Dragon</a>
                 </div>
                 <div>
                     Is Subset of <a onclick="ResetSearch()" href="#Dragons">Dragons</a>
@@ -274,7 +395,7 @@
     </div>
     <div class="m-1 tomeentry">
         <div class="border rounded-top tomeentryname p-2"><a class="entryname" name="Clergy" href="#Clergy">Clergy</a></div>
-        <div class="border rounded-bottom tomeentrycontent p-2">
+        <div class="d-flex flex-column border rounded-bottom tomeentrycontent p-2">
                 <div>
                     Is Composed of <a onclick="ResetSearch()" href="#Acolyte">Acolyte</a>
                 </div>
@@ -284,8 +405,50 @@
         </div>
     </div>
     <div class="m-1 tomeentry">
+        <div class="border rounded-top tomeentryname p-2"><a class="entryname" name="Coasts" href="#Coasts">Coasts</a></div>
+        <div class="d-flex flex-column border rounded-bottom tomeentrycontent p-2">
+                <div>
+                    Is Inhabited by <a onclick="ResetSearch()" href="#Bronze Dragon">Bronze Dragon</a>
+                </div>
+        </div>
+    </div>
+    <div class="m-1 tomeentry">
+        <div class="border rounded-top tomeentryname p-2"><a class="entryname" name="Copper Dragon" href="#Copper Dragon">Copper Dragon</a></div>
+        <div class="d-flex flex-column border rounded-bottom tomeentrycontent p-2">
+                <div>
+                    Is Creator of <a onclick="ResetSearch()" href="#Jokes">Jokes</a>
+                </div>
+                <div>
+                    Is Creator of <a onclick="ResetSearch()" href="#Pranks">Pranks</a>
+                </div>
+                <div>
+                    Is Found in <a onclick="ResetSearch()" href="#Hills">Hills</a>
+                </div>
+                <div>
+                    Is Ally of <a onclick="ResetSearch()" href="#Bards">Bards</a>
+                </div>
+                <div>
+                    Is Protecting <a onclick="ResetSearch()" href="#Gems">Gems</a>
+                </div>
+                <div>
+                    Is Protecting <a onclick="ResetSearch()" href="#Metallic Items">Metallic Items</a>
+                </div>
+                <div>
+                    Is Subset of <a onclick="ResetSearch()" href="#Metallic Dragons">Metallic Dragons</a>
+                </div>
+        </div>
+    </div>
+    <div class="m-1 tomeentry">
+        <div class="border rounded-top tomeentryname p-2"><a class="entryname" name="Crystalised Cavern" href="#Crystalised Cavern">Crystalised Cavern</a></div>
+        <div class="d-flex flex-column border rounded-bottom tomeentrycontent p-2">
+                <div>
+                    Is Inhabited by <a onclick="ResetSearch()" href="#Blue Dragon">Blue Dragon</a>
+                </div>
+        </div>
+    </div>
+    <div class="m-1 tomeentry">
         <div class="border rounded-top tomeentryname p-2"><a class="entryname" name="Demilich" href="#Demilich">Demilich</a></div>
-        <div class="border rounded-bottom tomeentrycontent p-2">
+        <div class="d-flex flex-column border rounded-bottom tomeentrycontent p-2">
                 <div>
                     Is Superset of <a onclick="ResetSearch()" href="#Acererak Demilich">Acererak Demilich</a>
                 </div>
@@ -305,15 +468,54 @@
     </div>
     <div class="m-1 tomeentry">
         <div class="border rounded-top tomeentryname p-2"><a class="entryname" name="Demons" href="#Demons">Demons</a></div>
-        <div class="border rounded-bottom tomeentrycontent p-2">
+        <div class="d-flex flex-column border rounded-bottom tomeentrycontent p-2">
                 <div>
                     Is Master of <a onclick="ResetSearch()" href="#Gargoyle">Gargoyle</a>
                 </div>
         </div>
     </div>
     <div class="m-1 tomeentry">
+        <div class="border rounded-top tomeentryname p-2"><a class="entryname" name="Desert" href="#Desert">Desert</a></div>
+        <div class="d-flex flex-column border rounded-bottom tomeentrycontent p-2">
+                <div>
+                    Is Inhabited by <a onclick="ResetSearch()" href="#Blue Dragon">Blue Dragon</a>
+                </div>
+                <div>
+                    Is Inhabited by <a onclick="ResetSearch()" href="#Brass Dragon">Brass Dragon</a>
+                </div>
+        </div>
+    </div>
+    <div class="m-1 tomeentry">
+        <div class="border rounded-top tomeentryname p-2"><a class="entryname" name="Dracolich" href="#Dracolich">Dracolich</a></div>
+        <div class="d-flex flex-column border rounded-bottom tomeentrycontent p-2">
+                <div>
+                    Is Master of <a onclick="ResetSearch()" href="#Greedy">Greedy</a>
+                </div>
+                <div>
+                    Is Subset of <a onclick="ResetSearch()" href="#Chromatic Dragons">Chromatic Dragons</a>
+                </div>
+                <div>
+                    Is Subset of <a onclick="ResetSearch()" href="#Lich">Lich</a>
+                </div>
+                <div>
+                    Is Protected by <a onclick="ResetSearch()" href="#Dracolich Phylactery">Dracolich Phylactery</a>
+                </div>
+        </div>
+    </div>
+    <div class="m-1 tomeentry">
+        <div class="border rounded-top tomeentryname p-2"><a class="entryname" name="Dracolich Phylactery" href="#Dracolich Phylactery">Dracolich Phylactery</a></div>
+        <div class="d-flex flex-column border rounded-bottom tomeentrycontent p-2">
+                <div>
+                    Is Protecting <a onclick="ResetSearch()" href="#Dracolich">Dracolich</a>
+                </div>
+                <div>
+                    Is Subset of <a onclick="ResetSearch()" href="#Phylactery">Phylactery</a>
+                </div>
+        </div>
+    </div>
+    <div class="m-1 tomeentry">
         <div class="border rounded-top tomeentryname p-2"><a class="entryname" name="Dragons" href="#Dragons">Dragons</a></div>
-        <div class="border rounded-bottom tomeentrycontent p-2">
+        <div class="d-flex flex-column border rounded-bottom tomeentrycontent p-2">
                 <div>
                     Is Superset of <a onclick="ResetSearch()" href="#Chromatic Dragons">Chromatic Dragons</a>
                 </div>
@@ -326,8 +528,16 @@
         </div>
     </div>
     <div class="m-1 tomeentry">
+        <div class="border rounded-top tomeentryname p-2"><a class="entryname" name="Dust Devil" href="#Dust Devil">Dust Devil</a></div>
+        <div class="d-flex flex-column border rounded-bottom tomeentrycontent p-2">
+                <div>
+                    Is Created by <a onclick="ResetSearch()" href="#Blue Dragon">Blue Dragon</a>
+                </div>
+        </div>
+    </div>
+    <div class="m-1 tomeentry">
         <div class="border rounded-top tomeentryname p-2"><a class="entryname" name="Elemental Plane of Air" href="#Elemental Plane of Air">Elemental Plane of Air</a></div>
-        <div class="border rounded-bottom tomeentrycontent p-2">
+        <div class="d-flex flex-column border rounded-bottom tomeentrycontent p-2">
                 <div>
                     Is Protected by <a onclick="ResetSearch()" href="#Aarakocra">Aarakocra</a>
                 </div>
@@ -341,7 +551,7 @@
     </div>
     <div class="m-1 tomeentry">
         <div class="border rounded-top tomeentryname p-2"><a class="entryname" name="Elemental Plane of Earth" href="#Elemental Plane of Earth">Elemental Plane of Earth</a></div>
-        <div class="border rounded-bottom tomeentrycontent p-2">
+        <div class="d-flex flex-column border rounded-bottom tomeentrycontent p-2">
                 <div>
                     Is Inhabited by <a onclick="ResetSearch()" href="#Gargoyle">Gargoyle</a>
                 </div>
@@ -352,7 +562,7 @@
     </div>
     <div class="m-1 tomeentry">
         <div class="border rounded-top tomeentryname p-2"><a class="entryname" name="Elemental Plane of Water" href="#Elemental Plane of Water">Elemental Plane of Water</a></div>
-        <div class="border rounded-bottom tomeentrycontent p-2">
+        <div class="d-flex flex-column border rounded-bottom tomeentrycontent p-2">
                 <div>
                     Is Inhabited by <a onclick="ResetSearch()" href="#Aboleth">Aboleth</a>
                 </div>
@@ -360,7 +570,7 @@
     </div>
     <div class="m-1 tomeentry">
         <div class="border rounded-top tomeentryname p-2"><a class="entryname" name="Gargoyle" href="#Gargoyle">Gargoyle</a></div>
-        <div class="border rounded-bottom tomeentrycontent p-2">
+        <div class="d-flex flex-column border rounded-bottom tomeentrycontent p-2">
                 <div>
                     Is Protecting <a onclick="ResetSearch()" href="#Castles">Castles</a>
                 </div>
@@ -382,24 +592,75 @@
         </div>
     </div>
     <div class="m-1 tomeentry">
+        <div class="border rounded-top tomeentryname p-2"><a class="entryname" name="Gems" href="#Gems">Gems</a></div>
+        <div class="d-flex flex-column border rounded-bottom tomeentrycontent p-2">
+                <div>
+                    Is Protected by <a onclick="ResetSearch()" href="#Blue Dragon">Blue Dragon</a>
+                </div>
+                <div>
+                    Is Protected by <a onclick="ResetSearch()" href="#Copper Dragon">Copper Dragon</a>
+                </div>
+        </div>
+    </div>
+    <div class="m-1 tomeentry">
         <div class="border rounded-top tomeentryname p-2"><a class="entryname" name="Gods" href="#Gods">Gods</a></div>
-        <div class="border rounded-bottom tomeentrycontent p-2">
+        <div class="d-flex flex-column border rounded-bottom tomeentrycontent p-2">
                 <div>
                     Is Enemy of <a onclick="ResetSearch()" href="#Aboleth">Aboleth</a>
                 </div>
         </div>
     </div>
     <div class="m-1 tomeentry">
+        <div class="border rounded-top tomeentryname p-2"><a class="entryname" name="Greedy" href="#Greedy">Greedy</a></div>
+        <div class="d-flex flex-column border rounded-bottom tomeentrycontent p-2">
+                <div>
+                    Is Minion of <a onclick="ResetSearch()" href="#Dracolich">Dracolich</a>
+                </div>
+        </div>
+    </div>
+    <div class="m-1 tomeentry">
+        <div class="border rounded-top tomeentryname p-2"><a class="entryname" name="Hills" href="#Hills">Hills</a></div>
+        <div class="d-flex flex-column border rounded-bottom tomeentrycontent p-2">
+                <div>
+                    Is Inhabited by <a onclick="ResetSearch()" href="#Copper Dragon">Copper Dragon</a>
+                </div>
+        </div>
+    </div>
+    <div class="m-1 tomeentry">
         <div class="border rounded-top tomeentryname p-2"><a class="entryname" name="Humanoids" href="#Humanoids">Humanoids</a></div>
-        <div class="border rounded-bottom tomeentrycontent p-2">
+        <div class="d-flex flex-column border rounded-bottom tomeentrycontent p-2">
                 <div>
                     Is Prey of <a onclick="ResetSearch()" href="#Abominable Yeti">Abominable Yeti</a>
                 </div>
         </div>
     </div>
     <div class="m-1 tomeentry">
+        <div class="border rounded-top tomeentryname p-2"><a class="entryname" name="Illusion" href="#Illusion">Illusion</a></div>
+        <div class="d-flex flex-column border rounded-bottom tomeentrycontent p-2">
+                <div>
+                    Is Created by <a onclick="ResetSearch()" href="#Blue Dragon">Blue Dragon</a>
+                </div>
+        </div>
+    </div>
+    <div class="m-1 tomeentry">
+        <div class="border rounded-top tomeentryname p-2"><a class="entryname" name="Illusory Sounds" href="#Illusory Sounds">Illusory Sounds</a></div>
+        <div class="d-flex flex-column border rounded-bottom tomeentrycontent p-2">
+                <div>
+                    Is Created by <a onclick="ResetSearch()" href="#Bronze Dragon">Bronze Dragon</a>
+                </div>
+        </div>
+    </div>
+    <div class="m-1 tomeentry">
+        <div class="border rounded-top tomeentryname p-2"><a class="entryname" name="Jokes" href="#Jokes">Jokes</a></div>
+        <div class="d-flex flex-column border rounded-bottom tomeentrycontent p-2">
+                <div>
+                    Is Created by <a onclick="ResetSearch()" href="#Copper Dragon">Copper Dragon</a>
+                </div>
+        </div>
+    </div>
+    <div class="m-1 tomeentry">
         <div class="border rounded-top tomeentryname p-2"><a class="entryname" name="Kobold" href="#Kobold">Kobold</a></div>
-        <div class="border rounded-bottom tomeentrycontent p-2">
+        <div class="d-flex flex-column border rounded-bottom tomeentrycontent p-2">
                 <div>
                     Is Minion of <a onclick="ResetSearch()" href="#Black Dragon">Black Dragon</a>
                 </div>
@@ -407,7 +668,7 @@
     </div>
     <div class="m-1 tomeentry">
         <div class="border rounded-top tomeentryname p-2"><a class="entryname" name="Lake" href="#Lake">Lake</a></div>
-        <div class="border rounded-bottom tomeentrycontent p-2">
+        <div class="d-flex flex-column border rounded-bottom tomeentrycontent p-2">
                 <div>
                     Is Subset of <a onclick="ResetSearch()" href="#Water">Water</a>
                 </div>
@@ -418,12 +679,15 @@
     </div>
     <div class="m-1 tomeentry">
         <div class="border rounded-top tomeentryname p-2"><a class="entryname" name="Lich" href="#Lich">Lich</a></div>
-        <div class="border rounded-bottom tomeentrycontent p-2">
+        <div class="d-flex flex-column border rounded-bottom tomeentrycontent p-2">
                 <div>
                     Is Transformed into <a onclick="ResetSearch()" href="#Demilich">Demilich</a>
                 </div>
                 <div>
                     Is Predator of <a onclick="ResetSearch()" href="#Souls">Souls</a>
+                </div>
+                <div>
+                    Is Superset of <a onclick="ResetSearch()" href="#Dracolich">Dracolich</a>
                 </div>
                 <div>
                     Is Protected by <a onclick="ResetSearch()" href="#Phylactery">Phylactery</a>
@@ -432,7 +696,7 @@
     </div>
     <div class="m-1 tomeentry">
         <div class="border rounded-top tomeentryname p-2"><a class="entryname" name="Lizardfolk" href="#Lizardfolk">Lizardfolk</a></div>
-        <div class="border rounded-bottom tomeentrycontent p-2">
+        <div class="d-flex flex-column border rounded-bottom tomeentrycontent p-2">
                 <div>
                     Is Minion of <a onclick="ResetSearch()" href="#Black Dragon">Black Dragon</a>
                 </div>
@@ -440,7 +704,16 @@
     </div>
     <div class="m-1 tomeentry">
         <div class="border rounded-top tomeentryname p-2"><a class="entryname" name="Metallic Dragons" href="#Metallic Dragons">Metallic Dragons</a></div>
-        <div class="border rounded-bottom tomeentrycontent p-2">
+        <div class="d-flex flex-column border rounded-bottom tomeentrycontent p-2">
+                <div>
+                    Is Superset of <a onclick="ResetSearch()" href="#Brass Dragon">Brass Dragon</a>
+                </div>
+                <div>
+                    Is Superset of <a onclick="ResetSearch()" href="#Bronze Dragon">Bronze Dragon</a>
+                </div>
+                <div>
+                    Is Superset of <a onclick="ResetSearch()" href="#Copper Dragon">Copper Dragon</a>
+                </div>
                 <div>
                     Is Subset of <a onclick="ResetSearch()" href="#Dragons">Dragons</a>
                 </div>
@@ -450,8 +723,16 @@
         </div>
     </div>
     <div class="m-1 tomeentry">
+        <div class="border rounded-top tomeentryname p-2"><a class="entryname" name="Metallic Items" href="#Metallic Items">Metallic Items</a></div>
+        <div class="d-flex flex-column border rounded-bottom tomeentrycontent p-2">
+                <div>
+                    Is Protected by <a onclick="ResetSearch()" href="#Copper Dragon">Copper Dragon</a>
+                </div>
+        </div>
+    </div>
+    <div class="m-1 tomeentry">
         <div class="border rounded-top tomeentryname p-2"><a class="entryname" name="Miners" href="#Miners">Miners</a></div>
-        <div class="border rounded-bottom tomeentrycontent p-2">
+        <div class="d-flex flex-column border rounded-bottom tomeentrycontent p-2">
                 <div>
                     Is Enemy of <a onclick="ResetSearch()" href="#Ogrémoch">Ogrémoch</a>
                 </div>
@@ -459,7 +740,7 @@
     </div>
     <div class="m-1 tomeentry">
         <div class="border rounded-top tomeentryname p-2"><a class="entryname" name="Mountain Peaks" href="#Mountain Peaks">Mountain Peaks</a></div>
-        <div class="border rounded-bottom tomeentrycontent p-2">
+        <div class="d-flex flex-column border rounded-bottom tomeentrycontent p-2">
                 <div>
                     Is Superset of <a onclick="ResetSearch()" href="#Alpine Peaks">Alpine Peaks</a>
                 </div>
@@ -473,7 +754,7 @@
     </div>
     <div class="m-1 tomeentry">
         <div class="border rounded-top tomeentryname p-2"><a class="entryname" name="Mountains" href="#Mountains">Mountains</a></div>
-        <div class="border rounded-bottom tomeentrycontent p-2">
+        <div class="d-flex flex-column border rounded-bottom tomeentrycontent p-2">
                 <div>
                     Is Superset of <a onclick="ResetSearch()" href="#Mountain Peaks">Mountain Peaks</a>
                 </div>
@@ -481,7 +762,7 @@
     </div>
     <div class="m-1 tomeentry">
         <div class="border rounded-top tomeentryname p-2"><a class="entryname" name="Ocean" href="#Ocean">Ocean</a></div>
-        <div class="border rounded-bottom tomeentrycontent p-2">
+        <div class="d-flex flex-column border rounded-bottom tomeentrycontent p-2">
                 <div>
                     Is Subset of <a onclick="ResetSearch()" href="#Water">Water</a>
                 </div>
@@ -492,7 +773,7 @@
     </div>
     <div class="m-1 tomeentry">
         <div class="border rounded-top tomeentryname p-2"><a class="entryname" name="Ogrémoch" href="#Ogrémoch">Ogrémoch</a></div>
-        <div class="border rounded-bottom tomeentrycontent p-2">
+        <div class="d-flex flex-column border rounded-bottom tomeentrycontent p-2">
                 <div>
                     Is Creator of <a onclick="ResetSearch()" href="#Gargoyle">Gargoyle</a>
                 </div>
@@ -506,7 +787,7 @@
     </div>
     <div class="m-1 tomeentry">
         <div class="border rounded-top tomeentryname p-2"><a class="entryname" name="Phylactery" href="#Phylactery">Phylactery</a></div>
-        <div class="border rounded-bottom tomeentrycontent p-2">
+        <div class="d-flex flex-column border rounded-bottom tomeentrycontent p-2">
                 <div>
                     Is Protecting <a onclick="ResetSearch()" href="#Acererak Demilich">Acererak Demilich</a>
                 </div>
@@ -516,11 +797,22 @@
                 <div>
                     Is Protecting <a onclick="ResetSearch()" href="#Lich">Lich</a>
                 </div>
+                <div>
+                    Is Superset of <a onclick="ResetSearch()" href="#Dracolich Phylactery">Dracolich Phylactery</a>
+                </div>
+        </div>
+    </div>
+    <div class="m-1 tomeentry">
+        <div class="border rounded-top tomeentryname p-2"><a class="entryname" name="Pranks" href="#Pranks">Pranks</a></div>
+        <div class="d-flex flex-column border rounded-bottom tomeentrycontent p-2">
+                <div>
+                    Is Created by <a onclick="ResetSearch()" href="#Copper Dragon">Copper Dragon</a>
+                </div>
         </div>
     </div>
     <div class="m-1 tomeentry">
         <div class="border rounded-top tomeentryname p-2"><a class="entryname" name="Priest" href="#Priest">Priest</a></div>
-        <div class="border rounded-bottom tomeentrycontent p-2">
+        <div class="d-flex flex-column border rounded-bottom tomeentrycontent p-2">
                 <div>
                     Is Master of <a onclick="ResetSearch()" href="#Acolyte">Acolyte</a>
                 </div>
@@ -531,15 +823,31 @@
     </div>
     <div class="m-1 tomeentry">
         <div class="border rounded-top tomeentryname p-2"><a class="entryname" name="Ruins" href="#Ruins">Ruins</a></div>
-        <div class="border rounded-bottom tomeentrycontent p-2">
+        <div class="d-flex flex-column border rounded-bottom tomeentrycontent p-2">
                 <div>
                     Is Inhabited by <a onclick="ResetSearch()" href="#Black Dragon">Black Dragon</a>
                 </div>
         </div>
     </div>
     <div class="m-1 tomeentry">
+        <div class="border rounded-top tomeentryname p-2"><a class="entryname" name="Sentient Items" href="#Sentient Items">Sentient Items</a></div>
+        <div class="d-flex flex-column border rounded-bottom tomeentrycontent p-2">
+                <div>
+                    Is Protected by <a onclick="ResetSearch()" href="#Brass Dragon">Brass Dragon</a>
+                </div>
+        </div>
+    </div>
+    <div class="m-1 tomeentry">
+        <div class="border rounded-top tomeentryname p-2"><a class="entryname" name="Sinkhole" href="#Sinkhole">Sinkhole</a></div>
+        <div class="d-flex flex-column border rounded-bottom tomeentrycontent p-2">
+                <div>
+                    Is Protecting <a onclick="ResetSearch()" href="#Blue Dragon">Blue Dragon</a>
+                </div>
+        </div>
+    </div>
+    <div class="m-1 tomeentry">
         <div class="border rounded-top tomeentryname p-2"><a class="entryname" name="Souls" href="#Souls">Souls</a></div>
-        <div class="border rounded-bottom tomeentrycontent p-2">
+        <div class="d-flex flex-column border rounded-bottom tomeentrycontent p-2">
                 <div>
                     Is Prey of <a onclick="ResetSearch()" href="#Lich">Lich</a>
                 </div>
@@ -553,7 +861,7 @@
     </div>
     <div class="m-1 tomeentry">
         <div class="border rounded-top tomeentryname p-2"><a class="entryname" name="Spellcasters" href="#Spellcasters">Spellcasters</a></div>
-        <div class="border rounded-bottom tomeentrycontent p-2">
+        <div class="d-flex flex-column border rounded-bottom tomeentrycontent p-2">
                 <div>
                     Is Master of <a onclick="ResetSearch()" href="#Gargoyle">Gargoyle</a>
                 </div>
@@ -564,15 +872,26 @@
     </div>
     <div class="m-1 tomeentry">
         <div class="border rounded-top tomeentryname p-2"><a class="entryname" name="Swamps" href="#Swamps">Swamps</a></div>
-        <div class="border rounded-bottom tomeentrycontent p-2">
+        <div class="d-flex flex-column border rounded-bottom tomeentrycontent p-2">
                 <div>
                     Is Inhabited by <a onclick="ResetSearch()" href="#Black Dragon">Black Dragon</a>
                 </div>
         </div>
     </div>
     <div class="m-1 tomeentry">
+        <div class="border rounded-top tomeentryname p-2"><a class="entryname" name="Thunderstorm" href="#Thunderstorm">Thunderstorm</a></div>
+        <div class="d-flex flex-column border rounded-bottom tomeentrycontent p-2">
+                <div>
+                    Is Created by <a onclick="ResetSearch()" href="#Blue Dragon">Blue Dragon</a>
+                </div>
+                <div>
+                    Is Subset of <a onclick="ResetSearch()" href="#Weather">Weather</a>
+                </div>
+        </div>
+    </div>
+    <div class="m-1 tomeentry">
         <div class="border rounded-top tomeentryname p-2"><a class="entryname" name="Tiamat the Dragon Queen" href="#Tiamat the Dragon Queen">Tiamat the Dragon Queen</a></div>
-        <div class="border rounded-bottom tomeentrycontent p-2">
+        <div class="d-flex flex-column border rounded-bottom tomeentrycontent p-2">
                 <div>
                     Is God of <a onclick="ResetSearch()" href="#Chromatic Dragons">Chromatic Dragons</a>
                 </div>
@@ -583,7 +902,7 @@
     </div>
     <div class="m-1 tomeentry">
         <div class="border rounded-top tomeentryname p-2"><a class="entryname" name="Tomb" href="#Tomb">Tomb</a></div>
-        <div class="border rounded-bottom tomeentrycontent p-2">
+        <div class="d-flex flex-column border rounded-bottom tomeentrycontent p-2">
                 <div>
                     Is Inhabited by <a onclick="ResetSearch()" href="#Demilich">Demilich</a>
                 </div>
@@ -594,15 +913,26 @@
     </div>
     <div class="m-1 tomeentry">
         <div class="border rounded-top tomeentryname p-2"><a class="entryname" name="Treasures" href="#Treasures">Treasures</a></div>
-        <div class="border rounded-bottom tomeentrycontent p-2">
+        <div class="d-flex flex-column border rounded-bottom tomeentrycontent p-2">
                 <div>
                     Is Protected by <a onclick="ResetSearch()" href="#Black Dragon">Black Dragon</a>
+                </div>
+                <div>
+                    Is Protected by <a onclick="ResetSearch()" href="#Brass Dragon">Brass Dragon</a>
+                </div>
+        </div>
+    </div>
+    <div class="m-1 tomeentry">
+        <div class="border rounded-top tomeentryname p-2"><a class="entryname" name="Tyranny" href="#Tyranny">Tyranny</a></div>
+        <div class="d-flex flex-column border rounded-bottom tomeentrycontent p-2">
+                <div>
+                    Is Enemy of <a onclick="ResetSearch()" href="#Bronze Dragon">Bronze Dragon</a>
                 </div>
         </div>
     </div>
     <div class="m-1 tomeentry">
         <div class="border rounded-top tomeentryname p-2"><a class="entryname" name="Vaults" href="#Vaults">Vaults</a></div>
-        <div class="border rounded-bottom tomeentrycontent p-2">
+        <div class="d-flex flex-column border rounded-bottom tomeentrycontent p-2">
                 <div>
                     Is Protected by <a onclick="ResetSearch()" href="#Abjurer">Abjurer</a>
                 </div>
@@ -610,7 +940,7 @@
     </div>
     <div class="m-1 tomeentry">
         <div class="border rounded-top tomeentryname p-2"><a class="entryname" name="Water" href="#Water">Water</a></div>
-        <div class="border rounded-bottom tomeentrycontent p-2">
+        <div class="d-flex flex-column border rounded-bottom tomeentrycontent p-2">
                 <div>
                     Is Superset of <a onclick="ResetSearch()" href="#Ocean">Ocean</a>
                 </div>
@@ -621,12 +951,31 @@
     </div>
     <div class="m-1 tomeentry">
         <div class="border rounded-top tomeentryname p-2"><a class="entryname" name="Wealthy" href="#Wealthy">Wealthy</a></div>
-        <div class="border rounded-bottom tomeentrycontent p-2">
+        <div class="d-flex flex-column border rounded-bottom tomeentrycontent p-2">
                 <div>
                     Is Employer of <a onclick="ResetSearch()" href="#Abjurer">Abjurer</a>
                 </div>
                 <div>
                     Is Found in <a onclick="ResetSearch()" href="#Castles">Castles</a>
+                </div>
+        </div>
+    </div>
+    <div class="m-1 tomeentry">
+        <div class="border rounded-top tomeentryname p-2"><a class="entryname" name="Weather" href="#Weather">Weather</a></div>
+        <div class="d-flex flex-column border rounded-bottom tomeentrycontent p-2">
+                <div>
+                    Is Superset of <a onclick="ResetSearch()" href="#Thunderstorm">Thunderstorm</a>
+                </div>
+                <div>
+                    Is Created by <a onclick="ResetSearch()" href="#Bronze Dragon">Bronze Dragon</a>
+                </div>
+        </div>
+    </div>
+    <div class="m-1 tomeentry">
+        <div class="border rounded-top tomeentryname p-2"><a class="entryname" name="Wizards" href="#Wizards">Wizards</a></div>
+        <div class="d-flex flex-column border rounded-bottom tomeentrycontent p-2">
+                <div>
+                    Is Hired by <a onclick="ResetSearch()" href="#Blue Dragon">Blue Dragon</a>
                 </div>
         </div>
     </div>
