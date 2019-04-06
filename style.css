@@ -15,7 +15,7 @@ html {
 body {
   overflow-x: hidden;
   font-family: 'Noto Sans', sans-serif;
-  background-color: #FFFFAA;
+  background-color: #EEE;
 }
 
 .dropdown-menu
@@ -92,7 +92,7 @@ body {
 
 .tomeentry .tomeentryname a
 {
-  color: white;
+  color: #FFF;
   font-weight: bold;
   display: block;
 }
@@ -176,7 +176,7 @@ body {
 
 .searchbar .wrapper
 {
-  background-color: #FFFFAA;
+  background-color: #EEE;
 }
 
 .searchbar .searchinput
@@ -187,12 +187,12 @@ body {
 {
   width: 24px;
   height: 24px;
-  background-color: #FFFFAA;
+  background-color: #EEE;
 }
 
 .searchbar .searchinput input
 {
-  background-color: #FFFFAA;
+  background-color: #EEE;
   margin: 0px;
   padding: 0px;
   width: 100%;
