@@ -587,1392 +587,1670 @@
     {
       "from": "Aarakocra",
       "to": "Air Elemental",
-      "direction": "mutual"
+      "type": "Summoner of",
+      "direction": "directed"
     },
     {
       "from": "Aarakocra",
       "to": "Gargoyle",
-      "direction": "mutual"
+      "type": "Enemy of",
+      "direction": "directed"
     },
     {
       "from": "Aarakocra",
       "to": "Elemental Plane of Air",
-      "direction": "mutual"
+      "type": "Protecting",
+      "direction": "directed"
     },
     {
       "from": "Aarakocra",
       "to": "Elemental Plane of Air",
-      "direction": "mutual"
+      "type": "Found in",
+      "direction": "directed"
     },
     {
       "from": "Aarakocra",
       "to": "Mountain Peaks",
-      "direction": "mutual"
+      "type": "Found in",
+      "direction": "directed"
     },
     {
       "from": "Abjurer",
       "to": "Vaults",
-      "direction": "mutual"
+      "type": "Protecting",
+      "direction": "directed"
     },
     {
       "from": "Abjurer",
       "to": "Castles",
-      "direction": "mutual"
+      "type": "Protecting",
+      "direction": "directed"
     },
     {
       "from": "Aboleth",
       "to": "Gods",
-      "direction": "mutual"
+      "type": "Enemy of",
+      "direction": "directed"
     },
     {
       "from": "Aboleth",
       "to": "Elemental Plane of Water",
-      "direction": "mutual"
+      "type": "Found in",
+      "direction": "directed"
     },
     {
       "from": "Aboleth",
       "to": "Lake",
-      "direction": "mutual"
+      "type": "Found in",
+      "direction": "directed"
     },
     {
       "from": "Aboleth",
       "to": "Ocean",
-      "direction": "mutual"
+      "type": "Found in",
+      "direction": "directed"
     },
     {
       "from": "Abominable Yeti",
       "to": "Alpine Peaks",
-      "direction": "mutual"
+      "type": "Found in",
+      "direction": "directed"
     },
     {
       "from": "Abominable Yeti",
       "to": "Beasts",
-      "direction": "mutual"
+      "type": "Hunter of",
+      "direction": "directed"
     },
     {
       "from": "Abominable Yeti",
       "to": "Abominable Yeti",
-      "direction": "mutual"
+      "type": "Hunter of",
+      "direction": "directed"
     },
     {
       "from": "Abominable Yeti",
       "to": "Humanoids",
-      "direction": "mutual"
+      "type": "Hunter of",
+      "direction": "directed"
     },
     {
       "from": "Acererak Demilich",
       "to": "Tomb",
-      "direction": "mutual"
+      "type": "Found in",
+      "direction": "directed"
     },
     {
       "from": "Air Elemental",
       "to": "Elemental Plane of Air",
-      "direction": "mutual"
+      "type": "Found in",
+      "direction": "directed"
     },
     {
       "from": "Air Elemental",
       "to": "Air Elemental Myrmidon",
-      "direction": "mutual"
+      "type": "Superset of",
+      "direction": "directed"
     },
     {
       "from": "Alhoon",
       "to": "Arcane Magic",
-      "direction": "mutual"
+      "type": "User of",
+      "direction": "directed"
     },
     {
       "from": "Alhoon",
       "to": "Periapt of Mind Trapping",
-      "direction": "mutual"
+      "type": "Maker of",
+      "direction": "directed"
     },
     {
       "from": "Alkilith",
       "to": "Portal to the Abyss",
-      "direction": "mutual"
+      "type": "Maker of",
+      "direction": "directed"
     },
     {
       "from": "Amnizu",
       "to": "River Styx",
-      "direction": "mutual"
+      "type": "Found in",
+      "direction": "directed"
     },
     {
       "from": "Amnizu",
       "to": "Nine Hells",
-      "direction": "mutual"
+      "type": "Found in",
+      "direction": "directed"
     },
     {
       "from": "Amnizu",
       "to": "Lemure",
-      "direction": "mutual"
+      "type": "Master of",
+      "direction": "directed"
     },
     {
       "from": "Amnizu",
       "to": "River Styx",
-      "direction": "mutual"
+      "type": "Protecting",
+      "direction": "directed"
     },
     {
       "from": "Androsphinx",
       "to": "Secrets",
-      "direction": "mutual"
+      "type": "Protecting",
+      "direction": "directed"
     },
     {
       "from": "Androsphinx",
       "to": "Treasures",
-      "direction": "mutual"
+      "type": "Protecting",
+      "direction": "directed"
     },
     {
       "from": "Androsphinx",
       "to": "Vaults",
-      "direction": "mutual"
+      "type": "Found in",
+      "direction": "directed"
     },
     {
       "from": "Androsphinx",
       "to": "Time Magic",
-      "direction": "mutual"
+      "type": "User of",
+      "direction": "directed"
     },
     {
       "from": "Ankheg",
       "to": "Forest",
-      "direction": "mutual"
+      "type": "Found in",
+      "direction": "directed"
     },
     {
       "from": "Ankheg",
       "to": "Livestock",
-      "direction": "mutual"
+      "type": "Hunter of",
+      "direction": "directed"
     },
     {
       "from": "Ankheg",
       "to": "Pastures",
-      "direction": "mutual"
+      "type": "Found in",
+      "direction": "directed"
     },
     {
       "from": "Ankheg",
       "to": "Tunnel",
-      "direction": "mutual"
+      "type": "Maker of",
+      "direction": "directed"
     },
     {
       "from": "Annis Hag",
       "to": "Hills",
-      "direction": "mutual"
+      "type": "Found in",
+      "direction": "directed"
     },
     {
       "from": "Annis Hag",
       "to": "Mountains",
-      "direction": "mutual"
+      "type": "Found in",
+      "direction": "directed"
     },
     {
       "from": "Annis Hag",
       "to": "Children",
-      "direction": "mutual"
+      "type": "Devourer of",
+      "direction": "directed"
     },
     {
       "from": "Annis Hag",
       "to": "Leather",
-      "direction": "mutual"
+      "type": "Maker of",
+      "direction": "directed"
     },
     {
       "from": "Annis Hag",
       "to": "Troll",
-      "direction": "mutual"
+      "type": "Master of",
+      "direction": "directed"
     },
     {
       "from": "Annis Hag",
       "to": "Ogre",
-      "direction": "mutual"
+      "type": "Master of",
+      "direction": "directed"
     },
     {
       "from": "Apprentice Wizard",
       "to": "School",
-      "direction": "mutual"
+      "type": "Found in",
+      "direction": "directed"
     },
     {
       "from": "Arcanaloth",
       "to": "Arcane Magic",
-      "direction": "mutual"
+      "type": "User of",
+      "direction": "directed"
     },
     {
       "from": "Arcanaloth",
       "to": "Yugoloths",
-      "direction": "mutual"
+      "type": "Master of",
+      "direction": "directed"
     },
     {
       "from": "Arcanaloth",
       "to": "Knowledge",
-      "direction": "mutual"
+      "type": "Seeker of",
+      "direction": "directed"
     },
     {
       "from": "Arcanaloth",
       "to": "Disguise",
-      "direction": "mutual"
+      "type": "User of",
+      "direction": "directed"
     },
     {
       "from": "Arcane Magic",
       "to": "Animated Armor",
-      "direction": "mutual"
+      "type": "Maker of",
+      "direction": "directed"
     },
     {
       "from": "Arcane Magic",
       "to": "Innate Magic",
-      "direction": "mutual"
+      "type": "Superset of",
+      "direction": "directed"
     },
     {
       "from": "Archdruid",
       "to": "Nature",
-      "direction": "mutual"
+      "type": "Protecting",
+      "direction": "directed"
     },
     {
       "from": "Archdruid",
       "to": "Druid",
-      "direction": "mutual"
+      "type": "Master of",
+      "direction": "directed"
     },
     {
       "from": "Archdruid",
       "to": "Beasts",
-      "direction": "mutual"
+      "type": "Ally of",
+      "direction": "directed"
     },
     {
       "from": "Archer",
       "to": "Castles",
-      "direction": "mutual"
+      "type": "Protecting",
+      "direction": "directed"
     },
     {
       "from": "Archer",
       "to": "Beasts",
-      "direction": "mutual"
+      "type": "Hunter of",
+      "direction": "directed"
     },
     {
       "from": "Archer",
       "to": "Caravans",
-      "direction": "mutual"
+      "type": "Protecting",
+      "direction": "directed"
     },
     {
       "from": "Archmage",
       "to": "Mage",
-      "direction": "mutual"
+      "type": "Master of",
+      "direction": "directed"
     },
     {
       "from": "Archmage",
       "to": "Arcane Magic",
-      "direction": "mutual"
+      "type": "User of",
+      "direction": "directed"
     },
     {
       "from": "Armanite",
       "to": "Abyss",
-      "direction": "mutual"
+      "type": "Found in",
+      "direction": "directed"
     },
     {
       "from": "Armanite",
       "to": "Innate Magic",
-      "direction": "mutual"
+      "type": "User of",
+      "direction": "directed"
     },
     {
       "from": "Armanite",
       "to": "Telepathic Contact",
-      "direction": "mutual"
+      "type": "User of",
+      "direction": "directed"
     },
     {
       "from": "Asmodeus, Lord of the Nine Hell",
       "to": "Devils",
-      "direction": "mutual"
+      "type": "Master of",
+      "direction": "directed"
     },
     {
       "from": "Asmodeus, Lord of the Nine Hell",
       "to": "Devils",
-      "direction": "mutual"
+      "type": "God of",
+      "direction": "directed"
     },
     {
       "from": "Asmodeus, Lord of the Nine Hell",
       "to": "Nine Hells",
-      "direction": "mutual"
+      "type": "Master of",
+      "direction": "directed"
     },
     {
       "from": "Asmodeus, Lord of the Nine Hell",
       "to": "Yugoloths",
-      "direction": "mutual"
+      "type": "Maker of",
+      "direction": "directed"
     },
     {
       "from": "Assassins",
       "to": "Poison",
-      "direction": "mutual"
+      "type": "User of",
+      "direction": "directed"
     },
     {
       "from": "Astral Dreadnought",
       "to": "Astral Plane",
-      "direction": "mutual"
+      "type": "Found in",
+      "direction": "directed"
     },
     {
       "from": "Astral Dreadnought",
       "to": "Demiplane",
-      "direction": "mutual"
+      "type": "Maker of",
+      "direction": "directed"
     },
     {
       "from": "Aurochs",
       "to": "Kazaht",
-      "direction": "mutual"
+      "type": "Superset of",
+      "direction": "directed"
     },
     {
       "from": "Bahamut the Platinum Dragon",
       "to": "Tiamat the Dragon Queen",
-      "direction": "mutual"
+      "type": "Enemy of",
+      "direction": "directed"
     },
     {
       "from": "Bahamut the Platinum Dragon",
       "to": "Metallic Dragons",
-      "direction": "mutual"
+      "type": "God of",
+      "direction": "directed"
     },
     {
       "from": "Bahgtru",
       "to": "Orc",
-      "direction": "mutual"
+      "type": "God of",
+      "direction": "directed"
     },
     {
       "from": "Bahgtru",
       "to": "Kazaht",
-      "direction": "mutual"
+      "type": "User of",
+      "direction": "directed"
     },
     {
       "from": "Beasts",
       "to": "Aurochs",
-      "direction": "mutual"
+      "type": "Superset of",
+      "direction": "directed"
     },
     {
       "from": "Black Dragon",
       "to": "Ruins",
-      "direction": "mutual"
+      "type": "Found in",
+      "direction": "directed"
     },
     {
       "from": "Black Dragon",
       "to": "Swamps",
-      "direction": "mutual"
+      "type": "Found in",
+      "direction": "directed"
     },
     {
       "from": "Black Dragon",
       "to": "Treasures",
-      "direction": "mutual"
+      "type": "Protecting",
+      "direction": "directed"
     },
     {
       "from": "Black Dragon",
       "to": "Dragons",
-      "direction": "mutual"
+      "type": "Afraid of",
+      "direction": "directed"
     },
     {
       "from": "Black Dragon",
       "to": "Lizardfolk",
-      "direction": "mutual"
+      "type": "Master of",
+      "direction": "directed"
     },
     {
       "from": "Black Dragon",
       "to": "Kobold",
-      "direction": "mutual"
+      "type": "Master of",
+      "direction": "directed"
     },
     {
       "from": "Blue Dragon",
       "to": "Desert",
-      "direction": "mutual"
+      "type": "Found in",
+      "direction": "directed"
     },
     {
       "from": "Blue Dragon",
       "to": "Crystalised Cavern",
-      "direction": "mutual"
+      "type": "Found in",
+      "direction": "directed"
     },
     {
       "from": "Blue Dragon",
       "to": "Thunderstorm",
-      "direction": "mutual"
+      "type": "Maker of",
+      "direction": "directed"
     },
     {
       "from": "Blue Dragon",
       "to": "Dust Devil",
-      "direction": "mutual"
+      "type": "Maker of",
+      "direction": "directed"
     },
     {
       "from": "Blue Dragon",
       "to": "Caravans",
-      "direction": "mutual"
+      "type": "Hunter of",
+      "direction": "directed"
     },
     {
       "from": "Blue Dragon",
       "to": "Brass Dragon",
-      "direction": "mutual"
+      "type": "Enemy of",
+      "direction": "directed"
     },
     {
       "from": "Blue Dragon",
       "to": "Bards",
-      "direction": "mutual"
+      "type": "Employer of",
+      "direction": "directed"
     },
     {
       "from": "Blue Dragon",
       "to": "Assassins",
-      "direction": "mutual"
+      "type": "Employer of",
+      "direction": "directed"
     },
     {
       "from": "Blue Dragon",
       "to": "Wizards",
-      "direction": "mutual"
+      "type": "Employer of",
+      "direction": "directed"
     },
     {
       "from": "Blue Dragon",
       "to": "Air Elemental",
-      "direction": "mutual"
+      "type": "Master of",
+      "direction": "directed"
     },
     {
       "from": "Blue Dragon",
       "to": "Gems",
-      "direction": "mutual"
+      "type": "Protecting",
+      "direction": "directed"
     },
     {
       "from": "Blue Dragon",
       "to": "Illusion",
-      "direction": "mutual"
+      "type": "Maker of",
+      "direction": "directed"
     },
     {
       "from": "Books of Keeping",
       "to": "Yugoloths",
-      "direction": "mutual"
+      "type": "Summoner of",
+      "direction": "directed"
     },
     {
       "from": "Brass Dragon",
       "to": "Desert",
-      "direction": "mutual"
+      "type": "Found in",
+      "direction": "directed"
     },
     {
       "from": "Brass Dragon",
       "to": "Sentient Items",
-      "direction": "mutual"
+      "type": "Protecting",
+      "direction": "directed"
     },
     {
       "from": "Brass Dragon",
       "to": "Treasures",
-      "direction": "mutual"
+      "type": "Protecting",
+      "direction": "directed"
     },
     {
       "from": "Bronze Dragon",
       "to": "Illusory Sounds",
-      "direction": "mutual"
+      "type": "Maker of",
+      "direction": "directed"
     },
     {
       "from": "Bronze Dragon",
       "to": "Weather",
-      "direction": "mutual"
+      "type": "Maker of",
+      "direction": "directed"
     },
     {
       "from": "Bronze Dragon",
       "to": "Tyranny",
-      "direction": "mutual"
+      "type": "Enemy of",
+      "direction": "directed"
     },
     {
       "from": "Bronze Dragon",
       "to": "Coasts",
-      "direction": "mutual"
+      "type": "Found in",
+      "direction": "directed"
     },
     {
       "from": "Cavern",
       "to": "Crystalised Cavern",
-      "direction": "mutual"
+      "type": "Superset of",
+      "direction": "directed"
     },
     {
       "from": "Cavern",
       "to": "Ice Cavern",
-      "direction": "mutual"
+      "type": "Superset of",
+      "direction": "directed"
     },
     {
       "from": "Chromatic Dragons",
       "to": "Black Dragon",
-      "direction": "mutual"
+      "type": "Superset of",
+      "direction": "directed"
     },
     {
       "from": "Chromatic Dragons",
       "to": "Dracolich",
-      "direction": "mutual"
+      "type": "Superset of",
+      "direction": "directed"
     },
     {
       "from": "Chromatic Dragons",
       "to": "Blue Dragon",
-      "direction": "mutual"
+      "type": "Superset of",
+      "direction": "directed"
     },
     {
       "from": "Chromatic Dragons",
       "to": "Green Dragon",
-      "direction": "mutual"
+      "type": "Superset of",
+      "direction": "directed"
     },
     {
       "from": "Chromatic Dragons",
       "to": "Red Dragon",
-      "direction": "mutual"
+      "type": "Superset of",
+      "direction": "directed"
     },
     {
       "from": "Chromatic Dragons",
       "to": "White Dragon",
-      "direction": "mutual"
+      "type": "Superset of",
+      "direction": "directed"
     },
     {
       "from": "Clergy",
       "to": "Acolyte",
-      "direction": "mutual"
+      "type": "Composed of",
+      "direction": "directed"
     },
     {
       "from": "Clergy",
       "to": "Priest",
-      "direction": "mutual"
+      "type": "Composed of",
+      "direction": "directed"
     },
     {
       "from": "Copper Dragon",
       "to": "Jokes",
-      "direction": "mutual"
+      "type": "Maker of",
+      "direction": "directed"
     },
     {
       "from": "Copper Dragon",
       "to": "Pranks",
-      "direction": "mutual"
+      "type": "Maker of",
+      "direction": "directed"
     },
     {
       "from": "Copper Dragon",
       "to": "Hills",
-      "direction": "mutual"
+      "type": "Found in",
+      "direction": "directed"
     },
     {
       "from": "Copper Dragon",
       "to": "Bards",
-      "direction": "mutual"
+      "type": "Ally of",
+      "direction": "directed"
     },
     {
       "from": "Copper Dragon",
       "to": "Gems",
-      "direction": "mutual"
+      "type": "Protecting",
+      "direction": "directed"
     },
     {
       "from": "Copper Dragon",
       "to": "Metallic Items",
-      "direction": "mutual"
+      "type": "Protecting",
+      "direction": "directed"
     },
     {
       "from": "Curse",
       "to": "Allip",
-      "direction": "mutual"
+      "type": "Transformed into",
+      "direction": "directed"
     },
     {
       "from": "Demilich",
       "to": "Acererak Demilich",
-      "direction": "mutual"
+      "type": "Superset of",
+      "direction": "directed"
     },
     {
       "from": "Demilich",
       "to": "Tomb",
-      "direction": "mutual"
+      "type": "Found in",
+      "direction": "directed"
     },
     {
       "from": "Demons",
       "to": "Gargoyle",
-      "direction": "mutual"
+      "type": "Master of",
+      "direction": "directed"
     },
     {
       "from": "Demons",
       "to": "Armanite",
-      "direction": "mutual"
+      "type": "Master of",
+      "direction": "directed"
     },
     {
       "from": "Demons",
       "to": "Armanite",
-      "direction": "mutual"
+      "type": "Superset of",
+      "direction": "directed"
     },
     {
       "from": "Dinosaurs",
       "to": "Allosaurus",
-      "direction": "mutual"
+      "type": "Superset of",
+      "direction": "directed"
     },
     {
       "from": "Dinosaurs",
       "to": "Ankylosaurus",
-      "direction": "mutual"
+      "type": "Superset of",
+      "direction": "directed"
     },
     {
       "from": "Dracolich",
       "to": "Greedy",
-      "direction": "mutual"
+      "type": "Master of",
+      "direction": "directed"
     },
     {
       "from": "Dracolich Phylactery",
       "to": "Dracolich",
-      "direction": "mutual"
+      "type": "Protecting",
+      "direction": "directed"
     },
     {
       "from": "Dragons",
       "to": "Chromatic Dragons",
-      "direction": "mutual"
+      "type": "Superset of",
+      "direction": "directed"
     },
     {
       "from": "Dragons",
       "to": "Metallic Dragons",
-      "direction": "mutual"
+      "type": "Superset of",
+      "direction": "directed"
     },
     {
       "from": "Eladrin",
       "to": "Feywild",
-      "direction": "mutual"
+      "type": "Found in",
+      "direction": "directed"
     },
     {
       "from": "Eladrin",
       "to": "Noble Eladrin",
-      "direction": "mutual"
+      "type": "Superset of",
+      "direction": "directed"
     },
     {
       "from": "Eladrin",
       "to": "High Elf",
-      "direction": "mutual"
+      "type": "Superset of",
+      "direction": "directed"
     },
     {
       "from": "Elemental",
       "to": "Air Elemental",
-      "direction": "mutual"
+      "type": "Superset of",
+      "direction": "directed"
     },
     {
       "from": "Elves",
       "to": "High Elf",
-      "direction": "mutual"
+      "type": "Superset of",
+      "direction": "directed"
     },
     {
       "from": "Farmer",
       "to": "Ankheg",
-      "direction": "mutual"
+      "type": "Enemy of",
+      "direction": "directed"
     },
     {
       "from": "Farmer",
       "to": "Pastures",
-      "direction": "mutual"
+      "type": "Maker of",
+      "direction": "directed"
     },
     {
       "from": "Farmer",
       "to": "Livestock",
-      "direction": "mutual"
+      "type": "Master of",
+      "direction": "directed"
     },
     {
       "from": "Fey",
       "to": "Feywild",
-      "direction": "mutual"
+      "type": "Found in",
+      "direction": "directed"
     },
     {
       "from": "Frost Giant",
       "to": "White Dragon",
-      "direction": "mutual"
+      "type": "Master of",
+      "direction": "directed"
     },
     {
       "from": "Gargoyle",
       "to": "Castles",
-      "direction": "mutual"
+      "type": "Protecting",
+      "direction": "directed"
     },
     {
       "from": "Gargoyle",
       "to": "Elemental Plane of Earth",
-      "direction": "mutual"
+      "type": "Found in",
+      "direction": "directed"
     },
     {
       "from": "General of Gehenna",
       "to": "Gehenna",
-      "direction": "mutual"
+      "type": "Found in",
+      "direction": "directed"
     },
     {
       "from": "General of Gehenna",
       "to": "Yugoloths",
-      "direction": "mutual"
+      "type": "Master of",
+      "direction": "directed"
     },
     {
       "from": "Githyanki",
       "to": "Astral Dreadnought",
-      "direction": "mutual"
+      "type": "Hunter of",
+      "direction": "directed"
     },
     {
       "from": "Gods",
       "to": "Androsphinx",
-      "direction": "mutual"
+      "type": "Master of",
+      "direction": "directed"
     },
     {
       "from": "Gold Dragon",
       "to": "Gems",
-      "direction": "mutual"
+      "type": "Devourer of",
+      "direction": "directed"
     },
     {
       "from": "Gold Dragon",
       "to": "Pearls",
-      "direction": "mutual"
+      "type": "Devourer of",
+      "direction": "directed"
     },
     {
       "from": "Gold Dragon",
       "to": "Treasures",
-      "direction": "mutual"
+      "type": "Devourer of",
+      "direction": "directed"
     },
     {
       "from": "Gold Dragon",
       "to": "Vaults",
-      "direction": "mutual"
+      "type": "Protecting",
+      "direction": "directed"
     },
     {
       "from": "Gold Dragon",
       "to": "Treasures",
-      "direction": "mutual"
+      "type": "Protecting",
+      "direction": "directed"
     },
     {
       "from": "Gold Dragon",
       "to": "Mist",
-      "direction": "mutual"
+      "type": "Maker of",
+      "direction": "directed"
     },
     {
       "from": "Gold Dragon",
       "to": "Telepathic Contact",
-      "direction": "mutual"
+      "type": "User of",
+      "direction": "directed"
     },
     {
       "from": "Greedy",
       "to": "Yugoloths",
-      "direction": "mutual"
+      "type": "Superset of",
+      "direction": "directed"
     },
     {
       "from": "Green Dragon",
       "to": "Treachery",
-      "direction": "mutual"
+      "type": "Maker of",
+      "direction": "directed"
     },
     {
       "from": "Green Dragon",
       "to": "Forest",
-      "direction": "mutual"
+      "type": "Found in",
+      "direction": "directed"
     },
     {
       "from": "Green Dragon",
       "to": "Treasures",
-      "direction": "mutual"
+      "type": "Protecting",
+      "direction": "directed"
     },
     {
       "from": "Green Dragon",
       "to": "Elves",
-      "direction": "mutual"
+      "type": "Hunter of",
+      "direction": "directed"
     },
     {
       "from": "Green Dragon",
       "to": "Bugbear",
-      "direction": "mutual"
+      "type": "Master of",
+      "direction": "directed"
     },
     {
       "from": "Green Dragon",
       "to": "Goblin",
-      "direction": "mutual"
+      "type": "Master of",
+      "direction": "directed"
     },
     {
       "from": "Green Dragon",
       "to": "Hobgoblin",
-      "direction": "mutual"
+      "type": "Master of",
+      "direction": "directed"
     },
     {
       "from": "Green Dragon",
       "to": "Ettercap",
-      "direction": "mutual"
+      "type": "Master of",
+      "direction": "directed"
     },
     {
       "from": "Green Dragon",
       "to": "Ettin",
-      "direction": "mutual"
+      "type": "Master of",
+      "direction": "directed"
     },
     {
       "from": "Green Dragon",
       "to": "Kobold",
-      "direction": "mutual"
+      "type": "Master of",
+      "direction": "directed"
     },
     {
       "from": "Green Dragon",
       "to": "Orc",
-      "direction": "mutual"
+      "type": "Master of",
+      "direction": "directed"
     },
     {
       "from": "Green Dragon",
       "to": "Yuan-ti",
-      "direction": "mutual"
+      "type": "Master of",
+      "direction": "directed"
     },
     {
       "from": "Green Dragon",
       "to": "Emeralds",
-      "direction": "mutual"
+      "type": "Protecting",
+      "direction": "directed"
     },
     {
       "from": "Gruumsh",
       "to": "Bahgtru",
-      "direction": "mutual"
+      "type": "Parent of",
+      "direction": "directed"
     },
     {
       "from": "Gruumsh",
       "to": "Orc",
-      "direction": "mutual"
+      "type": "God of",
+      "direction": "directed"
     },
     {
       "from": "Hags",
       "to": "Annis Hag",
-      "direction": "mutual"
+      "type": "Superset of",
+      "direction": "directed"
     },
     {
       "from": "Hags",
       "to": "Night Hag",
-      "direction": "mutual"
+      "type": "Superset of",
+      "direction": "directed"
     },
     {
       "from": "Inner Planes",
       "to": "Elemental Plane of Air",
-      "direction": "mutual"
+      "type": "Superset of",
+      "direction": "directed"
     },
     {
       "from": "Inner Planes",
       "to": "Elemental Plane of Earth",
-      "direction": "mutual"
+      "type": "Superset of",
+      "direction": "directed"
     },
     {
       "from": "Inner Planes",
       "to": "Elemental Plane of Water",
-      "direction": "mutual"
+      "type": "Superset of",
+      "direction": "directed"
     },
     {
       "from": "Inner Planes",
       "to": "Elemental Plane of Fire",
-      "direction": "mutual"
+      "type": "Superset of",
+      "direction": "directed"
     },
     {
       "from": "Juiblex",
       "to": "Alkilith",
-      "direction": "mutual"
+      "type": "Maker of",
+      "direction": "directed"
     },
     {
       "from": "Kruthik",
       "to": "Kruthik Corpse",
-      "direction": "mutual"
+      "type": "Afraid of",
+      "direction": "directed"
     },
     {
       "from": "Kruthik",
       "to": "Kruthik Eggs",
-      "direction": "mutual"
+      "type": "Protecting",
+      "direction": "directed"
     },
     {
       "from": "Kruthik",
       "to": "Tunnel",
-      "direction": "mutual"
+      "type": "Found in",
+      "direction": "directed"
     },
     {
       "from": "Kruthik",
       "to": "Heat",
-      "direction": "mutual"
+      "type": "Seeker of",
+      "direction": "directed"
     },
     {
       "from": "Lich",
       "to": "Demilich",
-      "direction": "mutual"
+      "type": "Transformed into",
+      "direction": "directed"
     },
     {
       "from": "Lich",
       "to": "Dracolich",
-      "direction": "mutual"
+      "type": "Superset of",
+      "direction": "directed"
     },
     {
       "from": "Livestock",
       "to": "Pastures",
-      "direction": "mutual"
+      "type": "Found in",
+      "direction": "directed"
     },
     {
       "from": "Lower Planes",
       "to": "River Styx",
-      "direction": "mutual"
+      "type": "Superset of",
+      "direction": "directed"
     },
     {
       "from": "Lower Planes",
       "to": "Nine Hells",
-      "direction": "mutual"
+      "type": "Superset of",
+      "direction": "directed"
     },
     {
       "from": "Lower Planes",
       "to": "Gehenna",
-      "direction": "mutual"
+      "type": "Superset of",
+      "direction": "directed"
     },
     {
       "from": "Lower Planes",
       "to": "Acheron",
-      "direction": "mutual"
+      "type": "Superset of",
+      "direction": "directed"
     },
     {
       "from": "Lower Planes",
       "to": "Hades",
-      "direction": "mutual"
+      "type": "Superset of",
+      "direction": "directed"
     },
     {
       "from": "Lower Planes",
       "to": "Carceri",
-      "direction": "mutual"
+      "type": "Superset of",
+      "direction": "directed"
     },
     {
       "from": "Lower Planes",
       "to": "Abyss",
-      "direction": "mutual"
+      "type": "Superset of",
+      "direction": "directed"
     },
     {
       "from": "Luthic",
       "to": "Bahgtru",
-      "direction": "mutual"
+      "type": "Parent of",
+      "direction": "directed"
     },
     {
       "from": "Luthic",
       "to": "Orc",
-      "direction": "mutual"
+      "type": "God of",
+      "direction": "directed"
     },
     {
       "from": "Mage",
       "to": "Arcane Magic",
-      "direction": "mutual"
+      "type": "User of",
+      "direction": "directed"
     },
     {
       "from": "Metallic Dragons",
       "to": "Brass Dragon",
-      "direction": "mutual"
+      "type": "Superset of",
+      "direction": "directed"
     },
     {
       "from": "Metallic Dragons",
       "to": "Bronze Dragon",
-      "direction": "mutual"
+      "type": "Superset of",
+      "direction": "directed"
     },
     {
       "from": "Metallic Dragons",
       "to": "Copper Dragon",
-      "direction": "mutual"
+      "type": "Superset of",
+      "direction": "directed"
     },
     {
       "from": "Metallic Dragons",
       "to": "Gold Dragon",
-      "direction": "mutual"
+      "type": "Superset of",
+      "direction": "directed"
     },
     {
       "from": "Metallic Dragons",
       "to": "Silver Dragon",
-      "direction": "mutual"
+      "type": "Superset of",
+      "direction": "directed"
     },
     {
       "from": "Mind Flayer",
       "to": "Oblex",
-      "direction": "mutual"
+      "type": "Maker of",
+      "direction": "directed"
     },
     {
       "from": "Mind Flayer",
       "to": "Alhoon",
-      "direction": "mutual"
+      "type": "Superset of",
+      "direction": "directed"
     },
     {
       "from": "Mine",
       "to": "Abandoned Mine",
-      "direction": "mutual"
+      "type": "Superset of",
+      "direction": "directed"
     },
     {
       "from": "Miners",
       "to": "Mine",
-      "direction": "mutual"
+      "type": "Maker of",
+      "direction": "directed"
     },
     {
       "from": "Miners",
       "to": "Mine",
-      "direction": "mutual"
+      "type": "Found in",
+      "direction": "directed"
     },
     {
       "from": "Mountain Peaks",
       "to": "Alpine Peaks",
-      "direction": "mutual"
+      "type": "Superset of",
+      "direction": "directed"
     },
     {
       "from": "Mountains",
       "to": "Mountain Peaks",
-      "direction": "mutual"
+      "type": "Superset of",
+      "direction": "directed"
     },
     {
       "from": "Night Hag",
       "to": "Yugoloths",
-      "direction": "mutual"
+      "type": "Maker of",
+      "direction": "directed"
     },
     {
       "from": "Night Hag",
       "to": "Gehenna",
-      "direction": "mutual"
+      "type": "Found in",
+      "direction": "directed"
     },
     {
       "from": "Night Hag",
       "to": "Books of Keeping",
-      "direction": "mutual"
+      "type": "Maker of",
+      "direction": "directed"
     },
     {
       "from": "Night Hag",
       "to": "General of Gehenna",
-      "direction": "mutual"
+      "type": "Maker of",
+      "direction": "directed"
     },
     {
       "from": "Noble Eladrin",
       "to": "Autumn Eladrin",
-      "direction": "mutual"
+      "type": "Superset of",
+      "direction": "directed"
     },
     {
       "from": "Oblex",
       "to": "Memories",
-      "direction": "mutual"
+      "type": "Hunter of",
+      "direction": "directed"
     },
     {
       "from": "Oblex",
       "to": "Duplicate",
-      "direction": "mutual"
+      "type": "Maker of",
+      "direction": "directed"
     },
     {
       "from": "Ogrémoch",
       "to": "Gargoyle",
-      "direction": "mutual"
+      "type": "Maker of",
+      "direction": "directed"
     },
     {
       "from": "Ogrémoch",
       "to": "Miners",
-      "direction": "mutual"
+      "type": "Enemy of",
+      "direction": "directed"
     },
     {
       "from": "Ogrémoch",
       "to": "Elemental Plane of Earth",
-      "direction": "mutual"
+      "type": "Found in",
+      "direction": "directed"
     },
     {
       "from": "Ooze",
       "to": "Oblex",
-      "direction": "mutual"
+      "type": "Transformed into",
+      "direction": "directed"
     },
     {
       "from": "Ooze",
       "to": "Alkilith",
-      "direction": "mutual"
+      "type": "Superset of",
+      "direction": "directed"
     },
     {
       "from": "Orc",
       "to": "Aurochs",
-      "direction": "mutual"
+      "type": "Ally of",
+      "direction": "directed"
     },
     {
       "from": "Outer Planes",
       "to": "Upper Planes",
-      "direction": "mutual"
+      "type": "Superset of",
+      "direction": "directed"
     },
     {
       "from": "Outer Planes",
       "to": "Lower Planes",
-      "direction": "mutual"
+      "type": "Superset of",
+      "direction": "directed"
     },
     {
       "from": "Phylactery",
       "to": "Acererak Demilich",
-      "direction": "mutual"
+      "type": "Protecting",
+      "direction": "directed"
     },
     {
       "from": "Phylactery",
       "to": "Demilich",
-      "direction": "mutual"
+      "type": "Protecting",
+      "direction": "directed"
     },
     {
       "from": "Phylactery",
       "to": "Lich",
-      "direction": "mutual"
+      "type": "Protecting",
+      "direction": "directed"
     },
     {
       "from": "Phylactery",
       "to": "Dracolich Phylactery",
-      "direction": "mutual"
+      "type": "Superset of",
+      "direction": "directed"
     },
     {
       "from": "Planes",
       "to": "Inner Planes",
-      "direction": "mutual"
+      "type": "Superset of",
+      "direction": "directed"
     },
     {
       "from": "Planes",
       "to": "Outer Planes",
-      "direction": "mutual"
+      "type": "Superset of",
+      "direction": "directed"
     },
     {
       "from": "Planes",
       "to": "Transitive Planes",
-      "direction": "mutual"
+      "type": "Superset of",
+      "direction": "directed"
     },
     {
       "from": "Planes",
       "to": "Demiplane",
-      "direction": "mutual"
+      "type": "Superset of",
+      "direction": "directed"
     },
     {
       "from": "Portal to Elemental Plane of Fire",
       "to": "Elemental Plane of Fire",
-      "direction": "mutual"
+      "type": "Seeker of",
+      "direction": "directed"
     },
     {
       "from": "Portal to the Abyss",
       "to": "Abyss",
-      "direction": "mutual"
+      "type": "Seeker of",
+      "direction": "directed"
     },
     {
       "from": "Priest",
       "to": "Acolyte",
-      "direction": "mutual"
+      "type": "Master of",
+      "direction": "directed"
     },
     {
       "from": "Red Dragon",
       "to": "Treasures",
-      "direction": "mutual"
+      "type": "Protecting",
+      "direction": "directed"
     },
     {
       "from": "Red Dragon",
       "to": "Tyranny",
-      "direction": "mutual"
+      "type": "User of",
+      "direction": "directed"
     },
     {
       "from": "Red Dragon",
       "to": "Mountains",
-      "direction": "mutual"
+      "type": "Found in",
+      "direction": "directed"
     },
     {
       "from": "Red Dragon",
       "to": "Cavern",
-      "direction": "mutual"
+      "type": "Found in",
+      "direction": "directed"
     },
     {
       "from": "Red Dragon",
       "to": "Abandoned Mine",
-      "direction": "mutual"
+      "type": "Found in",
+      "direction": "directed"
     },
     {
       "from": "Red Dragon",
       "to": "Heat",
-      "direction": "mutual"
+      "type": "Seeker of",
+      "direction": "directed"
     },
     {
       "from": "Red Dragon",
       "to": "Earthquakes",
-      "direction": "mutual"
+      "type": "Maker of",
+      "direction": "directed"
     },
     {
       "from": "Red Dragon",
       "to": "Portal to Elemental Plane of Fire",
-      "direction": "mutual"
+      "type": "Maker of",
+      "direction": "directed"
     },
     {
       "from": "Red Dragon",
       "to": "Humanoids",
-      "direction": "mutual"
+      "type": "Master of",
+      "direction": "directed"
     },
     {
       "from": "Secrets",
       "to": "Allip",
-      "direction": "mutual"
+      "type": "Found in",
+      "direction": "directed"
     },
     {
       "from": "Secrets",
       "to": "Books of Keeping",
-      "direction": "mutual"
+      "type": "Found in",
+      "direction": "directed"
     },
     {
       "from": "Silver Dragon",
       "to": "Humanoids",
-      "direction": "mutual"
+      "type": "Ally of",
+      "direction": "directed"
     },
     {
       "from": "Silver Dragon",
       "to": "Alpine Peaks",
-      "direction": "mutual"
+      "type": "Found in",
+      "direction": "directed"
     },
     {
       "from": "Silver Dragon",
       "to": "Cavern",
-      "direction": "mutual"
+      "type": "Found in",
+      "direction": "directed"
     },
     {
       "from": "Silver Dragon",
       "to": "Abandoned Mine",
-      "direction": "mutual"
+      "type": "Found in",
+      "direction": "directed"
     },
     {
       "from": "Silver Dragon",
       "to": "Historic Relics",
-      "direction": "mutual"
+      "type": "Seeker of",
+      "direction": "directed"
     },
     {
       "from": "Silver Dragon",
       "to": "Weather",
-      "direction": "mutual"
+      "type": "Maker of",
+      "direction": "directed"
     },
     {
       "from": "Silver Dragon",
       "to": "Wind",
-      "direction": "mutual"
+      "type": "Maker of",
+      "direction": "directed"
     },
     {
       "from": "Silver Dragon",
       "to": "Solid Clouds",
-      "direction": "mutual"
+      "type": "Maker of",
+      "direction": "directed"
     },
     {
       "from": "Sinkhole",
       "to": "Blue Dragon",
-      "direction": "mutual"
+      "type": "Protecting",
+      "direction": "directed"
     },
     {
       "from": "Sisterhood",
       "to": "Hags",
-      "direction": "mutual"
+      "type": "Composed of",
+      "direction": "directed"
     },
     {
       "from": "Souls",
       "to": "Periapt of Mind Trapping",
-      "direction": "mutual"
+      "type": "Found in",
+      "direction": "directed"
     },
     {
       "from": "Souls",
       "to": "Phylactery",
-      "direction": "mutual"
+      "type": "Found in",
+      "direction": "directed"
     },
     {
       "from": "Spellcasters",
       "to": "Gargoyle",
-      "direction": "mutual"
+      "type": "Master of",
+      "direction": "directed"
     },
     {
       "from": "Spellcasters",
       "to": "Abjurer",
-      "direction": "mutual"
+      "type": "Superset of",
+      "direction": "directed"
     },
     {
       "from": "Tharizdun, the Chained God",
       "to": "Astral Dreadnought",
-      "direction": "mutual"
+      "type": "Maker of",
+      "direction": "directed"
     },
     {
       "from": "Tiamat the Dragon Queen",
       "to": "Chromatic Dragons",
-      "direction": "mutual"
+      "type": "God of",
+      "direction": "directed"
     },
     {
       "from": "Transitive Planes",
       "to": "Astral Plane",
-      "direction": "mutual"
+      "type": "Superset of",
+      "direction": "directed"
     },
     {
       "from": "Transitive Planes",
       "to": "Ethereal Plane",
-      "direction": "mutual"
+      "type": "Superset of",
+      "direction": "directed"
     },
     {
       "from": "Vaults",
       "to": "Treasures",
-      "direction": "mutual"
+      "type": "Protecting",
+      "direction": "directed"
     },
     {
       "from": "Water",
       "to": "Ocean",
-      "direction": "mutual"
+      "type": "Superset of",
+      "direction": "directed"
     },
     {
       "from": "Water",
       "to": "Lake",
-      "direction": "mutual"
+      "type": "Superset of",
+      "direction": "directed"
     },
     {
       "from": "Wealthy",
       "to": "Abjurer",
-      "direction": "mutual"
+      "type": "Employer of",
+      "direction": "directed"
     },
     {
       "from": "Wealthy",
       "to": "Castles",
-      "direction": "mutual"
+      "type": "Found in",
+      "direction": "directed"
     },
     {
       "from": "Wealthy",
       "to": "Treasures",
-      "direction": "mutual"
+      "type": "Seeker of",
+      "direction": "directed"
     },
     {
       "from": "Wealthy",
       "to": "Assassins",
-      "direction": "mutual"
+      "type": "Employer of",
+      "direction": "directed"
     },
     {
       "from": "Weather",
       "to": "Thunderstorm",
-      "direction": "mutual"
+      "type": "Superset of",
+      "direction": "directed"
     },
     {
       "from": "White Dragon",
       "to": "Alpine Peaks",
-      "direction": "mutual"
+      "type": "Found in",
+      "direction": "directed"
     },
     {
       "from": "White Dragon",
       "to": "Frozen Corpses",
-      "direction": "mutual"
+      "type": "Maker of",
+      "direction": "directed"
     },
     {
       "from": "White Dragon",
       "to": "Frozen Corpses",
-      "direction": "mutual"
+      "type": "Devourer of",
+      "direction": "directed"
     },
     {
       "from": "White Dragon",
       "to": "Kobold",
-      "direction": "mutual"
+      "type": "Master of",
+      "direction": "directed"
     },
     {
       "from": "White Dragon",
       "to": "Treasures",
-      "direction": "mutual"
+      "type": "Protecting",
+      "direction": "directed"
     },
     {
       "from": "White Dragon",
       "to": "Ice Cavern",
-      "direction": "mutual"
+      "type": "Found in",
+      "direction": "directed"
     },
     {
       "from": "Wizards",
       "to": "Air Elemental Myrmidon",
-      "direction": "mutual"
+      "type": "Summoner of",
+      "direction": "directed"
     },
     {
       "from": "Wizards",
       "to": "Air Elemental Myrmidon",
-      "direction": "mutual"
+      "type": "Master of",
+      "direction": "directed"
     },
     {
       "from": "Wizards",
       "to": "Arcane Magic",
-      "direction": "mutual"
+      "type": "User of",
+      "direction": "directed"
     },
     {
       "from": "Wizards",
       "to": "Apprentice Wizard",
-      "direction": "mutual"
+      "type": "Master of",
+      "direction": "directed"
     },
     {
       "from": "Yugoloths",
       "to": "Arcanaloth",
-      "direction": "mutual"
+      "type": "Superset of",
+      "direction": "directed"
     },
     {
       "from": "Yugoloths",
       "to": "Gehenna",
-      "direction": "mutual"
+      "type": "Found in",
+      "direction": "directed"
     },
     {
       "from": "Yugoloths",
       "to": "Acheron",
-      "direction": "mutual"
+      "type": "Found in",
+      "direction": "directed"
     },
     {
       "from": "Yugoloths",
       "to": "Hades",
-      "direction": "mutual"
+      "type": "Found in",
+      "direction": "directed"
     },
     {
       "from": "Yugoloths",
       "to": "Carceri",
-      "direction": "mutual"
+      "type": "Found in",
+      "direction": "directed"
     },
     {
       "from": "Yugoloths",
       "to": "Books of Keeping",
-      "direction": "mutual"
+      "type": "Afraid of",
+      "direction": "directed"
     }
   ]
 }
