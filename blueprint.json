@@ -1,0 +1,1978 @@
+{
+  "elements": [
+    {
+      "label": "Aarakocra"
+    },
+    {
+      "label": "Abandoned Mine"
+    },
+    {
+      "label": "Abjurer"
+    },
+    {
+      "label": "Aboleth"
+    },
+    {
+      "label": "Abominable Yeti"
+    },
+    {
+      "label": "Abyss"
+    },
+    {
+      "label": "Acererak Demilich"
+    },
+    {
+      "label": "Acheron"
+    },
+    {
+      "label": "Acolyte"
+    },
+    {
+      "label": "Air Elemental"
+    },
+    {
+      "label": "Air Elemental Myrmidon"
+    },
+    {
+      "label": "Alhoon"
+    },
+    {
+      "label": "Alkilith"
+    },
+    {
+      "label": "Allip"
+    },
+    {
+      "label": "Allosaurus"
+    },
+    {
+      "label": "Alpine Peaks"
+    },
+    {
+      "label": "Amnizu"
+    },
+    {
+      "label": "Androsphinx"
+    },
+    {
+      "label": "Animated Armor"
+    },
+    {
+      "label": "Ankheg"
+    },
+    {
+      "label": "Ankylosaurus"
+    },
+    {
+      "label": "Annis Hag"
+    },
+    {
+      "label": "Apprentice Wizard"
+    },
+    {
+      "label": "Arcanaloth"
+    },
+    {
+      "label": "Arcane Magic"
+    },
+    {
+      "label": "Archdruid"
+    },
+    {
+      "label": "Archer"
+    },
+    {
+      "label": "Archmage"
+    },
+    {
+      "label": "Armanite"
+    },
+    {
+      "label": "Asmodeus, Lord of the Nine Hell"
+    },
+    {
+      "label": "Assassins"
+    },
+    {
+      "label": "Astral Dreadnought"
+    },
+    {
+      "label": "Astral Plane"
+    },
+    {
+      "label": "Aurochs"
+    },
+    {
+      "label": "Autumn Eladrin"
+    },
+    {
+      "label": "Bahamut the Platinum Dragon"
+    },
+    {
+      "label": "Bahgtru"
+    },
+    {
+      "label": "Bards"
+    },
+    {
+      "label": "Beasts"
+    },
+    {
+      "label": "Black Dragon"
+    },
+    {
+      "label": "Blue Dragon"
+    },
+    {
+      "label": "Books of Keeping"
+    },
+    {
+      "label": "Brass Dragon"
+    },
+    {
+      "label": "Bronze Dragon"
+    },
+    {
+      "label": "Bugbear"
+    },
+    {
+      "label": "Caravans"
+    },
+    {
+      "label": "Carceri"
+    },
+    {
+      "label": "Castles"
+    },
+    {
+      "label": "Cavern"
+    },
+    {
+      "label": "Children"
+    },
+    {
+      "label": "Chromatic Dragons"
+    },
+    {
+      "label": "Clergy"
+    },
+    {
+      "label": "Coasts"
+    },
+    {
+      "label": "Copper Dragon"
+    },
+    {
+      "label": "Crystalised Cavern"
+    },
+    {
+      "label": "Curse"
+    },
+    {
+      "label": "Demilich"
+    },
+    {
+      "label": "Demiplane"
+    },
+    {
+      "label": "Demons"
+    },
+    {
+      "label": "Desert"
+    },
+    {
+      "label": "Devils"
+    },
+    {
+      "label": "Dinosaurs"
+    },
+    {
+      "label": "Disguise"
+    },
+    {
+      "label": "Dracolich"
+    },
+    {
+      "label": "Dracolich Phylactery"
+    },
+    {
+      "label": "Dragons"
+    },
+    {
+      "label": "Druid"
+    },
+    {
+      "label": "Duplicate"
+    },
+    {
+      "label": "Dust Devil"
+    },
+    {
+      "label": "Earthquakes"
+    },
+    {
+      "label": "Eladrin"
+    },
+    {
+      "label": "Elemental"
+    },
+    {
+      "label": "Elemental Plane of Air"
+    },
+    {
+      "label": "Elemental Plane of Earth"
+    },
+    {
+      "label": "Elemental Plane of Fire"
+    },
+    {
+      "label": "Elemental Plane of Water"
+    },
+    {
+      "label": "Elves"
+    },
+    {
+      "label": "Emeralds"
+    },
+    {
+      "label": "Ethereal Plane"
+    },
+    {
+      "label": "Ettercap"
+    },
+    {
+      "label": "Ettin"
+    },
+    {
+      "label": "Farmer"
+    },
+    {
+      "label": "Fey"
+    },
+    {
+      "label": "Feywild"
+    },
+    {
+      "label": "Forest"
+    },
+    {
+      "label": "Frost Giant"
+    },
+    {
+      "label": "Frozen Corpses"
+    },
+    {
+      "label": "Gargoyle"
+    },
+    {
+      "label": "Gehenna"
+    },
+    {
+      "label": "Gems"
+    },
+    {
+      "label": "General of Gehenna"
+    },
+    {
+      "label": "Githyanki"
+    },
+    {
+      "label": "Goblin"
+    },
+    {
+      "label": "Gods"
+    },
+    {
+      "label": "Gold Dragon"
+    },
+    {
+      "label": "Greedy"
+    },
+    {
+      "label": "Green Dragon"
+    },
+    {
+      "label": "Gruumsh"
+    },
+    {
+      "label": "Hades"
+    },
+    {
+      "label": "Hags"
+    },
+    {
+      "label": "Heat"
+    },
+    {
+      "label": "High Elf"
+    },
+    {
+      "label": "Hills"
+    },
+    {
+      "label": "Historic Relics"
+    },
+    {
+      "label": "Hobgoblin"
+    },
+    {
+      "label": "Humanoids"
+    },
+    {
+      "label": "Ice Cavern"
+    },
+    {
+      "label": "Illusion"
+    },
+    {
+      "label": "Illusory Sounds"
+    },
+    {
+      "label": "Innate Magic"
+    },
+    {
+      "label": "Inner Planes"
+    },
+    {
+      "label": "Jokes"
+    },
+    {
+      "label": "Juiblex"
+    },
+    {
+      "label": "Kazaht"
+    },
+    {
+      "label": "Knowledge"
+    },
+    {
+      "label": "Kobold"
+    },
+    {
+      "label": "Kruthik"
+    },
+    {
+      "label": "Kruthik Corpse"
+    },
+    {
+      "label": "Kruthik Eggs"
+    },
+    {
+      "label": "Lake"
+    },
+    {
+      "label": "Leather"
+    },
+    {
+      "label": "Lemure"
+    },
+    {
+      "label": "Lich"
+    },
+    {
+      "label": "Livestock"
+    },
+    {
+      "label": "Lizardfolk"
+    },
+    {
+      "label": "Lower Planes"
+    },
+    {
+      "label": "Luthic"
+    },
+    {
+      "label": "Mage"
+    },
+    {
+      "label": "Memories"
+    },
+    {
+      "label": "Metallic Dragons"
+    },
+    {
+      "label": "Metallic Items"
+    },
+    {
+      "label": "Mind Flayer"
+    },
+    {
+      "label": "Mine"
+    },
+    {
+      "label": "Miners"
+    },
+    {
+      "label": "Mist"
+    },
+    {
+      "label": "Mountain Peaks"
+    },
+    {
+      "label": "Mountains"
+    },
+    {
+      "label": "Nature"
+    },
+    {
+      "label": "Night Hag"
+    },
+    {
+      "label": "Nine Hells"
+    },
+    {
+      "label": "Noble Eladrin"
+    },
+    {
+      "label": "Oblex"
+    },
+    {
+      "label": "Ocean"
+    },
+    {
+      "label": "Ogre"
+    },
+    {
+      "label": "Ogrémoch"
+    },
+    {
+      "label": "Ooze"
+    },
+    {
+      "label": "Orc"
+    },
+    {
+      "label": "Outer Planes"
+    },
+    {
+      "label": "Pastures"
+    },
+    {
+      "label": "Pearls"
+    },
+    {
+      "label": "Periapt of Mind Trapping"
+    },
+    {
+      "label": "Phylactery"
+    },
+    {
+      "label": "Planes"
+    },
+    {
+      "label": "Poison"
+    },
+    {
+      "label": "Portal to Elemental Plane of Fire"
+    },
+    {
+      "label": "Portal to the Abyss"
+    },
+    {
+      "label": "Pranks"
+    },
+    {
+      "label": "Priest"
+    },
+    {
+      "label": "Red Dragon"
+    },
+    {
+      "label": "River Styx"
+    },
+    {
+      "label": "Ruins"
+    },
+    {
+      "label": "School"
+    },
+    {
+      "label": "Secrets"
+    },
+    {
+      "label": "Sentient Items"
+    },
+    {
+      "label": "Silver Dragon"
+    },
+    {
+      "label": "Sinkhole"
+    },
+    {
+      "label": "Sisterhood"
+    },
+    {
+      "label": "Solid Clouds"
+    },
+    {
+      "label": "Souls"
+    },
+    {
+      "label": "Spellcasters"
+    },
+    {
+      "label": "Swamps"
+    },
+    {
+      "label": "Telepathic Contact"
+    },
+    {
+      "label": "Tharizdun, the Chained God"
+    },
+    {
+      "label": "Thunderstorm"
+    },
+    {
+      "label": "Tiamat the Dragon Queen"
+    },
+    {
+      "label": "Time Magic"
+    },
+    {
+      "label": "Tomb"
+    },
+    {
+      "label": "Transitive Planes"
+    },
+    {
+      "label": "Treachery"
+    },
+    {
+      "label": "Treasures"
+    },
+    {
+      "label": "Troll"
+    },
+    {
+      "label": "Tunnel"
+    },
+    {
+      "label": "Tyranny"
+    },
+    {
+      "label": "Undeads"
+    },
+    {
+      "label": "Upper Planes"
+    },
+    {
+      "label": "Vaults"
+    },
+    {
+      "label": "Water"
+    },
+    {
+      "label": "Wealthy"
+    },
+    {
+      "label": "Weather"
+    },
+    {
+      "label": "White Dragon"
+    },
+    {
+      "label": "Wind"
+    },
+    {
+      "label": "Wizards"
+    },
+    {
+      "label": "Yuan-ti"
+    },
+    {
+      "label": "Yugoloths"
+    }
+  ],
+  "connections": [
+    {
+      "from": "Aarakocra",
+      "to": "Air Elemental",
+      "direction": "mutual"
+    },
+    {
+      "from": "Aarakocra",
+      "to": "Gargoyle",
+      "direction": "mutual"
+    },
+    {
+      "from": "Aarakocra",
+      "to": "Elemental Plane of Air",
+      "direction": "mutual"
+    },
+    {
+      "from": "Aarakocra",
+      "to": "Elemental Plane of Air",
+      "direction": "mutual"
+    },
+    {
+      "from": "Aarakocra",
+      "to": "Mountain Peaks",
+      "direction": "mutual"
+    },
+    {
+      "from": "Abjurer",
+      "to": "Vaults",
+      "direction": "mutual"
+    },
+    {
+      "from": "Abjurer",
+      "to": "Castles",
+      "direction": "mutual"
+    },
+    {
+      "from": "Aboleth",
+      "to": "Gods",
+      "direction": "mutual"
+    },
+    {
+      "from": "Aboleth",
+      "to": "Elemental Plane of Water",
+      "direction": "mutual"
+    },
+    {
+      "from": "Aboleth",
+      "to": "Lake",
+      "direction": "mutual"
+    },
+    {
+      "from": "Aboleth",
+      "to": "Ocean",
+      "direction": "mutual"
+    },
+    {
+      "from": "Abominable Yeti",
+      "to": "Alpine Peaks",
+      "direction": "mutual"
+    },
+    {
+      "from": "Abominable Yeti",
+      "to": "Beasts",
+      "direction": "mutual"
+    },
+    {
+      "from": "Abominable Yeti",
+      "to": "Abominable Yeti",
+      "direction": "mutual"
+    },
+    {
+      "from": "Abominable Yeti",
+      "to": "Humanoids",
+      "direction": "mutual"
+    },
+    {
+      "from": "Acererak Demilich",
+      "to": "Tomb",
+      "direction": "mutual"
+    },
+    {
+      "from": "Air Elemental",
+      "to": "Elemental Plane of Air",
+      "direction": "mutual"
+    },
+    {
+      "from": "Air Elemental",
+      "to": "Air Elemental Myrmidon",
+      "direction": "mutual"
+    },
+    {
+      "from": "Alhoon",
+      "to": "Arcane Magic",
+      "direction": "mutual"
+    },
+    {
+      "from": "Alhoon",
+      "to": "Periapt of Mind Trapping",
+      "direction": "mutual"
+    },
+    {
+      "from": "Alkilith",
+      "to": "Portal to the Abyss",
+      "direction": "mutual"
+    },
+    {
+      "from": "Amnizu",
+      "to": "River Styx",
+      "direction": "mutual"
+    },
+    {
+      "from": "Amnizu",
+      "to": "Nine Hells",
+      "direction": "mutual"
+    },
+    {
+      "from": "Amnizu",
+      "to": "Lemure",
+      "direction": "mutual"
+    },
+    {
+      "from": "Amnizu",
+      "to": "River Styx",
+      "direction": "mutual"
+    },
+    {
+      "from": "Androsphinx",
+      "to": "Secrets",
+      "direction": "mutual"
+    },
+    {
+      "from": "Androsphinx",
+      "to": "Treasures",
+      "direction": "mutual"
+    },
+    {
+      "from": "Androsphinx",
+      "to": "Vaults",
+      "direction": "mutual"
+    },
+    {
+      "from": "Androsphinx",
+      "to": "Time Magic",
+      "direction": "mutual"
+    },
+    {
+      "from": "Ankheg",
+      "to": "Forest",
+      "direction": "mutual"
+    },
+    {
+      "from": "Ankheg",
+      "to": "Livestock",
+      "direction": "mutual"
+    },
+    {
+      "from": "Ankheg",
+      "to": "Pastures",
+      "direction": "mutual"
+    },
+    {
+      "from": "Ankheg",
+      "to": "Tunnel",
+      "direction": "mutual"
+    },
+    {
+      "from": "Annis Hag",
+      "to": "Hills",
+      "direction": "mutual"
+    },
+    {
+      "from": "Annis Hag",
+      "to": "Mountains",
+      "direction": "mutual"
+    },
+    {
+      "from": "Annis Hag",
+      "to": "Children",
+      "direction": "mutual"
+    },
+    {
+      "from": "Annis Hag",
+      "to": "Leather",
+      "direction": "mutual"
+    },
+    {
+      "from": "Annis Hag",
+      "to": "Troll",
+      "direction": "mutual"
+    },
+    {
+      "from": "Annis Hag",
+      "to": "Ogre",
+      "direction": "mutual"
+    },
+    {
+      "from": "Apprentice Wizard",
+      "to": "School",
+      "direction": "mutual"
+    },
+    {
+      "from": "Arcanaloth",
+      "to": "Arcane Magic",
+      "direction": "mutual"
+    },
+    {
+      "from": "Arcanaloth",
+      "to": "Yugoloths",
+      "direction": "mutual"
+    },
+    {
+      "from": "Arcanaloth",
+      "to": "Knowledge",
+      "direction": "mutual"
+    },
+    {
+      "from": "Arcanaloth",
+      "to": "Disguise",
+      "direction": "mutual"
+    },
+    {
+      "from": "Arcane Magic",
+      "to": "Animated Armor",
+      "direction": "mutual"
+    },
+    {
+      "from": "Arcane Magic",
+      "to": "Innate Magic",
+      "direction": "mutual"
+    },
+    {
+      "from": "Archdruid",
+      "to": "Nature",
+      "direction": "mutual"
+    },
+    {
+      "from": "Archdruid",
+      "to": "Druid",
+      "direction": "mutual"
+    },
+    {
+      "from": "Archdruid",
+      "to": "Beasts",
+      "direction": "mutual"
+    },
+    {
+      "from": "Archer",
+      "to": "Castles",
+      "direction": "mutual"
+    },
+    {
+      "from": "Archer",
+      "to": "Beasts",
+      "direction": "mutual"
+    },
+    {
+      "from": "Archer",
+      "to": "Caravans",
+      "direction": "mutual"
+    },
+    {
+      "from": "Archmage",
+      "to": "Mage",
+      "direction": "mutual"
+    },
+    {
+      "from": "Archmage",
+      "to": "Arcane Magic",
+      "direction": "mutual"
+    },
+    {
+      "from": "Armanite",
+      "to": "Abyss",
+      "direction": "mutual"
+    },
+    {
+      "from": "Armanite",
+      "to": "Innate Magic",
+      "direction": "mutual"
+    },
+    {
+      "from": "Armanite",
+      "to": "Telepathic Contact",
+      "direction": "mutual"
+    },
+    {
+      "from": "Asmodeus, Lord of the Nine Hell",
+      "to": "Devils",
+      "direction": "mutual"
+    },
+    {
+      "from": "Asmodeus, Lord of the Nine Hell",
+      "to": "Devils",
+      "direction": "mutual"
+    },
+    {
+      "from": "Asmodeus, Lord of the Nine Hell",
+      "to": "Nine Hells",
+      "direction": "mutual"
+    },
+    {
+      "from": "Asmodeus, Lord of the Nine Hell",
+      "to": "Yugoloths",
+      "direction": "mutual"
+    },
+    {
+      "from": "Assassins",
+      "to": "Poison",
+      "direction": "mutual"
+    },
+    {
+      "from": "Astral Dreadnought",
+      "to": "Astral Plane",
+      "direction": "mutual"
+    },
+    {
+      "from": "Astral Dreadnought",
+      "to": "Demiplane",
+      "direction": "mutual"
+    },
+    {
+      "from": "Aurochs",
+      "to": "Kazaht",
+      "direction": "mutual"
+    },
+    {
+      "from": "Bahamut the Platinum Dragon",
+      "to": "Tiamat the Dragon Queen",
+      "direction": "mutual"
+    },
+    {
+      "from": "Bahamut the Platinum Dragon",
+      "to": "Metallic Dragons",
+      "direction": "mutual"
+    },
+    {
+      "from": "Bahgtru",
+      "to": "Orc",
+      "direction": "mutual"
+    },
+    {
+      "from": "Bahgtru",
+      "to": "Kazaht",
+      "direction": "mutual"
+    },
+    {
+      "from": "Beasts",
+      "to": "Aurochs",
+      "direction": "mutual"
+    },
+    {
+      "from": "Black Dragon",
+      "to": "Ruins",
+      "direction": "mutual"
+    },
+    {
+      "from": "Black Dragon",
+      "to": "Swamps",
+      "direction": "mutual"
+    },
+    {
+      "from": "Black Dragon",
+      "to": "Treasures",
+      "direction": "mutual"
+    },
+    {
+      "from": "Black Dragon",
+      "to": "Dragons",
+      "direction": "mutual"
+    },
+    {
+      "from": "Black Dragon",
+      "to": "Lizardfolk",
+      "direction": "mutual"
+    },
+    {
+      "from": "Black Dragon",
+      "to": "Kobold",
+      "direction": "mutual"
+    },
+    {
+      "from": "Blue Dragon",
+      "to": "Desert",
+      "direction": "mutual"
+    },
+    {
+      "from": "Blue Dragon",
+      "to": "Crystalised Cavern",
+      "direction": "mutual"
+    },
+    {
+      "from": "Blue Dragon",
+      "to": "Thunderstorm",
+      "direction": "mutual"
+    },
+    {
+      "from": "Blue Dragon",
+      "to": "Dust Devil",
+      "direction": "mutual"
+    },
+    {
+      "from": "Blue Dragon",
+      "to": "Caravans",
+      "direction": "mutual"
+    },
+    {
+      "from": "Blue Dragon",
+      "to": "Brass Dragon",
+      "direction": "mutual"
+    },
+    {
+      "from": "Blue Dragon",
+      "to": "Bards",
+      "direction": "mutual"
+    },
+    {
+      "from": "Blue Dragon",
+      "to": "Assassins",
+      "direction": "mutual"
+    },
+    {
+      "from": "Blue Dragon",
+      "to": "Wizards",
+      "direction": "mutual"
+    },
+    {
+      "from": "Blue Dragon",
+      "to": "Air Elemental",
+      "direction": "mutual"
+    },
+    {
+      "from": "Blue Dragon",
+      "to": "Gems",
+      "direction": "mutual"
+    },
+    {
+      "from": "Blue Dragon",
+      "to": "Illusion",
+      "direction": "mutual"
+    },
+    {
+      "from": "Books of Keeping",
+      "to": "Yugoloths",
+      "direction": "mutual"
+    },
+    {
+      "from": "Brass Dragon",
+      "to": "Desert",
+      "direction": "mutual"
+    },
+    {
+      "from": "Brass Dragon",
+      "to": "Sentient Items",
+      "direction": "mutual"
+    },
+    {
+      "from": "Brass Dragon",
+      "to": "Treasures",
+      "direction": "mutual"
+    },
+    {
+      "from": "Bronze Dragon",
+      "to": "Illusory Sounds",
+      "direction": "mutual"
+    },
+    {
+      "from": "Bronze Dragon",
+      "to": "Weather",
+      "direction": "mutual"
+    },
+    {
+      "from": "Bronze Dragon",
+      "to": "Tyranny",
+      "direction": "mutual"
+    },
+    {
+      "from": "Bronze Dragon",
+      "to": "Coasts",
+      "direction": "mutual"
+    },
+    {
+      "from": "Cavern",
+      "to": "Crystalised Cavern",
+      "direction": "mutual"
+    },
+    {
+      "from": "Cavern",
+      "to": "Ice Cavern",
+      "direction": "mutual"
+    },
+    {
+      "from": "Chromatic Dragons",
+      "to": "Black Dragon",
+      "direction": "mutual"
+    },
+    {
+      "from": "Chromatic Dragons",
+      "to": "Dracolich",
+      "direction": "mutual"
+    },
+    {
+      "from": "Chromatic Dragons",
+      "to": "Blue Dragon",
+      "direction": "mutual"
+    },
+    {
+      "from": "Chromatic Dragons",
+      "to": "Green Dragon",
+      "direction": "mutual"
+    },
+    {
+      "from": "Chromatic Dragons",
+      "to": "Red Dragon",
+      "direction": "mutual"
+    },
+    {
+      "from": "Chromatic Dragons",
+      "to": "White Dragon",
+      "direction": "mutual"
+    },
+    {
+      "from": "Clergy",
+      "to": "Acolyte",
+      "direction": "mutual"
+    },
+    {
+      "from": "Clergy",
+      "to": "Priest",
+      "direction": "mutual"
+    },
+    {
+      "from": "Copper Dragon",
+      "to": "Jokes",
+      "direction": "mutual"
+    },
+    {
+      "from": "Copper Dragon",
+      "to": "Pranks",
+      "direction": "mutual"
+    },
+    {
+      "from": "Copper Dragon",
+      "to": "Hills",
+      "direction": "mutual"
+    },
+    {
+      "from": "Copper Dragon",
+      "to": "Bards",
+      "direction": "mutual"
+    },
+    {
+      "from": "Copper Dragon",
+      "to": "Gems",
+      "direction": "mutual"
+    },
+    {
+      "from": "Copper Dragon",
+      "to": "Metallic Items",
+      "direction": "mutual"
+    },
+    {
+      "from": "Curse",
+      "to": "Allip",
+      "direction": "mutual"
+    },
+    {
+      "from": "Demilich",
+      "to": "Acererak Demilich",
+      "direction": "mutual"
+    },
+    {
+      "from": "Demilich",
+      "to": "Tomb",
+      "direction": "mutual"
+    },
+    {
+      "from": "Demons",
+      "to": "Gargoyle",
+      "direction": "mutual"
+    },
+    {
+      "from": "Demons",
+      "to": "Armanite",
+      "direction": "mutual"
+    },
+    {
+      "from": "Demons",
+      "to": "Armanite",
+      "direction": "mutual"
+    },
+    {
+      "from": "Dinosaurs",
+      "to": "Allosaurus",
+      "direction": "mutual"
+    },
+    {
+      "from": "Dinosaurs",
+      "to": "Ankylosaurus",
+      "direction": "mutual"
+    },
+    {
+      "from": "Dracolich",
+      "to": "Greedy",
+      "direction": "mutual"
+    },
+    {
+      "from": "Dracolich Phylactery",
+      "to": "Dracolich",
+      "direction": "mutual"
+    },
+    {
+      "from": "Dragons",
+      "to": "Chromatic Dragons",
+      "direction": "mutual"
+    },
+    {
+      "from": "Dragons",
+      "to": "Metallic Dragons",
+      "direction": "mutual"
+    },
+    {
+      "from": "Eladrin",
+      "to": "Feywild",
+      "direction": "mutual"
+    },
+    {
+      "from": "Eladrin",
+      "to": "Noble Eladrin",
+      "direction": "mutual"
+    },
+    {
+      "from": "Eladrin",
+      "to": "High Elf",
+      "direction": "mutual"
+    },
+    {
+      "from": "Elemental",
+      "to": "Air Elemental",
+      "direction": "mutual"
+    },
+    {
+      "from": "Elves",
+      "to": "High Elf",
+      "direction": "mutual"
+    },
+    {
+      "from": "Farmer",
+      "to": "Ankheg",
+      "direction": "mutual"
+    },
+    {
+      "from": "Farmer",
+      "to": "Pastures",
+      "direction": "mutual"
+    },
+    {
+      "from": "Farmer",
+      "to": "Livestock",
+      "direction": "mutual"
+    },
+    {
+      "from": "Fey",
+      "to": "Feywild",
+      "direction": "mutual"
+    },
+    {
+      "from": "Frost Giant",
+      "to": "White Dragon",
+      "direction": "mutual"
+    },
+    {
+      "from": "Gargoyle",
+      "to": "Castles",
+      "direction": "mutual"
+    },
+    {
+      "from": "Gargoyle",
+      "to": "Elemental Plane of Earth",
+      "direction": "mutual"
+    },
+    {
+      "from": "General of Gehenna",
+      "to": "Gehenna",
+      "direction": "mutual"
+    },
+    {
+      "from": "General of Gehenna",
+      "to": "Yugoloths",
+      "direction": "mutual"
+    },
+    {
+      "from": "Githyanki",
+      "to": "Astral Dreadnought",
+      "direction": "mutual"
+    },
+    {
+      "from": "Gods",
+      "to": "Androsphinx",
+      "direction": "mutual"
+    },
+    {
+      "from": "Gold Dragon",
+      "to": "Gems",
+      "direction": "mutual"
+    },
+    {
+      "from": "Gold Dragon",
+      "to": "Pearls",
+      "direction": "mutual"
+    },
+    {
+      "from": "Gold Dragon",
+      "to": "Treasures",
+      "direction": "mutual"
+    },
+    {
+      "from": "Gold Dragon",
+      "to": "Vaults",
+      "direction": "mutual"
+    },
+    {
+      "from": "Gold Dragon",
+      "to": "Treasures",
+      "direction": "mutual"
+    },
+    {
+      "from": "Gold Dragon",
+      "to": "Mist",
+      "direction": "mutual"
+    },
+    {
+      "from": "Gold Dragon",
+      "to": "Telepathic Contact",
+      "direction": "mutual"
+    },
+    {
+      "from": "Greedy",
+      "to": "Yugoloths",
+      "direction": "mutual"
+    },
+    {
+      "from": "Green Dragon",
+      "to": "Treachery",
+      "direction": "mutual"
+    },
+    {
+      "from": "Green Dragon",
+      "to": "Forest",
+      "direction": "mutual"
+    },
+    {
+      "from": "Green Dragon",
+      "to": "Treasures",
+      "direction": "mutual"
+    },
+    {
+      "from": "Green Dragon",
+      "to": "Elves",
+      "direction": "mutual"
+    },
+    {
+      "from": "Green Dragon",
+      "to": "Bugbear",
+      "direction": "mutual"
+    },
+    {
+      "from": "Green Dragon",
+      "to": "Goblin",
+      "direction": "mutual"
+    },
+    {
+      "from": "Green Dragon",
+      "to": "Hobgoblin",
+      "direction": "mutual"
+    },
+    {
+      "from": "Green Dragon",
+      "to": "Ettercap",
+      "direction": "mutual"
+    },
+    {
+      "from": "Green Dragon",
+      "to": "Ettin",
+      "direction": "mutual"
+    },
+    {
+      "from": "Green Dragon",
+      "to": "Kobold",
+      "direction": "mutual"
+    },
+    {
+      "from": "Green Dragon",
+      "to": "Orc",
+      "direction": "mutual"
+    },
+    {
+      "from": "Green Dragon",
+      "to": "Yuan-ti",
+      "direction": "mutual"
+    },
+    {
+      "from": "Green Dragon",
+      "to": "Emeralds",
+      "direction": "mutual"
+    },
+    {
+      "from": "Gruumsh",
+      "to": "Bahgtru",
+      "direction": "mutual"
+    },
+    {
+      "from": "Gruumsh",
+      "to": "Orc",
+      "direction": "mutual"
+    },
+    {
+      "from": "Hags",
+      "to": "Annis Hag",
+      "direction": "mutual"
+    },
+    {
+      "from": "Hags",
+      "to": "Night Hag",
+      "direction": "mutual"
+    },
+    {
+      "from": "Inner Planes",
+      "to": "Elemental Plane of Air",
+      "direction": "mutual"
+    },
+    {
+      "from": "Inner Planes",
+      "to": "Elemental Plane of Earth",
+      "direction": "mutual"
+    },
+    {
+      "from": "Inner Planes",
+      "to": "Elemental Plane of Water",
+      "direction": "mutual"
+    },
+    {
+      "from": "Inner Planes",
+      "to": "Elemental Plane of Fire",
+      "direction": "mutual"
+    },
+    {
+      "from": "Juiblex",
+      "to": "Alkilith",
+      "direction": "mutual"
+    },
+    {
+      "from": "Kruthik",
+      "to": "Kruthik Corpse",
+      "direction": "mutual"
+    },
+    {
+      "from": "Kruthik",
+      "to": "Kruthik Eggs",
+      "direction": "mutual"
+    },
+    {
+      "from": "Kruthik",
+      "to": "Tunnel",
+      "direction": "mutual"
+    },
+    {
+      "from": "Kruthik",
+      "to": "Heat",
+      "direction": "mutual"
+    },
+    {
+      "from": "Lich",
+      "to": "Demilich",
+      "direction": "mutual"
+    },
+    {
+      "from": "Lich",
+      "to": "Dracolich",
+      "direction": "mutual"
+    },
+    {
+      "from": "Livestock",
+      "to": "Pastures",
+      "direction": "mutual"
+    },
+    {
+      "from": "Lower Planes",
+      "to": "River Styx",
+      "direction": "mutual"
+    },
+    {
+      "from": "Lower Planes",
+      "to": "Nine Hells",
+      "direction": "mutual"
+    },
+    {
+      "from": "Lower Planes",
+      "to": "Gehenna",
+      "direction": "mutual"
+    },
+    {
+      "from": "Lower Planes",
+      "to": "Acheron",
+      "direction": "mutual"
+    },
+    {
+      "from": "Lower Planes",
+      "to": "Hades",
+      "direction": "mutual"
+    },
+    {
+      "from": "Lower Planes",
+      "to": "Carceri",
+      "direction": "mutual"
+    },
+    {
+      "from": "Lower Planes",
+      "to": "Abyss",
+      "direction": "mutual"
+    },
+    {
+      "from": "Luthic",
+      "to": "Bahgtru",
+      "direction": "mutual"
+    },
+    {
+      "from": "Luthic",
+      "to": "Orc",
+      "direction": "mutual"
+    },
+    {
+      "from": "Mage",
+      "to": "Arcane Magic",
+      "direction": "mutual"
+    },
+    {
+      "from": "Metallic Dragons",
+      "to": "Brass Dragon",
+      "direction": "mutual"
+    },
+    {
+      "from": "Metallic Dragons",
+      "to": "Bronze Dragon",
+      "direction": "mutual"
+    },
+    {
+      "from": "Metallic Dragons",
+      "to": "Copper Dragon",
+      "direction": "mutual"
+    },
+    {
+      "from": "Metallic Dragons",
+      "to": "Gold Dragon",
+      "direction": "mutual"
+    },
+    {
+      "from": "Metallic Dragons",
+      "to": "Silver Dragon",
+      "direction": "mutual"
+    },
+    {
+      "from": "Mind Flayer",
+      "to": "Oblex",
+      "direction": "mutual"
+    },
+    {
+      "from": "Mind Flayer",
+      "to": "Alhoon",
+      "direction": "mutual"
+    },
+    {
+      "from": "Mine",
+      "to": "Abandoned Mine",
+      "direction": "mutual"
+    },
+    {
+      "from": "Miners",
+      "to": "Mine",
+      "direction": "mutual"
+    },
+    {
+      "from": "Miners",
+      "to": "Mine",
+      "direction": "mutual"
+    },
+    {
+      "from": "Mountain Peaks",
+      "to": "Alpine Peaks",
+      "direction": "mutual"
+    },
+    {
+      "from": "Mountains",
+      "to": "Mountain Peaks",
+      "direction": "mutual"
+    },
+    {
+      "from": "Night Hag",
+      "to": "Yugoloths",
+      "direction": "mutual"
+    },
+    {
+      "from": "Night Hag",
+      "to": "Gehenna",
+      "direction": "mutual"
+    },
+    {
+      "from": "Night Hag",
+      "to": "Books of Keeping",
+      "direction": "mutual"
+    },
+    {
+      "from": "Night Hag",
+      "to": "General of Gehenna",
+      "direction": "mutual"
+    },
+    {
+      "from": "Noble Eladrin",
+      "to": "Autumn Eladrin",
+      "direction": "mutual"
+    },
+    {
+      "from": "Oblex",
+      "to": "Memories",
+      "direction": "mutual"
+    },
+    {
+      "from": "Oblex",
+      "to": "Duplicate",
+      "direction": "mutual"
+    },
+    {
+      "from": "Ogrémoch",
+      "to": "Gargoyle",
+      "direction": "mutual"
+    },
+    {
+      "from": "Ogrémoch",
+      "to": "Miners",
+      "direction": "mutual"
+    },
+    {
+      "from": "Ogrémoch",
+      "to": "Elemental Plane of Earth",
+      "direction": "mutual"
+    },
+    {
+      "from": "Ooze",
+      "to": "Oblex",
+      "direction": "mutual"
+    },
+    {
+      "from": "Ooze",
+      "to": "Alkilith",
+      "direction": "mutual"
+    },
+    {
+      "from": "Orc",
+      "to": "Aurochs",
+      "direction": "mutual"
+    },
+    {
+      "from": "Outer Planes",
+      "to": "Upper Planes",
+      "direction": "mutual"
+    },
+    {
+      "from": "Outer Planes",
+      "to": "Lower Planes",
+      "direction": "mutual"
+    },
+    {
+      "from": "Phylactery",
+      "to": "Acererak Demilich",
+      "direction": "mutual"
+    },
+    {
+      "from": "Phylactery",
+      "to": "Demilich",
+      "direction": "mutual"
+    },
+    {
+      "from": "Phylactery",
+      "to": "Lich",
+      "direction": "mutual"
+    },
+    {
+      "from": "Phylactery",
+      "to": "Dracolich Phylactery",
+      "direction": "mutual"
+    },
+    {
+      "from": "Planes",
+      "to": "Inner Planes",
+      "direction": "mutual"
+    },
+    {
+      "from": "Planes",
+      "to": "Outer Planes",
+      "direction": "mutual"
+    },
+    {
+      "from": "Planes",
+      "to": "Transitive Planes",
+      "direction": "mutual"
+    },
+    {
+      "from": "Planes",
+      "to": "Demiplane",
+      "direction": "mutual"
+    },
+    {
+      "from": "Portal to Elemental Plane of Fire",
+      "to": "Elemental Plane of Fire",
+      "direction": "mutual"
+    },
+    {
+      "from": "Portal to the Abyss",
+      "to": "Abyss",
+      "direction": "mutual"
+    },
+    {
+      "from": "Priest",
+      "to": "Acolyte",
+      "direction": "mutual"
+    },
+    {
+      "from": "Red Dragon",
+      "to": "Treasures",
+      "direction": "mutual"
+    },
+    {
+      "from": "Red Dragon",
+      "to": "Tyranny",
+      "direction": "mutual"
+    },
+    {
+      "from": "Red Dragon",
+      "to": "Mountains",
+      "direction": "mutual"
+    },
+    {
+      "from": "Red Dragon",
+      "to": "Cavern",
+      "direction": "mutual"
+    },
+    {
+      "from": "Red Dragon",
+      "to": "Abandoned Mine",
+      "direction": "mutual"
+    },
+    {
+      "from": "Red Dragon",
+      "to": "Heat",
+      "direction": "mutual"
+    },
+    {
+      "from": "Red Dragon",
+      "to": "Earthquakes",
+      "direction": "mutual"
+    },
+    {
+      "from": "Red Dragon",
+      "to": "Portal to Elemental Plane of Fire",
+      "direction": "mutual"
+    },
+    {
+      "from": "Red Dragon",
+      "to": "Humanoids",
+      "direction": "mutual"
+    },
+    {
+      "from": "Secrets",
+      "to": "Allip",
+      "direction": "mutual"
+    },
+    {
+      "from": "Secrets",
+      "to": "Books of Keeping",
+      "direction": "mutual"
+    },
+    {
+      "from": "Silver Dragon",
+      "to": "Humanoids",
+      "direction": "mutual"
+    },
+    {
+      "from": "Silver Dragon",
+      "to": "Alpine Peaks",
+      "direction": "mutual"
+    },
+    {
+      "from": "Silver Dragon",
+      "to": "Cavern",
+      "direction": "mutual"
+    },
+    {
+      "from": "Silver Dragon",
+      "to": "Abandoned Mine",
+      "direction": "mutual"
+    },
+    {
+      "from": "Silver Dragon",
+      "to": "Historic Relics",
+      "direction": "mutual"
+    },
+    {
+      "from": "Silver Dragon",
+      "to": "Weather",
+      "direction": "mutual"
+    },
+    {
+      "from": "Silver Dragon",
+      "to": "Wind",
+      "direction": "mutual"
+    },
+    {
+      "from": "Silver Dragon",
+      "to": "Solid Clouds",
+      "direction": "mutual"
+    },
+    {
+      "from": "Sinkhole",
+      "to": "Blue Dragon",
+      "direction": "mutual"
+    },
+    {
+      "from": "Sisterhood",
+      "to": "Hags",
+      "direction": "mutual"
+    },
+    {
+      "from": "Souls",
+      "to": "Periapt of Mind Trapping",
+      "direction": "mutual"
+    },
+    {
+      "from": "Souls",
+      "to": "Phylactery",
+      "direction": "mutual"
+    },
+    {
+      "from": "Spellcasters",
+      "to": "Gargoyle",
+      "direction": "mutual"
+    },
+    {
+      "from": "Spellcasters",
+      "to": "Abjurer",
+      "direction": "mutual"
+    },
+    {
+      "from": "Tharizdun, the Chained God",
+      "to": "Astral Dreadnought",
+      "direction": "mutual"
+    },
+    {
+      "from": "Tiamat the Dragon Queen",
+      "to": "Chromatic Dragons",
+      "direction": "mutual"
+    },
+    {
+      "from": "Transitive Planes",
+      "to": "Astral Plane",
+      "direction": "mutual"
+    },
+    {
+      "from": "Transitive Planes",
+      "to": "Ethereal Plane",
+      "direction": "mutual"
+    },
+    {
+      "from": "Vaults",
+      "to": "Treasures",
+      "direction": "mutual"
+    },
+    {
+      "from": "Water",
+      "to": "Ocean",
+      "direction": "mutual"
+    },
+    {
+      "from": "Water",
+      "to": "Lake",
+      "direction": "mutual"
+    },
+    {
+      "from": "Wealthy",
+      "to": "Abjurer",
+      "direction": "mutual"
+    },
+    {
+      "from": "Wealthy",
+      "to": "Castles",
+      "direction": "mutual"
+    },
+    {
+      "from": "Wealthy",
+      "to": "Treasures",
+      "direction": "mutual"
+    },
+    {
+      "from": "Wealthy",
+      "to": "Assassins",
+      "direction": "mutual"
+    },
+    {
+      "from": "Weather",
+      "to": "Thunderstorm",
+      "direction": "mutual"
+    },
+    {
+      "from": "White Dragon",
+      "to": "Alpine Peaks",
+      "direction": "mutual"
+    },
+    {
+      "from": "White Dragon",
+      "to": "Frozen Corpses",
+      "direction": "mutual"
+    },
+    {
+      "from": "White Dragon",
+      "to": "Frozen Corpses",
+      "direction": "mutual"
+    },
+    {
+      "from": "White Dragon",
+      "to": "Kobold",
+      "direction": "mutual"
+    },
+    {
+      "from": "White Dragon",
+      "to": "Treasures",
+      "direction": "mutual"
+    },
+    {
+      "from": "White Dragon",
+      "to": "Ice Cavern",
+      "direction": "mutual"
+    },
+    {
+      "from": "Wizards",
+      "to": "Air Elemental Myrmidon",
+      "direction": "mutual"
+    },
+    {
+      "from": "Wizards",
+      "to": "Air Elemental Myrmidon",
+      "direction": "mutual"
+    },
+    {
+      "from": "Wizards",
+      "to": "Arcane Magic",
+      "direction": "mutual"
+    },
+    {
+      "from": "Wizards",
+      "to": "Apprentice Wizard",
+      "direction": "mutual"
+    },
+    {
+      "from": "Yugoloths",
+      "to": "Arcanaloth",
+      "direction": "mutual"
+    },
+    {
+      "from": "Yugoloths",
+      "to": "Gehenna",
+      "direction": "mutual"
+    },
+    {
+      "from": "Yugoloths",
+      "to": "Acheron",
+      "direction": "mutual"
+    },
+    {
+      "from": "Yugoloths",
+      "to": "Hades",
+      "direction": "mutual"
+    },
+    {
+      "from": "Yugoloths",
+      "to": "Carceri",
+      "direction": "mutual"
+    },
+    {
+      "from": "Yugoloths",
+      "to": "Books of Keeping",
+      "direction": "mutual"
+    }
+  ]
+}
