@@ -19,6 +19,9 @@
       "label": "Abyss"
     },
     {
+      "label": "Abyssal Corruption"
+    },
+    {
       "label": "Acererak Demilich"
     },
     {
@@ -76,6 +79,9 @@
       "label": "Arcane Magic"
     },
     {
+      "label": "Archdevils"
+    },
+    {
       "label": "Archdruid"
     },
     {
@@ -106,10 +112,46 @@
       "label": "Autumn Eladrin"
     },
     {
+      "label": "Avatar of Death"
+    },
+    {
+      "label": "Awakened Shrub"
+    },
+    {
+      "label": "Awakened Tree"
+    },
+    {
+      "label": "Axe Beak"
+    },
+    {
+      "label": "Azer"
+    },
+    {
+      "label": "Babau"
+    },
+    {
+      "label": "Baboon"
+    },
+    {
+      "label": "Badger"
+    },
+    {
+      "label": "Bael"
+    },
+    {
       "label": "Bahamut the Platinum Dragon"
     },
     {
       "label": "Bahgtru"
+    },
+    {
+      "label": "Balhannoth"
+    },
+    {
+      "label": "Balor"
+    },
+    {
+      "label": "Baphomet"
     },
     {
       "label": "Bards"
@@ -163,16 +205,37 @@
       "label": "Copper Dragon"
     },
     {
+      "label": "Corellon Larethian"
+    },
+    {
       "label": "Crystalised Cavern"
     },
     {
+      "label": "Cultists"
+    },
+    {
       "label": "Curse"
+    },
+    {
+      "label": "Deck of Many Things"
     },
     {
       "label": "Demilich"
     },
     {
       "label": "Demiplane"
+    },
+    {
+      "label": "Demogorgon"
+    },
+    {
+      "label": "Demon Lords"
+    },
+    {
+      "label": "Demonic Amulet"
+    },
+    {
+      "label": "Demonic Essence"
     },
     {
       "label": "Demons"
@@ -199,6 +262,9 @@
       "label": "Dragons"
     },
     {
+      "label": "Drow"
+    },
+    {
       "label": "Druid"
     },
     {
@@ -209,6 +275,9 @@
     },
     {
       "label": "Earthquakes"
+    },
+    {
+      "label": "Efreeti"
     },
     {
       "label": "Eladrin"
@@ -277,6 +346,9 @@
       "label": "Githyanki"
     },
     {
+      "label": "Gnoll"
+    },
+    {
       "label": "Goblin"
     },
     {
@@ -284,6 +356,9 @@
     },
     {
       "label": "Gold Dragon"
+    },
+    {
+      "label": "Graz'zt"
     },
     {
       "label": "Greedy"
@@ -299,6 +374,9 @@
     },
     {
       "label": "Hags"
+    },
+    {
+      "label": "Healing Magic"
     },
     {
       "label": "Heat"
@@ -332,6 +410,9 @@
     },
     {
       "label": "Inner Planes"
+    },
+    {
+      "label": "Items"
     },
     {
       "label": "Jokes"
@@ -376,6 +457,9 @@
       "label": "Lizardfolk"
     },
     {
+      "label": "Lolth"
+    },
+    {
       "label": "Lower Planes"
     },
     {
@@ -385,6 +469,15 @@
       "label": "Mage"
     },
     {
+      "label": "Magic Items"
+    },
+    {
+      "label": "Mammon"
+    },
+    {
+      "label": "Material Plane"
+    },
+    {
       "label": "Memories"
     },
     {
@@ -392,6 +485,9 @@
     },
     {
       "label": "Metallic Items"
+    },
+    {
+      "label": "Metals"
     },
     {
       "label": "Mind Flayer"
@@ -442,10 +538,16 @@
       "label": "Orc"
     },
     {
+      "label": "Orcus"
+    },
+    {
       "label": "Outer Planes"
     },
     {
       "label": "Pastures"
+    },
+    {
+      "label": "Peace"
     },
     {
       "label": "Pearls"
@@ -493,6 +595,9 @@
       "label": "Sentient Items"
     },
     {
+      "label": "Shadowfell"
+    },
+    {
       "label": "Silver Dragon"
     },
     {
@@ -509,6 +614,9 @@
     },
     {
       "label": "Spellcasters"
+    },
+    {
+      "label": "Summoner"
     },
     {
       "label": "Swamps"
@@ -535,6 +643,9 @@
       "label": "Transitive Planes"
     },
     {
+      "label": "Transmutation Magic"
+    },
+    {
       "label": "Treachery"
     },
     {
@@ -551,6 +662,9 @@
     },
     {
       "label": "Undeads"
+    },
+    {
+      "label": "Underdark"
     },
     {
       "label": "Upper Planes"
@@ -575,6 +689,9 @@
     },
     {
       "label": "Wizards"
+    },
+    {
+      "label": "Yeenoghu"
     },
     {
       "label": "Yuan-ti"
@@ -672,6 +789,12 @@
       "from": "Abominable Yeti",
       "to": "Humanoids",
       "type": "Hunter of",
+      "direction": "directed"
+    },
+    {
+      "from": "Abyss",
+      "to": "Demons",
+      "type": "Maker of",
       "direction": "directed"
     },
     {
@@ -861,6 +984,36 @@
       "direction": "directed"
     },
     {
+      "from": "Arcane Magic",
+      "to": "Healing Magic",
+      "type": "Superset of",
+      "direction": "directed"
+    },
+    {
+      "from": "Arcane Magic",
+      "to": "Time Magic",
+      "type": "Superset of",
+      "direction": "directed"
+    },
+    {
+      "from": "Arcane Magic",
+      "to": "Transmutation Magic",
+      "type": "Superset of",
+      "direction": "directed"
+    },
+    {
+      "from": "Archdevils",
+      "to": "Bael",
+      "type": "Superset of",
+      "direction": "directed"
+    },
+    {
+      "from": "Archdevils",
+      "to": "Mammon",
+      "type": "Superset of",
+      "direction": "directed"
+    },
+    {
       "from": "Archdruid",
       "to": "Nature",
       "type": "Protecting",
@@ -910,12 +1063,6 @@
     },
     {
       "from": "Armanite",
-      "to": "Abyss",
-      "type": "Found in",
-      "direction": "directed"
-    },
-    {
-      "from": "Armanite",
       "to": "Innate Magic",
       "type": "User of",
       "direction": "directed"
@@ -935,7 +1082,7 @@
     {
       "from": "Asmodeus, Lord of the Nine Hell",
       "to": "Devils",
-      "type": "God of",
+      "type": "Worshipped by",
       "direction": "directed"
     },
     {
@@ -948,6 +1095,12 @@
       "from": "Asmodeus, Lord of the Nine Hell",
       "to": "Yugoloths",
       "type": "Maker of",
+      "direction": "directed"
+    },
+    {
+      "from": "Asmodeus, Lord of the Nine Hell",
+      "to": "Mammon",
+      "type": "Master of",
       "direction": "directed"
     },
     {
@@ -975,6 +1128,72 @@
       "direction": "directed"
     },
     {
+      "from": "Autumn Eladrin",
+      "to": "Innate Magic",
+      "type": "User of",
+      "direction": "directed"
+    },
+    {
+      "from": "Autumn Eladrin",
+      "to": "Peace",
+      "type": "Maker of",
+      "direction": "directed"
+    },
+    {
+      "from": "Autumn Eladrin",
+      "to": "Healing Magic",
+      "type": "User of",
+      "direction": "directed"
+    },
+    {
+      "from": "Azer",
+      "to": "Elemental Plane of Fire",
+      "type": "Found in",
+      "direction": "directed"
+    },
+    {
+      "from": "Azer",
+      "to": "Metallic Items",
+      "type": "Maker of",
+      "direction": "directed"
+    },
+    {
+      "from": "Azer",
+      "to": "Efreeti",
+      "type": "Enemy of",
+      "direction": "directed"
+    },
+    {
+      "from": "Azer",
+      "to": "Azer",
+      "type": "Maker of",
+      "direction": "directed"
+    },
+    {
+      "from": "Azer",
+      "to": "Magic Items",
+      "type": "Maker of",
+      "direction": "directed"
+    },
+    {
+      "from": "Babau",
+      "to": "Innate Magic",
+      "type": "User of",
+      "direction": "directed"
+    },
+    {
+      "from": "Bael",
+      "to": "Mammon",
+      "type": "Protecting",
+      "direction": "directed"
+    },
+    {
+      "from": "Bael",
+      "to": "Cultists",
+      "type": "Worshipped by",
+      "direction": "directed"
+    },
+    {
       "from": "Bahamut the Platinum Dragon",
       "to": "Tiamat the Dragon Queen",
       "type": "Enemy of",
@@ -983,13 +1202,13 @@
     {
       "from": "Bahamut the Platinum Dragon",
       "to": "Metallic Dragons",
-      "type": "God of",
+      "type": "Worshipped by",
       "direction": "directed"
     },
     {
       "from": "Bahgtru",
       "to": "Orc",
-      "type": "God of",
+      "type": "Worshipped by",
       "direction": "directed"
     },
     {
@@ -999,8 +1218,44 @@
       "direction": "directed"
     },
     {
+      "from": "Balhannoth",
+      "to": "Shadowfell",
+      "type": "Found in",
+      "direction": "directed"
+    },
+    {
+      "from": "Balhannoth",
+      "to": "Illusion",
+      "type": "User of",
+      "direction": "directed"
+    },
+    {
+      "from": "Balhannoth",
+      "to": "Telepathic Contact",
+      "type": "User of",
+      "direction": "directed"
+    },
+    {
       "from": "Beasts",
       "to": "Aurochs",
+      "type": "Superset of",
+      "direction": "directed"
+    },
+    {
+      "from": "Beasts",
+      "to": "Axe Beak",
+      "type": "Superset of",
+      "direction": "directed"
+    },
+    {
+      "from": "Beasts",
+      "to": "Baboon",
+      "type": "Superset of",
+      "direction": "directed"
+    },
+    {
+      "from": "Beasts",
+      "to": "Badger",
       "type": "Superset of",
       "direction": "directed"
     },
@@ -1257,9 +1512,27 @@
       "direction": "directed"
     },
     {
+      "from": "Corellon Larethian",
+      "to": "Lolth",
+      "type": "Enemy of",
+      "direction": "directed"
+    },
+    {
+      "from": "Corellon Larethian",
+      "to": "Elves",
+      "type": "Maker of",
+      "direction": "directed"
+    },
+    {
       "from": "Curse",
       "to": "Allip",
       "type": "Transformed into",
+      "direction": "directed"
+    },
+    {
+      "from": "Deck of Many Things",
+      "to": "Avatar of Death",
+      "type": "Summoner of",
       "direction": "directed"
     },
     {
@@ -1271,6 +1544,66 @@
     {
       "from": "Demilich",
       "to": "Tomb",
+      "type": "Found in",
+      "direction": "directed"
+    },
+    {
+      "from": "Demon Lords",
+      "to": "Graz'zt",
+      "type": "Superset of",
+      "direction": "directed"
+    },
+    {
+      "from": "Demon Lords",
+      "to": "Balor",
+      "type": "Superset of",
+      "direction": "directed"
+    },
+    {
+      "from": "Demon Lords",
+      "to": "Lolth",
+      "type": "Superset of",
+      "direction": "directed"
+    },
+    {
+      "from": "Demon Lords",
+      "to": "Juiblex",
+      "type": "Superset of",
+      "direction": "directed"
+    },
+    {
+      "from": "Demon Lords",
+      "to": "Baphomet",
+      "type": "Superset of",
+      "direction": "directed"
+    },
+    {
+      "from": "Demon Lords",
+      "to": "Demogorgon",
+      "type": "Superset of",
+      "direction": "directed"
+    },
+    {
+      "from": "Demon Lords",
+      "to": "Orcus",
+      "type": "Superset of",
+      "direction": "directed"
+    },
+    {
+      "from": "Demon Lords",
+      "to": "Yeenoghu",
+      "type": "Superset of",
+      "direction": "directed"
+    },
+    {
+      "from": "Demonic Amulet",
+      "to": "Demons",
+      "type": "Protecting",
+      "direction": "directed"
+    },
+    {
+      "from": "Demonic Essence",
+      "to": "Demonic Amulet",
       "type": "Found in",
       "direction": "directed"
     },
@@ -1289,6 +1622,42 @@
     {
       "from": "Demons",
       "to": "Armanite",
+      "type": "Superset of",
+      "direction": "directed"
+    },
+    {
+      "from": "Demons",
+      "to": "Babau",
+      "type": "Superset of",
+      "direction": "directed"
+    },
+    {
+      "from": "Demons",
+      "to": "Demon Lords",
+      "type": "Superset of",
+      "direction": "directed"
+    },
+    {
+      "from": "Demons",
+      "to": "Abyss",
+      "type": "Found in",
+      "direction": "directed"
+    },
+    {
+      "from": "Demons",
+      "to": "Abyssal Corruption",
+      "type": "Maker of",
+      "direction": "directed"
+    },
+    {
+      "from": "Demons",
+      "to": "Demonic Essence",
+      "type": "Composed of",
+      "direction": "directed"
+    },
+    {
+      "from": "Devils",
+      "to": "Archdevils",
       "type": "Superset of",
       "direction": "directed"
     },
@@ -1326,6 +1695,18 @@
       "from": "Dragons",
       "to": "Metallic Dragons",
       "type": "Superset of",
+      "direction": "directed"
+    },
+    {
+      "from": "Drow",
+      "to": "Balhannoth",
+      "type": "Master of",
+      "direction": "directed"
+    },
+    {
+      "from": "Drow",
+      "to": "Underdark",
+      "type": "Found in",
       "direction": "directed"
     },
     {
@@ -1467,6 +1848,12 @@
       "direction": "directed"
     },
     {
+      "from": "Graz'zt",
+      "to": "Babau",
+      "type": "Maker of",
+      "direction": "directed"
+    },
+    {
       "from": "Greedy",
       "to": "Yugoloths",
       "type": "Superset of",
@@ -1559,7 +1946,7 @@
     {
       "from": "Gruumsh",
       "to": "Orc",
-      "type": "God of",
+      "type": "Worshipped by",
       "direction": "directed"
     },
     {
@@ -1595,6 +1982,18 @@
     {
       "from": "Inner Planes",
       "to": "Elemental Plane of Fire",
+      "type": "Superset of",
+      "direction": "directed"
+    },
+    {
+      "from": "Items",
+      "to": "Metallic Items",
+      "type": "Superset of",
+      "direction": "directed"
+    },
+    {
+      "from": "Items",
+      "to": "Magic Items",
       "type": "Superset of",
       "direction": "directed"
     },
@@ -1644,6 +2043,12 @@
       "from": "Livestock",
       "to": "Pastures",
       "type": "Found in",
+      "direction": "directed"
+    },
+    {
+      "from": "Lolth",
+      "to": "Drow",
+      "type": "Worshipped by",
       "direction": "directed"
     },
     {
@@ -1697,13 +2102,31 @@
     {
       "from": "Luthic",
       "to": "Orc",
-      "type": "God of",
+      "type": "Worshipped by",
       "direction": "directed"
     },
     {
       "from": "Mage",
       "to": "Arcane Magic",
       "type": "User of",
+      "direction": "directed"
+    },
+    {
+      "from": "Magic Items",
+      "to": "Sentient Items",
+      "type": "Superset of",
+      "direction": "directed"
+    },
+    {
+      "from": "Magic Items",
+      "to": "Deck of Many Things",
+      "type": "Superset of",
+      "direction": "directed"
+    },
+    {
+      "from": "Mammon",
+      "to": "Bael",
+      "type": "Master of",
       "direction": "directed"
     },
     {
@@ -1737,6 +2160,30 @@
       "direction": "directed"
     },
     {
+      "from": "Metallic Items",
+      "to": "Metals",
+      "type": "Composed of",
+      "direction": "directed"
+    },
+    {
+      "from": "Metals",
+      "to": "Mine",
+      "type": "Found in",
+      "direction": "directed"
+    },
+    {
+      "from": "Metals",
+      "to": "Elemental Plane of Earth",
+      "type": "Found in",
+      "direction": "directed"
+    },
+    {
+      "from": "Metals",
+      "to": "Mountains",
+      "type": "Found in",
+      "direction": "directed"
+    },
+    {
       "from": "Mind Flayer",
       "to": "Oblex",
       "type": "Maker of",
@@ -1764,6 +2211,24 @@
       "from": "Miners",
       "to": "Mine",
       "type": "Found in",
+      "direction": "directed"
+    },
+    {
+      "from": "Miners",
+      "to": "Azer",
+      "type": "Superset of",
+      "direction": "directed"
+    },
+    {
+      "from": "Miners",
+      "to": "Gems",
+      "type": "Seeker of",
+      "direction": "directed"
+    },
+    {
+      "from": "Miners",
+      "to": "Metals",
+      "type": "Seeker of",
       "direction": "directed"
     },
     {
@@ -1857,6 +2322,12 @@
       "direction": "directed"
     },
     {
+      "from": "Orcus",
+      "to": "Undeads",
+      "type": "Worshipped by",
+      "direction": "directed"
+    },
+    {
       "from": "Outer Planes",
       "to": "Upper Planes",
       "type": "Superset of",
@@ -1913,6 +2384,24 @@
     {
       "from": "Planes",
       "to": "Demiplane",
+      "type": "Superset of",
+      "direction": "directed"
+    },
+    {
+      "from": "Planes",
+      "to": "Feywild",
+      "type": "Superset of",
+      "direction": "directed"
+    },
+    {
+      "from": "Planes",
+      "to": "Shadowfell",
+      "type": "Superset of",
+      "direction": "directed"
+    },
+    {
+      "from": "Planes",
+      "to": "Material Plane",
       "type": "Superset of",
       "direction": "directed"
     },
@@ -2085,6 +2574,36 @@
       "direction": "directed"
     },
     {
+      "from": "Spellcasters",
+      "to": "Summoner",
+      "type": "Superset of",
+      "direction": "directed"
+    },
+    {
+      "from": "Spellcasters",
+      "to": "Wizards",
+      "type": "Superset of",
+      "direction": "directed"
+    },
+    {
+      "from": "Spellcasters",
+      "to": "Archmage",
+      "type": "Superset of",
+      "direction": "directed"
+    },
+    {
+      "from": "Spellcasters",
+      "to": "Mage",
+      "type": "Superset of",
+      "direction": "directed"
+    },
+    {
+      "from": "Summoner",
+      "to": "Demons",
+      "type": "Summoner of",
+      "direction": "directed"
+    },
+    {
       "from": "Tharizdun, the Chained God",
       "to": "Astral Dreadnought",
       "type": "Maker of",
@@ -2093,7 +2612,7 @@
     {
       "from": "Tiamat the Dragon Queen",
       "to": "Chromatic Dragons",
-      "type": "God of",
+      "type": "Worshipped by",
       "direction": "directed"
     },
     {
@@ -2105,6 +2624,36 @@
     {
       "from": "Transitive Planes",
       "to": "Ethereal Plane",
+      "type": "Superset of",
+      "direction": "directed"
+    },
+    {
+      "from": "Transmutation Magic",
+      "to": "Awakened Shrub",
+      "type": "Maker of",
+      "direction": "directed"
+    },
+    {
+      "from": "Transmutation Magic",
+      "to": "Awakened Tree",
+      "type": "Maker of",
+      "direction": "directed"
+    },
+    {
+      "from": "Treasures",
+      "to": "Deck of Many Things",
+      "type": "Superset of",
+      "direction": "directed"
+    },
+    {
+      "from": "Tunnel",
+      "to": "Mountains",
+      "type": "Found in",
+      "direction": "directed"
+    },
+    {
+      "from": "Undeads",
+      "to": "Lich",
       "type": "Superset of",
       "direction": "directed"
     },
@@ -2214,6 +2763,12 @@
       "from": "Wizards",
       "to": "Apprentice Wizard",
       "type": "Master of",
+      "direction": "directed"
+    },
+    {
+      "from": "Yeenoghu",
+      "to": "Gnoll",
+      "type": "Worshipped by",
       "direction": "directed"
     },
     {
