@@ -1,0 +1,43 @@
+html {
+  font-size: 14px;
+}
+@media screen and (min-width: 320px) {
+  html {
+    font-size: calc(14px + 4 * ((100vw - 320px) / 680));
+  }
+}
+@media screen and (min-width: 1000px) {
+  html {
+    font-size: 18px;
+  }
+}
+
+body {
+  overflow-x: hidden;
+  font-family: 'Noto Sans', sans-serif;
+  background-color: #EEE;
+}
+
+.dropdown-menu
+{
+  max-height: 500px;
+  overflow-y: auto;
+  overflow-x: hidden;
+}
+
+#menu-wrapper
+{
+  background-color: #222222;
+  color: white;
+  margin-bottom: 17px;
+}
+
+#menu-wrapper .menu-heading
+{
+  padding: 0.875rem 1.25rem;
+}
+
+#menu-wrapper .menu-about
+{
+  padding: 0.875rem 1.25rem;
+}
