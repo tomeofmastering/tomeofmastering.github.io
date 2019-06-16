@@ -41,3 +41,8 @@ body {
 {
   padding: 0.875rem 1.25rem;
 }
+
+.needs_revision
+{
+	color: #b30f13;
+}
