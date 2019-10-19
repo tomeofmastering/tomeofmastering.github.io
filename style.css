@@ -42,6 +42,11 @@ body {
   padding: 0.875rem 1.25rem;
 }
 
+#menu-wrapper .menu-about a
+{
+  padding-left: 0.875rem;
+}
+
 .needs_revision
 {
 	color: #b30f13;
