@@ -1,0 +1,198 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta http-equiv="Content-type" content="text/html; charset=iso-8859-1"/>
+        <title>Tome of Mastering</title>
+        <link href="../css/bootstrap.min.css" rel="stylesheet">
+        <link href="../css/style.css" rel="stylesheet">
+        <link href="../css/rpg-awesome.min.css" rel="stylesheet">
+        <link rel="stylesheet" href="../css/autocomplete.min.css">
+        <script src="../js/autocomplete.js"></script>
+        <script src="../js/umbrella.min.js"></script>
+    </head>
+    <body>
+        <div class="d-flex flex-column" id="wrapper">
+            <div class="border-right d-flex justify-content-between" id="menu-wrapper">
+                <div class="menu-heading"> <a href="../index.html">Tome of Mastering </a> </div>
+                <div class="menu-about d-flex flex-row justify-content-end align-items-center"> <a href="https://github.com/tomeofmastering/tomeofmastering.github.io/archive/master.zip" >Download</a> <a href="../pages/tools.html" >Tools</a> <a href="../pages/graph.html" >Graph</a> <a href="../pages/about.html" >About</a> </div>
+            </div>
+            <div id="page-content-wrapper">
+                <div class="container-fluid">
+                    <div class="d-flex flex-row" style="justify-content: space-evenly">
+                        <div class="d-flex flex-column">
+                            <h1>
+                                Naming Helper
+                            </h1>
+                            <div>
+                                <input id="autoComplete" tabindex="1">
+                            </div>
+                            <h2>
+                                Roots
+                            </h2>
+                            <div id="affixes" class="container d-flex flex-row flex-wrap"></div>
+                            <h2>
+                                Names
+                            </h2>
+                            <div id="names" class="container d-flex flex-row flex-wrap"></div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <script>
+const autocomplete = new autoComplete({
+	data: {                              // Data src [Array, Function, Async] | (REQUIRED)
+	  src: async () => {
+		const query = document.querySelector("#autoComplete").value;
+		const source = await fetch("../json/roots.json");
+		const data = await source.json();
+
+		return data;
+	  },
+	  key: ["meanings"],
+	  cache: true
+	},
+	sort: (a, b) => {                    // Sort rendered results ascendingly | (Optional)
+		if (a.match < b.match) return -1;
+		if (a.match > b.match) return 1;
+		return 0;
+	},
+	placeHolder: "Word Meaning or Affix",
+	selector: "#autoComplete",
+	threshold: 1,
+	debounce: 300,
+	searchEngine: "strict",
+	resultsList: {
+		render: true,
+		container: source => {
+			source.setAttribute("id", "affix_list");
+		},
+		destination: document.querySelector("#autoComplete"),
+		position: "afterend",
+		element: "ul"
+	},
+	maxResults: 15,
+	highlight: true,
+	resultItem: {
+		content: (data, source) => {
+			source.innerHTML = data.match;
+		},
+		element: "li"
+	},
+	noResults: () => {
+		const result = document.createElement("li");
+		result.setAttribute("class", "no_result");
+		result.setAttribute("tabindex", "1");
+		result.innerHTML = "No Results";
+		document.querySelector("#autoComplete_list").appendChild(result);
+	},
+	onSelection: feedback => {
+        add_affix(feedback.selection.value);
+    }
+});
+
+affixes = [];
+
+function add_affix(affix)
+{
+	var added = false;
+	affix["affixes"].forEach(function(element)
+	{
+		if (affixes.some(e => e["affix"] === element))
+		{
+			return;
+		}
+		var meanings = affix["meanings"].join(", ");
+		affixes.push({"affix": element, "meanings": meanings});
+		u("div#affixes").append(u("<div class='d-flex flex-column align-items-center'><div class='p-1'><i>" + element + "</i> - " + meanings + "&nbsp;<a href='#'><img src='./css/images/close.svg' style='width: 16px; height: 16px'/></a></div></div>"));
+		u(u("div#affixes").children().last()).find("a").on('click', function(e)
+		{
+			e.preventDefault();
+			affixes = affixes.filter(el => el["affix"] !== u(this).parent().find("i").text());
+			u(this).parent().remove();
+			generate_names();
+		});
+		added = true;
+	})
+	
+	if(added)
+	{
+		generate_names();
+	}
+}
+
+function permutation(array){
+	var result = [];
+	
+    function p(array, temp) {
+        var i, x;
+        if (!array.length) {
+            result.push(temp);
+        }
+        for (i = 0; i < array.length; i++) {
+            x = array.splice(i, 1)[0];
+            p(array, temp.concat(x));
+            array.splice(i, 0, x);
+        }
+    }
+
+    p(array, []);
+    return result;
+}
+
+function bwPowerSet(originalSet)
+{
+	const subSets = [];
+
+	const numberOfCombinations = 2 ** originalSet.length;
+	for (let combinationIndex = 0; combinationIndex < numberOfCombinations; combinationIndex += 1)
+	{
+		const subSet = [];
+
+		for (let setElementIndex = 0; setElementIndex < originalSet.length; setElementIndex += 1)
+		{
+			if (combinationIndex & (1 << setElementIndex))
+			{
+				subSet.push(originalSet[setElementIndex]);
+			}
+		}
+		
+		if(subSet.length <= 1)
+		{
+			continue;
+		}
+		
+		permutation(subSet).forEach(function(element)
+		{
+			subSets.push(element);
+		});
+	}
+
+	return subSets;
+}
+
+function ucfirst(string) 
+{
+    return string.charAt(0).toUpperCase() + string.slice(1);
+}
+
+function generate_names()
+{
+	var allAffixes = [];
+	affixes.forEach(function(element)
+	{
+		allAffixes.push(element["affix"]);
+	});
+	
+	var powerSet = bwPowerSet(allAffixes);
+	
+	u("div#names").empty();
+	
+	powerSet.forEach(function(element)
+	{
+		u("div#names").append("<div class='d-flex flex-column align-items-center'><div class='p-1'>" + ucfirst(element.join("")) + "</div></div>");
+	});
+}
+</script>
+    </body>
+</html>

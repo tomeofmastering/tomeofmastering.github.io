@@ -1,0 +1,3401 @@
+{
+    "nodes": [
+        {
+            "id": "Aarakocra",
+            "importance": 1.7934999999999999,
+            "type": "Monster"
+        },
+        {
+            "id": "Abandoned Mine",
+            "importance": 1.1125,
+            "type": "Location"
+        },
+        {
+            "id": "Abjurer",
+            "importance": 1.2065000000000001,
+            "type": "Monster"
+        },
+        {
+            "id": "Aboleth",
+            "importance": 1.815,
+            "type": "Monster"
+        },
+        {
+            "id": "Abominable Yeti",
+            "importance": 1.5710000000000002,
+            "type": "Monster"
+        },
+        {
+            "id": "Abyss",
+            "importance": 2.4125,
+            "type": "Location"
+        },
+        {
+            "id": "Abyssal Corruption",
+            "importance": 1,
+            "type": "Magic"
+        },
+        {
+            "id": "Abyssal Wretch",
+            "importance": 1,
+            "type": "Monster"
+        },
+        {
+            "id": "Acererak Demilich",
+            "importance": 1.0405,
+            "type": "Monster"
+        },
+        {
+            "id": "Acheron",
+            "importance": 1,
+            "type": "Location"
+        },
+        {
+            "id": "Acolyte",
+            "importance": 1,
+            "type": "Monster"
+        },
+        {
+            "id": "Air Elemental",
+            "importance": 2.0285,
+            "type": "Monster"
+        },
+        {
+            "id": "Air Elemental Myrmidon",
+            "importance": 1.124,
+            "type": "Monster"
+        },
+        {
+            "id": "Alhoon",
+            "importance": 2.184,
+            "type": "Monster"
+        },
+        {
+            "id": "Alkilith",
+            "importance": 1.3125,
+            "type": "Monster"
+        },
+        {
+            "id": "Allip",
+            "importance": 1.233,
+            "type": "Monster"
+        },
+        {
+            "id": "Allosaurus",
+            "importance": 1,
+            "type": "Monster"
+        },
+        {
+            "id": "Alpine Peaks",
+            "importance": 1.7955,
+            "type": "Location"
+        },
+        {
+            "id": "Amnizu",
+            "importance": 1.241,
+            "type": "Monster"
+        },
+        {
+            "id": "Androsphinx",
+            "importance": 3.3035,
+            "type": "Monster"
+        },
+        {
+            "id": "Animated Armor",
+            "importance": 1,
+            "type": "Monster"
+        },
+        {
+            "id": "Animated Object",
+            "importance": 1,
+            "type": "Monster"
+        },
+        {
+            "id": "Ankheg",
+            "importance": 1.786,
+            "type": "Monster"
+        },
+        {
+            "id": "Ankylosaurus",
+            "importance": 1,
+            "type": "Monster"
+        },
+        {
+            "id": "Annis Hag",
+            "importance": 2.5585,
+            "type": "Monster"
+        },
+        {
+            "id": "Ape",
+            "importance": 1,
+            "type": "Monster"
+        },
+        {
+            "id": "Apprentice Wizard",
+            "importance": 1.233,
+            "type": "Monster"
+        },
+        {
+            "id": "Arcanaloth",
+            "importance": 2.3735,
+            "type": "Monster"
+        },
+        {
+            "id": "Arcane Magic",
+            "importance": 5.107,
+            "type": "Magic"
+        },
+        {
+            "id": "Archdevils",
+            "importance": 1.0055,
+            "type": "Monster"
+        },
+        {
+            "id": "Archdruid",
+            "importance": 1.465,
+            "type": "Monster"
+        },
+        {
+            "id": "Archer",
+            "importance": 2.033,
+            "type": "Monster"
+        },
+        {
+            "id": "Archmage",
+            "importance": 1.1135,
+            "type": "Monster"
+        },
+        {
+            "id": "Armanite",
+            "importance": 1.863,
+            "type": "Monster"
+        },
+        {
+            "id": "Asmodeus, Lord of the Nine Hell",
+            "importance": 2.6675,
+            "type": "Deity"
+        },
+        {
+            "id": "Assassin",
+            "importance": 1.5935000000000001,
+            "type": "Monster"
+        },
+        {
+            "id": "Astral Dreadnought",
+            "importance": 1.466,
+            "type": "Monster"
+        },
+        {
+            "id": "Astral Plane",
+            "importance": 1.006,
+            "type": "Location"
+        },
+        {
+            "id": "Aurochs",
+            "importance": 1.4795,
+            "type": "Monster"
+        },
+        {
+            "id": "Autumn Eladrin",
+            "importance": 1.4575,
+            "type": "Monster"
+        },
+        {
+            "id": "Avatar of Death",
+            "importance": 1,
+            "type": "Monster"
+        },
+        {
+            "id": "Awakened Shrub",
+            "importance": 1,
+            "type": "Monster"
+        },
+        {
+            "id": "Awakened Tree",
+            "importance": 1,
+            "type": "Monster"
+        },
+        {
+            "id": "Axe Beak",
+            "importance": 1,
+            "type": "Monster"
+        },
+        {
+            "id": "Azer",
+            "importance": 1.5030000000000001,
+            "type": "Monster"
+        },
+        {
+            "id": "Babau",
+            "importance": 1.2,
+            "type": "Monster"
+        },
+        {
+            "id": "Baboon",
+            "importance": 1,
+            "type": "Monster"
+        },
+        {
+            "id": "Badger",
+            "importance": 1,
+            "type": "Monster"
+        },
+        {
+            "id": "Bael",
+            "importance": 1.233,
+            "type": "Monster"
+        },
+        {
+            "id": "Bahamut the Platinum Dragon",
+            "importance": 1.028,
+            "type": "Deity"
+        },
+        {
+            "id": "Bahgtru",
+            "importance": 1.0745,
+            "type": "Deity"
+        },
+        {
+            "id": "Balhannoth",
+            "importance": 1.8165,
+            "type": "Monster"
+        },
+        {
+            "id": "Balor",
+            "importance": 1,
+            "type": "Monster"
+        },
+        {
+            "id": "Banderhobb",
+            "importance": 1.639,
+            "type": "Monster"
+        },
+        {
+            "id": "Bandit",
+            "importance": 1,
+            "type": "Monster"
+        },
+        {
+            "id": "Bandit Captain",
+            "importance": 1,
+            "type": "Monster"
+        },
+        {
+            "id": "Banshee",
+            "importance": 1.233,
+            "type": "Monster"
+        },
+        {
+            "id": "Baphomet",
+            "importance": 1,
+            "type": "Monster"
+        },
+        {
+            "id": "Barbed Devil",
+            "importance": 1,
+            "type": "Monster"
+        },
+        {
+            "id": "Bard",
+            "importance": 1.2605,
+            "type": "Monster"
+        },
+        {
+            "id": "Barghest",
+            "importance": 1.9555,
+            "type": "Monster"
+        },
+        {
+            "id": "Beasts",
+            "importance": 2.6475,
+            "type": "Monster"
+        },
+        {
+            "id": "Beauty",
+            "importance": 1,
+            "type": "Idea"
+        },
+        {
+            "id": "Black Dragon",
+            "importance": 2.0045,
+            "type": "Monster"
+        },
+        {
+            "id": "Blue Dragon",
+            "importance": 6.0875,
+            "type": "Monster"
+        },
+        {
+            "id": "Books of Keeping",
+            "importance": 1.437,
+            "type": "Object"
+        },
+        {
+            "id": "Brass Dragon",
+            "importance": 1.7125,
+            "type": "Monster"
+        },
+        {
+            "id": "Bronze Dragon",
+            "importance": 1.552,
+            "type": "Monster"
+        },
+        {
+            "id": "Bugbear",
+            "importance": 1,
+            "type": "Monster"
+        },
+        {
+            "id": "Caravans",
+            "importance": 1.529,
+            "type": "Object"
+        },
+        {
+            "id": "Carceri",
+            "importance": 1,
+            "type": "Location"
+        },
+        {
+            "id": "Castles",
+            "importance": 1.932,
+            "type": "Location"
+        },
+        {
+            "id": "Cavern",
+            "importance": 1.2925,
+            "type": "Location"
+        },
+        {
+            "id": "Children",
+            "importance": 1,
+            "type": "Monster"
+        },
+        {
+            "id": "Chromatic Dragons",
+            "importance": 6.0360000000000005,
+            "type": "Monster"
+        },
+        {
+            "id": "Clergy",
+            "importance": 1,
+            "type": "Group"
+        },
+        {
+            "id": "Coasts",
+            "importance": 1,
+            "type": "Location"
+        },
+        {
+            "id": "Copper Dragon",
+            "importance": 2.0309999999999997,
+            "type": "Monster"
+        },
+        {
+            "id": "Corellon Larethian",
+            "importance": 1.566,
+            "type": "Deity"
+        },
+        {
+            "id": "Crystalised Cavern",
+            "importance": 1.1675,
+            "type": "Location"
+        },
+        {
+            "id": "Cultists",
+            "importance": 1,
+            "type": "Monster"
+        },
+        {
+            "id": "Curse",
+            "importance": 1,
+            "type": "Magic"
+        },
+        {
+            "id": "Deck of Many Things",
+            "importance": 1.4969999999999999,
+            "type": "Object"
+        },
+        {
+            "id": "Demilich",
+            "importance": 1.2965,
+            "type": "Monster"
+        },
+        {
+            "id": "Demiplane",
+            "importance": 1.6840000000000002,
+            "type": "Location"
+        },
+        {
+            "id": "Demogorgon",
+            "importance": 1,
+            "type": "Monster"
+        },
+        {
+            "id": "Demon Lords",
+            "importance": 2.9314999999999998,
+            "type": "Monster"
+        },
+        {
+            "id": "Demonic Amulet",
+            "importance": 1,
+            "type": "Object"
+        },
+        {
+            "id": "Demonic Essence",
+            "importance": 1,
+            "type": "Magic"
+        },
+        {
+            "id": "Demons",
+            "importance": 4.1375,
+            "type": "Monster"
+        },
+        {
+            "id": "Desert",
+            "importance": 1,
+            "type": "Location"
+        },
+        {
+            "id": "Devils",
+            "importance": 1.3435000000000001,
+            "type": "Monster"
+        },
+        {
+            "id": "Dinosaurs",
+            "importance": 1.001,
+            "type": "Monster"
+        },
+        {
+            "id": "Disguise",
+            "importance": 1,
+            "type": "Magic"
+        },
+        {
+            "id": "Dracolich",
+            "importance": 3.194,
+            "type": "Monster"
+        },
+        {
+            "id": "Dracolich Phylactery",
+            "importance": 1.1585,
+            "type": "Object"
+        },
+        {
+            "id": "Dragons",
+            "importance": 1.2345,
+            "type": "Monster"
+        },
+        {
+            "id": "Drow",
+            "importance": 1.4020000000000001,
+            "type": "Monster"
+        },
+        {
+            "id": "Druid",
+            "importance": 1,
+            "type": "Monster"
+        },
+        {
+            "id": "Duplicate",
+            "importance": 1,
+            "type": "Monster"
+        },
+        {
+            "id": "Dust Devil",
+            "importance": 1,
+            "type": "Monster"
+        },
+        {
+            "id": "Earthquakes",
+            "importance": 1,
+            "type": "Magic"
+        },
+        {
+            "id": "Efreeti",
+            "importance": 1,
+            "type": "Monster"
+        },
+        {
+            "id": "Eladrin",
+            "importance": 1.659,
+            "type": "Monster"
+        },
+        {
+            "id": "Elemental",
+            "importance": 1,
+            "type": "Monster"
+        },
+        {
+            "id": "Elemental Plane of Air",
+            "importance": 1.6,
+            "type": "Location"
+        },
+        {
+            "id": "Elemental Plane of Earth",
+            "importance": 2.2195,
+            "type": "Location"
+        },
+        {
+            "id": "Elemental Plane of Fire",
+            "importance": 1.5285,
+            "type": "Location"
+        },
+        {
+            "id": "Elemental Plane of Water",
+            "importance": 1.3305,
+            "type": "Location"
+        },
+        {
+            "id": "Elves",
+            "importance": 2.6550000000000002,
+            "type": "Monster"
+        },
+        {
+            "id": "Emeralds",
+            "importance": 1,
+            "type": "Object"
+        },
+        {
+            "id": "Ethereal Plane",
+            "importance": 1,
+            "type": "Location"
+        },
+        {
+            "id": "Ettercap",
+            "importance": 1,
+            "type": "Monster"
+        },
+        {
+            "id": "Ettin",
+            "importance": 1,
+            "type": "Monster"
+        },
+        {
+            "id": "Farmer",
+            "importance": 1,
+            "type": "Monster"
+        },
+        {
+            "id": "Fey",
+            "importance": 1,
+            "type": "Monster"
+        },
+        {
+            "id": "Feywild",
+            "importance": 1.6444999999999999,
+            "type": "Location"
+        },
+        {
+            "id": "Fire",
+            "importance": 1,
+            "type": "Magic"
+        },
+        {
+            "id": "Forest",
+            "importance": 1.702,
+            "type": "Location"
+        },
+        {
+            "id": "Frost Giant",
+            "importance": 1,
+            "type": "Monster"
+        },
+        {
+            "id": "Frozen Corpses",
+            "importance": 1,
+            "type": "Object"
+        },
+        {
+            "id": "Gargoyle",
+            "importance": 3.512,
+            "type": "Monster"
+        },
+        {
+            "id": "Gehenna",
+            "importance": 1.795,
+            "type": "Location"
+        },
+        {
+            "id": "Gems",
+            "importance": 1.7965,
+            "type": "Object"
+        },
+        {
+            "id": "General of Gehenna",
+            "importance": 1.855,
+            "type": "Monster"
+        },
+        {
+            "id": "Githyanki",
+            "importance": 1,
+            "type": "Monster"
+        },
+        {
+            "id": "Gnoll",
+            "importance": 1,
+            "type": "Monster"
+        },
+        {
+            "id": "Goblin",
+            "importance": 1.7205,
+            "type": "Monster"
+        },
+        {
+            "id": "Gods",
+            "importance": 1.7285,
+            "type": "Deity"
+        },
+        {
+            "id": "Gold Dragon",
+            "importance": 2.2975000000000003,
+            "type": "Monster"
+        },
+        {
+            "id": "Graz'zt",
+            "importance": 1.1025,
+            "type": "Monster"
+        },
+        {
+            "id": "Greedy",
+            "importance": 1.9929999999999999,
+            "type": "Trait"
+        },
+        {
+            "id": "Green Dragon",
+            "importance": 5.974,
+            "type": "Monster"
+        },
+        {
+            "id": "Gruumsh",
+            "importance": 1,
+            "type": "Deity"
+        },
+        {
+            "id": "Hades",
+            "importance": 1,
+            "type": "Location"
+        },
+        {
+            "id": "Hags",
+            "importance": 1.861,
+            "type": "Monster"
+        },
+        {
+            "id": "Healing Magic",
+            "importance": 1,
+            "type": "Magic"
+        },
+        {
+            "id": "Heat",
+            "importance": 1.3915,
+            "type": "Magic"
+        },
+        {
+            "id": "High Elf",
+            "importance": 1.544,
+            "type": "Monster"
+        },
+        {
+            "id": "Hills",
+            "importance": 1.35,
+            "type": "Location"
+        },
+        {
+            "id": "Historic Relics",
+            "importance": 1,
+            "type": "Object"
+        },
+        {
+            "id": "Hobgoblin",
+            "importance": 1,
+            "type": "Monster"
+        },
+        {
+            "id": "Humanoids",
+            "importance": 1.245,
+            "type": "Monster"
+        },
+        {
+            "id": "Ice Cavern",
+            "importance": 1.004,
+            "type": "Location"
+        },
+        {
+            "id": "Illusion",
+            "importance": 1.3519999999999999,
+            "type": "Magic"
+        },
+        {
+            "id": "Illusory Sounds",
+            "importance": 1,
+            "type": "Magic"
+        },
+        {
+            "id": "Innate Magic",
+            "importance": 2.0825,
+            "type": "Magic"
+        },
+        {
+            "id": "Inner Planes",
+            "importance": 3.0425,
+            "type": "Location"
+        },
+        {
+            "id": "Items",
+            "importance": 1,
+            "type": "Object"
+        },
+        {
+            "id": "Jokes",
+            "importance": 1,
+            "type": "Idea"
+        },
+        {
+            "id": "Juiblex",
+            "importance": 1.175,
+            "type": "Monster"
+        },
+        {
+            "id": "Jungle",
+            "importance": 1,
+            "type": "Location"
+        },
+        {
+            "id": "Kazaht",
+            "importance": 1.0115,
+            "type": "Deity"
+        },
+        {
+            "id": "Knowledge",
+            "importance": 1,
+            "type": "Idea"
+        },
+        {
+            "id": "Kobold",
+            "importance": 1,
+            "type": "Monster"
+        },
+        {
+            "id": "Kruthik",
+            "importance": 1.471,
+            "type": "Monster"
+        },
+        {
+            "id": "Kruthik Corpse",
+            "importance": 1,
+            "type": "Monster"
+        },
+        {
+            "id": "Kruthik Eggs",
+            "importance": 1,
+            "type": "Monster"
+        },
+        {
+            "id": "Lake",
+            "importance": 1.116,
+            "type": "Location"
+        },
+        {
+            "id": "Leather",
+            "importance": 1,
+            "type": "Object"
+        },
+        {
+            "id": "Lemure",
+            "importance": 1,
+            "type": "Monster"
+        },
+        {
+            "id": "Lich",
+            "importance": 1.8975,
+            "type": "Monster"
+        },
+        {
+            "id": "Livestock",
+            "importance": 1,
+            "type": "Monster"
+        },
+        {
+            "id": "Lizardfolk",
+            "importance": 1,
+            "type": "Monster"
+        },
+        {
+            "id": "Lolth",
+            "importance": 1.7425000000000002,
+            "type": "Deity"
+        },
+        {
+            "id": "Lower Planes",
+            "importance": 2.9515000000000002,
+            "type": "Location"
+        },
+        {
+            "id": "Luthic",
+            "importance": 1,
+            "type": "Deity"
+        },
+        {
+            "id": "Mage",
+            "importance": 1,
+            "type": "Monster"
+        },
+        {
+            "id": "Magic Items",
+            "importance": 1.2595,
+            "type": "Object"
+        },
+        {
+            "id": "Maglubiyet",
+            "importance": 1,
+            "type": "Deity"
+        },
+        {
+            "id": "Mammon",
+            "importance": 1.5725,
+            "type": "Monster"
+        },
+        {
+            "id": "Material Plane",
+            "importance": 1,
+            "type": "Location"
+        },
+        {
+            "id": "Memories",
+            "importance": 1,
+            "type": "Idea"
+        },
+        {
+            "id": "Metallic Dragons",
+            "importance": 2.0975,
+            "type": "Monster"
+        },
+        {
+            "id": "Metallic Items",
+            "importance": 1.3505,
+            "type": "Object"
+        },
+        {
+            "id": "Metals",
+            "importance": 1.8290000000000002,
+            "type": "Object"
+        },
+        {
+            "id": "Mind Flayer",
+            "importance": 1.6745,
+            "type": "Monster"
+        },
+        {
+            "id": "Mine",
+            "importance": 1.075,
+            "type": "Location"
+        },
+        {
+            "id": "Miners",
+            "importance": 1.348,
+            "type": "Monster"
+        },
+        {
+            "id": "Mist",
+            "importance": 1,
+            "type": "Magic"
+        },
+        {
+            "id": "Mountain Peaks",
+            "importance": 1.7025000000000001,
+            "type": "Location"
+        },
+        {
+            "id": "Mountains",
+            "importance": 2.76,
+            "type": "Location"
+        },
+        {
+            "id": "Nature",
+            "importance": 1,
+            "type": "Group"
+        },
+        {
+            "id": "Night Hag",
+            "importance": 2.3255,
+            "type": "Monster"
+        },
+        {
+            "id": "Nine Hells",
+            "importance": 1.5685,
+            "type": "Location"
+        },
+        {
+            "id": "Noble Eladrin",
+            "importance": 1.213,
+            "type": "Monster"
+        },
+        {
+            "id": "Oblex",
+            "importance": 1.6025,
+            "type": "Monster"
+        },
+        {
+            "id": "Ocean",
+            "importance": 1.116,
+            "type": "Location"
+        },
+        {
+            "id": "Ogre",
+            "importance": 1,
+            "type": "Monster"
+        },
+        {
+            "id": "Ogr\u00e9moch",
+            "importance": 1.1315,
+            "type": "Monster"
+        },
+        {
+            "id": "Ooze",
+            "importance": 1.1715,
+            "type": "Monster"
+        },
+        {
+            "id": "Orc",
+            "importance": 2.1705,
+            "type": "Monster"
+        },
+        {
+            "id": "Orcus",
+            "importance": 1.2915,
+            "type": "Monster"
+        },
+        {
+            "id": "Outer Planes",
+            "importance": 1.8785,
+            "type": "Location"
+        },
+        {
+            "id": "Pastures",
+            "importance": 1,
+            "type": "Location"
+        },
+        {
+            "id": "Peace",
+            "importance": 1,
+            "type": "Idea"
+        },
+        {
+            "id": "Pearls",
+            "importance": 1,
+            "type": "Object"
+        },
+        {
+            "id": "Periapt of Mind Trapping",
+            "importance": 1.2215,
+            "type": "Object"
+        },
+        {
+            "id": "Phylactery",
+            "importance": 1.282,
+            "type": "Object"
+        },
+        {
+            "id": "Planes",
+            "importance": 3.742,
+            "type": "Location"
+        },
+        {
+            "id": "Poison",
+            "importance": 1,
+            "type": "Magic"
+        },
+        {
+            "id": "Portal to Elemental Plane of Fire",
+            "importance": 1.3075,
+            "type": "Object"
+        },
+        {
+            "id": "Portal to the Abyss",
+            "importance": 1.334,
+            "type": "Object"
+        },
+        {
+            "id": "Pranks",
+            "importance": 1,
+            "type": "Idea"
+        },
+        {
+            "id": "Priest",
+            "importance": 1,
+            "type": "Monster"
+        },
+        {
+            "id": "Red Dragon",
+            "importance": 3.843,
+            "type": "Monster"
+        },
+        {
+            "id": "River Styx",
+            "importance": 1.275,
+            "type": "Location"
+        },
+        {
+            "id": "Ruins",
+            "importance": 1,
+            "type": "Location"
+        },
+        {
+            "id": "Rutterkin",
+            "importance": 1,
+            "type": "Monster"
+        },
+        {
+            "id": "School",
+            "importance": 1,
+            "type": "Location"
+        },
+        {
+            "id": "Secrets",
+            "importance": 1.7774999999999999,
+            "type": "Idea"
+        },
+        {
+            "id": "Sentient Items",
+            "importance": 1.068,
+            "type": "Object"
+        },
+        {
+            "id": "Shadowfell",
+            "importance": 1.6840000000000002,
+            "type": "Location"
+        },
+        {
+            "id": "Silver Dragon",
+            "importance": 1.9064999999999999,
+            "type": "Monster"
+        },
+        {
+            "id": "Sinkhole",
+            "importance": 1,
+            "type": "Magic"
+        },
+        {
+            "id": "Sisterhood",
+            "importance": 1,
+            "type": "Group"
+        },
+        {
+            "id": "Solid Clouds",
+            "importance": 1,
+            "type": "Magic"
+        },
+        {
+            "id": "Souls",
+            "importance": 1.3615,
+            "type": "Object"
+        },
+        {
+            "id": "Spellcasters",
+            "importance": 1.665,
+            "type": "Monster"
+        },
+        {
+            "id": "Summoner",
+            "importance": 1,
+            "type": "Monster"
+        },
+        {
+            "id": "Swamps",
+            "importance": 1,
+            "type": "Location"
+        },
+        {
+            "id": "Telepathic Contact",
+            "importance": 1.866,
+            "type": "Magic"
+        },
+        {
+            "id": "Tharizdun, the Chained God",
+            "importance": 1,
+            "type": "Deity"
+        },
+        {
+            "id": "Thunderstorm",
+            "importance": 1.2605,
+            "type": "Magic"
+        },
+        {
+            "id": "Tiamat the Dragon Queen",
+            "importance": 1.1015,
+            "type": "Deity"
+        },
+        {
+            "id": "Time Magic",
+            "importance": 1.912,
+            "type": "Magic"
+        },
+        {
+            "id": "Tomb",
+            "importance": 1,
+            "type": "Location"
+        },
+        {
+            "id": "Transitive Planes",
+            "importance": 1.461,
+            "type": "Location"
+        },
+        {
+            "id": "Transmutation Magic",
+            "importance": 1.465,
+            "type": "Magic"
+        },
+        {
+            "id": "Treachery",
+            "importance": 1,
+            "type": "Idea"
+        },
+        {
+            "id": "Treasures",
+            "importance": 4.521,
+            "type": "Object"
+        },
+        {
+            "id": "Troll",
+            "importance": 1,
+            "type": "Monster"
+        },
+        {
+            "id": "Tunnel",
+            "importance": 1.5895000000000001,
+            "type": "Location"
+        },
+        {
+            "id": "Tyranny",
+            "importance": 1.2995,
+            "type": "Idea"
+        },
+        {
+            "id": "Undeads",
+            "importance": 1.2765,
+            "type": "Group"
+        },
+        {
+            "id": "Underdark",
+            "importance": 1,
+            "type": "Location"
+        },
+        {
+            "id": "Upper Planes",
+            "importance": 1,
+            "type": "Location"
+        },
+        {
+            "id": "Vaults",
+            "importance": 1.229,
+            "type": "Location"
+        },
+        {
+            "id": "Water",
+            "importance": 1,
+            "type": "Location"
+        },
+        {
+            "id": "Wealthy",
+            "importance": 1.309,
+            "type": "Monster"
+        },
+        {
+            "id": "Weather",
+            "importance": 1.174,
+            "type": "Magic"
+        },
+        {
+            "id": "White Dragon",
+            "importance": 1.9264999999999999,
+            "type": "Monster"
+        },
+        {
+            "id": "Wind",
+            "importance": 1,
+            "type": "Magic"
+        },
+        {
+            "id": "Wizards",
+            "importance": 3.548,
+            "type": "Monster"
+        },
+        {
+            "id": "Yeenoghu",
+            "importance": 1.233,
+            "type": "Monster"
+        },
+        {
+            "id": "Yuan-ti",
+            "importance": 1,
+            "type": "Monster"
+        },
+        {
+            "id": "Yugoloths",
+            "importance": 3.821,
+            "type": "Monster"
+        }
+    ],
+    "links": [
+        {
+            "id": "Aarakocra_Summoner of_Air Elemental",
+            "source": "Aarakocra",
+            "target": "Air Elemental",
+            "label": "Summoner of"
+        },
+        {
+            "id": "Aarakocra_Enemy of_Gargoyle",
+            "source": "Aarakocra",
+            "target": "Gargoyle",
+            "label": "Enemy of"
+        },
+        {
+            "id": "Aarakocra_Protector of_Elemental Plane of Air",
+            "source": "Aarakocra",
+            "target": "Elemental Plane of Air",
+            "label": "Protector of\nFound in"
+        },
+        {
+            "id": "Aarakocra_Found in_Mountain Peaks",
+            "source": "Aarakocra",
+            "target": "Mountain Peaks",
+            "label": "Found in"
+        },
+        {
+            "id": "Abjurer_Protector of_Vaults",
+            "source": "Abjurer",
+            "target": "Vaults",
+            "label": "Protector of"
+        },
+        {
+            "id": "Abjurer_Protector of_Castles",
+            "source": "Abjurer",
+            "target": "Castles",
+            "label": "Protector of"
+        },
+        {
+            "id": "Aboleth_Enemy of_Gods",
+            "source": "Aboleth",
+            "target": "Gods",
+            "label": "Enemy of"
+        },
+        {
+            "id": "Aboleth_Found in_Elemental Plane of Water",
+            "source": "Aboleth",
+            "target": "Elemental Plane of Water",
+            "label": "Found in"
+        },
+        {
+            "id": "Aboleth_Found in_Lake",
+            "source": "Aboleth",
+            "target": "Lake",
+            "label": "Found in"
+        },
+        {
+            "id": "Aboleth_Found in_Ocean",
+            "source": "Aboleth",
+            "target": "Ocean",
+            "label": "Found in"
+        },
+        {
+            "id": "Abominable Yeti_Found in_Alpine Peaks",
+            "source": "Abominable Yeti",
+            "target": "Alpine Peaks",
+            "label": "Found in"
+        },
+        {
+            "id": "Abominable Yeti_Hunter of_Beasts",
+            "source": "Abominable Yeti",
+            "target": "Beasts",
+            "label": "Hunter of"
+        },
+        {
+            "id": "Abominable Yeti_Hunter of_Abominable Yeti",
+            "source": "Abominable Yeti",
+            "target": "Abominable Yeti",
+            "label": "Hunter of"
+        },
+        {
+            "id": "Abominable Yeti_Hunter of_Humanoids",
+            "source": "Abominable Yeti",
+            "target": "Humanoids",
+            "label": "Hunter of"
+        },
+        {
+            "id": "Abyss_Maker of_Demons",
+            "source": "Abyss",
+            "target": "Demons",
+            "label": "Maker of"
+        },
+        {
+            "id": "Acererak Demilich_Found in_Tomb",
+            "source": "Acererak Demilich",
+            "target": "Tomb",
+            "label": "Found in"
+        },
+        {
+            "id": "Air Elemental_Found in_Elemental Plane of Air",
+            "source": "Air Elemental",
+            "target": "Elemental Plane of Air",
+            "label": "Found in"
+        },
+        {
+            "id": "Air Elemental_Superset of_Air Elemental Myrmidon",
+            "source": "Air Elemental",
+            "target": "Air Elemental Myrmidon",
+            "label": "Superset of"
+        },
+        {
+            "id": "Alhoon_User of_Arcane Magic",
+            "source": "Alhoon",
+            "target": "Arcane Magic",
+            "label": "User of"
+        },
+        {
+            "id": "Alhoon_Maker of_Periapt of Mind Trapping",
+            "source": "Alhoon",
+            "target": "Periapt of Mind Trapping",
+            "label": "Maker of"
+        },
+        {
+            "id": "Alkilith_Maker of_Portal to the Abyss",
+            "source": "Alkilith",
+            "target": "Portal to the Abyss",
+            "label": "Maker of"
+        },
+        {
+            "id": "Amnizu_Found in_River Styx",
+            "source": "Amnizu",
+            "target": "River Styx",
+            "label": "Found in\nProtector of"
+        },
+        {
+            "id": "Amnizu_Found in_Nine Hells",
+            "source": "Amnizu",
+            "target": "Nine Hells",
+            "label": "Found in"
+        },
+        {
+            "id": "Amnizu_Master of_Lemure",
+            "source": "Amnizu",
+            "target": "Lemure",
+            "label": "Master of"
+        },
+        {
+            "id": "Androsphinx_Protector of_Secrets",
+            "source": "Androsphinx",
+            "target": "Secrets",
+            "label": "Protector of"
+        },
+        {
+            "id": "Androsphinx_Protector of_Treasures",
+            "source": "Androsphinx",
+            "target": "Treasures",
+            "label": "Protector of"
+        },
+        {
+            "id": "Androsphinx_Found in_Vaults",
+            "source": "Androsphinx",
+            "target": "Vaults",
+            "label": "Found in"
+        },
+        {
+            "id": "Androsphinx_User of_Time Magic",
+            "source": "Androsphinx",
+            "target": "Time Magic",
+            "label": "User of"
+        },
+        {
+            "id": "Ankheg_Found in_Forest",
+            "source": "Ankheg",
+            "target": "Forest",
+            "label": "Found in"
+        },
+        {
+            "id": "Ankheg_Hunter of_Livestock",
+            "source": "Ankheg",
+            "target": "Livestock",
+            "label": "Hunter of"
+        },
+        {
+            "id": "Ankheg_Found in_Pastures",
+            "source": "Ankheg",
+            "target": "Pastures",
+            "label": "Found in"
+        },
+        {
+            "id": "Ankheg_Maker of_Tunnel",
+            "source": "Ankheg",
+            "target": "Tunnel",
+            "label": "Maker of"
+        },
+        {
+            "id": "Annis Hag_Found in_Hills",
+            "source": "Annis Hag",
+            "target": "Hills",
+            "label": "Found in"
+        },
+        {
+            "id": "Annis Hag_Found in_Mountains",
+            "source": "Annis Hag",
+            "target": "Mountains",
+            "label": "Found in"
+        },
+        {
+            "id": "Annis Hag_Devourer of_Children",
+            "source": "Annis Hag",
+            "target": "Children",
+            "label": "Devourer of"
+        },
+        {
+            "id": "Annis Hag_Maker of_Leather",
+            "source": "Annis Hag",
+            "target": "Leather",
+            "label": "Maker of"
+        },
+        {
+            "id": "Annis Hag_Master of_Troll",
+            "source": "Annis Hag",
+            "target": "Troll",
+            "label": "Master of"
+        },
+        {
+            "id": "Annis Hag_Master of_Ogre",
+            "source": "Annis Hag",
+            "target": "Ogre",
+            "label": "Master of"
+        },
+        {
+            "id": "Ape_Found in_Jungle",
+            "source": "Ape",
+            "target": "Jungle",
+            "label": "Found in"
+        },
+        {
+            "id": "Apprentice Wizard_Found in_School",
+            "source": "Apprentice Wizard",
+            "target": "School",
+            "label": "Found in"
+        },
+        {
+            "id": "Arcanaloth_User of_Arcane Magic",
+            "source": "Arcanaloth",
+            "target": "Arcane Magic",
+            "label": "User of"
+        },
+        {
+            "id": "Arcanaloth_Master of_Yugoloths",
+            "source": "Arcanaloth",
+            "target": "Yugoloths",
+            "label": "Master of"
+        },
+        {
+            "id": "Arcanaloth_Seeker of_Knowledge",
+            "source": "Arcanaloth",
+            "target": "Knowledge",
+            "label": "Seeker of"
+        },
+        {
+            "id": "Arcanaloth_User of_Disguise",
+            "source": "Arcanaloth",
+            "target": "Disguise",
+            "label": "User of"
+        },
+        {
+            "id": "Arcane Magic_Maker of_Animated Armor",
+            "source": "Arcane Magic",
+            "target": "Animated Armor",
+            "label": "Maker of"
+        },
+        {
+            "id": "Arcane Magic_Superset of_Innate Magic",
+            "source": "Arcane Magic",
+            "target": "Innate Magic",
+            "label": "Superset of"
+        },
+        {
+            "id": "Arcane Magic_Superset of_Healing Magic",
+            "source": "Arcane Magic",
+            "target": "Healing Magic",
+            "label": "Superset of"
+        },
+        {
+            "id": "Arcane Magic_Superset of_Time Magic",
+            "source": "Arcane Magic",
+            "target": "Time Magic",
+            "label": "Superset of"
+        },
+        {
+            "id": "Arcane Magic_Superset of_Transmutation Magic",
+            "source": "Arcane Magic",
+            "target": "Transmutation Magic",
+            "label": "Superset of"
+        },
+        {
+            "id": "Arcane Magic_Maker of_Animated Object",
+            "source": "Arcane Magic",
+            "target": "Animated Object",
+            "label": "Maker of"
+        },
+        {
+            "id": "Archdevils_Superset of_Bael",
+            "source": "Archdevils",
+            "target": "Bael",
+            "label": "Superset of"
+        },
+        {
+            "id": "Archdevils_Superset of_Mammon",
+            "source": "Archdevils",
+            "target": "Mammon",
+            "label": "Superset of"
+        },
+        {
+            "id": "Archdruid_Protector of_Nature",
+            "source": "Archdruid",
+            "target": "Nature",
+            "label": "Protector of"
+        },
+        {
+            "id": "Archdruid_Master of_Druid",
+            "source": "Archdruid",
+            "target": "Druid",
+            "label": "Master of"
+        },
+        {
+            "id": "Archdruid_Ally of_Beasts",
+            "source": "Archdruid",
+            "target": "Beasts",
+            "label": "Ally of"
+        },
+        {
+            "id": "Archer_Protector of_Castles",
+            "source": "Archer",
+            "target": "Castles",
+            "label": "Protector of"
+        },
+        {
+            "id": "Archer_Hunter of_Beasts",
+            "source": "Archer",
+            "target": "Beasts",
+            "label": "Hunter of"
+        },
+        {
+            "id": "Archer_Protector of_Caravans",
+            "source": "Archer",
+            "target": "Caravans",
+            "label": "Protector of"
+        },
+        {
+            "id": "Archmage_Master of_Mage",
+            "source": "Archmage",
+            "target": "Mage",
+            "label": "Master of"
+        },
+        {
+            "id": "Archmage_User of_Arcane Magic",
+            "source": "Archmage",
+            "target": "Arcane Magic",
+            "label": "User of"
+        },
+        {
+            "id": "Armanite_User of_Innate Magic",
+            "source": "Armanite",
+            "target": "Innate Magic",
+            "label": "User of"
+        },
+        {
+            "id": "Armanite_User of_Telepathic Contact",
+            "source": "Armanite",
+            "target": "Telepathic Contact",
+            "label": "User of"
+        },
+        {
+            "id": "Asmodeus, Lord of the Nine Hell_Master of_Devils",
+            "source": "Asmodeus, Lord of the Nine Hell",
+            "target": "Devils",
+            "label": "Master of\nWorshipped by"
+        },
+        {
+            "id": "Asmodeus, Lord of the Nine Hell_Master of_Nine Hells",
+            "source": "Asmodeus, Lord of the Nine Hell",
+            "target": "Nine Hells",
+            "label": "Master of"
+        },
+        {
+            "id": "Asmodeus, Lord of the Nine Hell_Maker of_Yugoloths",
+            "source": "Asmodeus, Lord of the Nine Hell",
+            "target": "Yugoloths",
+            "label": "Maker of"
+        },
+        {
+            "id": "Asmodeus, Lord of the Nine Hell_Master of_Mammon",
+            "source": "Asmodeus, Lord of the Nine Hell",
+            "target": "Mammon",
+            "label": "Master of"
+        },
+        {
+            "id": "Assassin_User of_Poison",
+            "source": "Assassin",
+            "target": "Poison",
+            "label": "User of"
+        },
+        {
+            "id": "Assassin_Superset of_Banderhobb",
+            "source": "Assassin",
+            "target": "Banderhobb",
+            "label": "Superset of"
+        },
+        {
+            "id": "Astral Dreadnought_Found in_Astral Plane",
+            "source": "Astral Dreadnought",
+            "target": "Astral Plane",
+            "label": "Found in"
+        },
+        {
+            "id": "Astral Dreadnought_Maker of_Demiplane",
+            "source": "Astral Dreadnought",
+            "target": "Demiplane",
+            "label": "Maker of"
+        },
+        {
+            "id": "Aurochs_Superset of_Kazaht",
+            "source": "Aurochs",
+            "target": "Kazaht",
+            "label": "Superset of"
+        },
+        {
+            "id": "Autumn Eladrin_User of_Innate Magic",
+            "source": "Autumn Eladrin",
+            "target": "Innate Magic",
+            "label": "User of"
+        },
+        {
+            "id": "Autumn Eladrin_Maker of_Peace",
+            "source": "Autumn Eladrin",
+            "target": "Peace",
+            "label": "Maker of"
+        },
+        {
+            "id": "Autumn Eladrin_User of_Healing Magic",
+            "source": "Autumn Eladrin",
+            "target": "Healing Magic",
+            "label": "User of"
+        },
+        {
+            "id": "Azer_Found in_Elemental Plane of Fire",
+            "source": "Azer",
+            "target": "Elemental Plane of Fire",
+            "label": "Found in"
+        },
+        {
+            "id": "Azer_Maker of_Metallic Items",
+            "source": "Azer",
+            "target": "Metallic Items",
+            "label": "Maker of"
+        },
+        {
+            "id": "Azer_Enemy of_Efreeti",
+            "source": "Azer",
+            "target": "Efreeti",
+            "label": "Enemy of"
+        },
+        {
+            "id": "Azer_Maker of_Azer",
+            "source": "Azer",
+            "target": "Azer",
+            "label": "Maker of"
+        },
+        {
+            "id": "Azer_Maker of_Magic Items",
+            "source": "Azer",
+            "target": "Magic Items",
+            "label": "Maker of"
+        },
+        {
+            "id": "Babau_User of_Innate Magic",
+            "source": "Babau",
+            "target": "Innate Magic",
+            "label": "User of"
+        },
+        {
+            "id": "Bael_Protector of_Mammon",
+            "source": "Bael",
+            "target": "Mammon",
+            "label": "Protector of"
+        },
+        {
+            "id": "Bael_Worshipped by_Cultists",
+            "source": "Bael",
+            "target": "Cultists",
+            "label": "Worshipped by"
+        },
+        {
+            "id": "Bahamut the Platinum Dragon_Enemy of_Tiamat the Dragon Queen",
+            "source": "Bahamut the Platinum Dragon",
+            "target": "Tiamat the Dragon Queen",
+            "label": "Enemy of"
+        },
+        {
+            "id": "Bahamut the Platinum Dragon_Worshipped by_Metallic Dragons",
+            "source": "Bahamut the Platinum Dragon",
+            "target": "Metallic Dragons",
+            "label": "Worshipped by"
+        },
+        {
+            "id": "Bahgtru_Worshipped by_Orc",
+            "source": "Bahgtru",
+            "target": "Orc",
+            "label": "Worshipped by"
+        },
+        {
+            "id": "Bahgtru_User of_Kazaht",
+            "source": "Bahgtru",
+            "target": "Kazaht",
+            "label": "User of"
+        },
+        {
+            "id": "Balhannoth_Found in_Shadowfell",
+            "source": "Balhannoth",
+            "target": "Shadowfell",
+            "label": "Found in"
+        },
+        {
+            "id": "Balhannoth_User of_Illusion",
+            "source": "Balhannoth",
+            "target": "Illusion",
+            "label": "User of"
+        },
+        {
+            "id": "Balhannoth_User of_Telepathic Contact",
+            "source": "Balhannoth",
+            "target": "Telepathic Contact",
+            "label": "User of"
+        },
+        {
+            "id": "Balor_Master of_Demons",
+            "source": "Balor",
+            "target": "Demons",
+            "label": "Master of"
+        },
+        {
+            "id": "Banderhobb_Found in_Shadowfell",
+            "source": "Banderhobb",
+            "target": "Shadowfell",
+            "label": "Found in"
+        },
+        {
+            "id": "Bandit Captain_Master of_Bandit",
+            "source": "Bandit Captain",
+            "target": "Bandit",
+            "label": "Master of"
+        },
+        {
+            "id": "Banshee_Seeker of_Beauty",
+            "source": "Banshee",
+            "target": "Beauty",
+            "label": "Seeker of"
+        },
+        {
+            "id": "Barbed Devil_Protector of_Archdevils",
+            "source": "Barbed Devil",
+            "target": "Archdevils",
+            "label": "Protector of"
+        },
+        {
+            "id": "Bard_Ally of_Copper Dragon",
+            "source": "Bard",
+            "target": "Copper Dragon",
+            "label": "Ally of"
+        },
+        {
+            "id": "Barghest_Devourer of_Souls",
+            "source": "Barghest",
+            "target": "Souls",
+            "label": "Devourer of"
+        },
+        {
+            "id": "Barghest_Afraid of_Fire",
+            "source": "Barghest",
+            "target": "Fire",
+            "label": "Afraid of"
+        },
+        {
+            "id": "Beasts_Superset of_Aurochs",
+            "source": "Beasts",
+            "target": "Aurochs",
+            "label": "Superset of"
+        },
+        {
+            "id": "Beasts_Superset of_Axe Beak",
+            "source": "Beasts",
+            "target": "Axe Beak",
+            "label": "Superset of"
+        },
+        {
+            "id": "Beasts_Superset of_Baboon",
+            "source": "Beasts",
+            "target": "Baboon",
+            "label": "Superset of"
+        },
+        {
+            "id": "Beasts_Superset of_Badger",
+            "source": "Beasts",
+            "target": "Badger",
+            "label": "Superset of"
+        },
+        {
+            "id": "Black Dragon_Found in_Ruins",
+            "source": "Black Dragon",
+            "target": "Ruins",
+            "label": "Found in"
+        },
+        {
+            "id": "Black Dragon_Found in_Swamps",
+            "source": "Black Dragon",
+            "target": "Swamps",
+            "label": "Found in"
+        },
+        {
+            "id": "Black Dragon_Protector of_Treasures",
+            "source": "Black Dragon",
+            "target": "Treasures",
+            "label": "Protector of"
+        },
+        {
+            "id": "Black Dragon_Afraid of_Dragons",
+            "source": "Black Dragon",
+            "target": "Dragons",
+            "label": "Afraid of"
+        },
+        {
+            "id": "Black Dragon_Master of_Lizardfolk",
+            "source": "Black Dragon",
+            "target": "Lizardfolk",
+            "label": "Master of"
+        },
+        {
+            "id": "Black Dragon_Master of_Kobold",
+            "source": "Black Dragon",
+            "target": "Kobold",
+            "label": "Master of"
+        },
+        {
+            "id": "Blue Dragon_Found in_Desert",
+            "source": "Blue Dragon",
+            "target": "Desert",
+            "label": "Found in"
+        },
+        {
+            "id": "Blue Dragon_Found in_Crystalised Cavern",
+            "source": "Blue Dragon",
+            "target": "Crystalised Cavern",
+            "label": "Found in"
+        },
+        {
+            "id": "Blue Dragon_Maker of_Thunderstorm",
+            "source": "Blue Dragon",
+            "target": "Thunderstorm",
+            "label": "Maker of"
+        },
+        {
+            "id": "Blue Dragon_Maker of_Dust Devil",
+            "source": "Blue Dragon",
+            "target": "Dust Devil",
+            "label": "Maker of"
+        },
+        {
+            "id": "Blue Dragon_Hunter of_Caravans",
+            "source": "Blue Dragon",
+            "target": "Caravans",
+            "label": "Hunter of"
+        },
+        {
+            "id": "Blue Dragon_Enemy of_Brass Dragon",
+            "source": "Blue Dragon",
+            "target": "Brass Dragon",
+            "label": "Enemy of"
+        },
+        {
+            "id": "Blue Dragon_Employer of_Wizards",
+            "source": "Blue Dragon",
+            "target": "Wizards",
+            "label": "Employer of"
+        },
+        {
+            "id": "Blue Dragon_Master of_Air Elemental",
+            "source": "Blue Dragon",
+            "target": "Air Elemental",
+            "label": "Master of"
+        },
+        {
+            "id": "Blue Dragon_Protector of_Gems",
+            "source": "Blue Dragon",
+            "target": "Gems",
+            "label": "Protector of"
+        },
+        {
+            "id": "Blue Dragon_Maker of_Illusion",
+            "source": "Blue Dragon",
+            "target": "Illusion",
+            "label": "Maker of"
+        },
+        {
+            "id": "Blue Dragon_Employer of_Assassin",
+            "source": "Blue Dragon",
+            "target": "Assassin",
+            "label": "Employer of"
+        },
+        {
+            "id": "Blue Dragon_Employer of_Bard",
+            "source": "Blue Dragon",
+            "target": "Bard",
+            "label": "Employer of"
+        },
+        {
+            "id": "Books of Keeping_Summoner of_Yugoloths",
+            "source": "Books of Keeping",
+            "target": "Yugoloths",
+            "label": "Summoner of"
+        },
+        {
+            "id": "Brass Dragon_Found in_Desert",
+            "source": "Brass Dragon",
+            "target": "Desert",
+            "label": "Found in"
+        },
+        {
+            "id": "Brass Dragon_Protector of_Sentient Items",
+            "source": "Brass Dragon",
+            "target": "Sentient Items",
+            "label": "Protector of"
+        },
+        {
+            "id": "Brass Dragon_Protector of_Treasures",
+            "source": "Brass Dragon",
+            "target": "Treasures",
+            "label": "Protector of"
+        },
+        {
+            "id": "Bronze Dragon_Maker of_Illusory Sounds",
+            "source": "Bronze Dragon",
+            "target": "Illusory Sounds",
+            "label": "Maker of"
+        },
+        {
+            "id": "Bronze Dragon_Maker of_Weather",
+            "source": "Bronze Dragon",
+            "target": "Weather",
+            "label": "Maker of"
+        },
+        {
+            "id": "Bronze Dragon_Enemy of_Tyranny",
+            "source": "Bronze Dragon",
+            "target": "Tyranny",
+            "label": "Enemy of"
+        },
+        {
+            "id": "Bronze Dragon_Found in_Coasts",
+            "source": "Bronze Dragon",
+            "target": "Coasts",
+            "label": "Found in"
+        },
+        {
+            "id": "Cavern_Superset of_Crystalised Cavern",
+            "source": "Cavern",
+            "target": "Crystalised Cavern",
+            "label": "Superset of"
+        },
+        {
+            "id": "Cavern_Superset of_Ice Cavern",
+            "source": "Cavern",
+            "target": "Ice Cavern",
+            "label": "Superset of"
+        },
+        {
+            "id": "Chromatic Dragons_Superset of_Black Dragon",
+            "source": "Chromatic Dragons",
+            "target": "Black Dragon",
+            "label": "Superset of"
+        },
+        {
+            "id": "Chromatic Dragons_Superset of_Dracolich",
+            "source": "Chromatic Dragons",
+            "target": "Dracolich",
+            "label": "Superset of"
+        },
+        {
+            "id": "Chromatic Dragons_Superset of_Blue Dragon",
+            "source": "Chromatic Dragons",
+            "target": "Blue Dragon",
+            "label": "Superset of"
+        },
+        {
+            "id": "Chromatic Dragons_Superset of_Green Dragon",
+            "source": "Chromatic Dragons",
+            "target": "Green Dragon",
+            "label": "Superset of"
+        },
+        {
+            "id": "Chromatic Dragons_Superset of_Red Dragon",
+            "source": "Chromatic Dragons",
+            "target": "Red Dragon",
+            "label": "Superset of"
+        },
+        {
+            "id": "Chromatic Dragons_Superset of_White Dragon",
+            "source": "Chromatic Dragons",
+            "target": "White Dragon",
+            "label": "Superset of"
+        },
+        {
+            "id": "Clergy_Composed of_Acolyte",
+            "source": "Clergy",
+            "target": "Acolyte",
+            "label": "Composed of"
+        },
+        {
+            "id": "Clergy_Composed of_Priest",
+            "source": "Clergy",
+            "target": "Priest",
+            "label": "Composed of"
+        },
+        {
+            "id": "Copper Dragon_Maker of_Jokes",
+            "source": "Copper Dragon",
+            "target": "Jokes",
+            "label": "Maker of"
+        },
+        {
+            "id": "Copper Dragon_Maker of_Pranks",
+            "source": "Copper Dragon",
+            "target": "Pranks",
+            "label": "Maker of"
+        },
+        {
+            "id": "Copper Dragon_Found in_Hills",
+            "source": "Copper Dragon",
+            "target": "Hills",
+            "label": "Found in"
+        },
+        {
+            "id": "Copper Dragon_Protector of_Gems",
+            "source": "Copper Dragon",
+            "target": "Gems",
+            "label": "Protector of"
+        },
+        {
+            "id": "Copper Dragon_Protector of_Metallic Items",
+            "source": "Copper Dragon",
+            "target": "Metallic Items",
+            "label": "Protector of"
+        },
+        {
+            "id": "Corellon Larethian_Enemy of_Lolth",
+            "source": "Corellon Larethian",
+            "target": "Lolth",
+            "label": "Enemy of"
+        },
+        {
+            "id": "Corellon Larethian_Maker of_Elves",
+            "source": "Corellon Larethian",
+            "target": "Elves",
+            "label": "Maker of"
+        },
+        {
+            "id": "Curse_Transformed into_Allip",
+            "source": "Curse",
+            "target": "Allip",
+            "label": "Transformed into"
+        },
+        {
+            "id": "Deck of Many Things_Summoner of_Avatar of Death",
+            "source": "Deck of Many Things",
+            "target": "Avatar of Death",
+            "label": "Summoner of"
+        },
+        {
+            "id": "Demilich_Superset of_Acererak Demilich",
+            "source": "Demilich",
+            "target": "Acererak Demilich",
+            "label": "Superset of"
+        },
+        {
+            "id": "Demilich_Found in_Tomb",
+            "source": "Demilich",
+            "target": "Tomb",
+            "label": "Found in"
+        },
+        {
+            "id": "Demon Lords_Superset of_Graz'zt",
+            "source": "Demon Lords",
+            "target": "Graz'zt",
+            "label": "Superset of"
+        },
+        {
+            "id": "Demon Lords_Superset of_Balor",
+            "source": "Demon Lords",
+            "target": "Balor",
+            "label": "Superset of"
+        },
+        {
+            "id": "Demon Lords_Superset of_Lolth",
+            "source": "Demon Lords",
+            "target": "Lolth",
+            "label": "Superset of"
+        },
+        {
+            "id": "Demon Lords_Superset of_Juiblex",
+            "source": "Demon Lords",
+            "target": "Juiblex",
+            "label": "Superset of"
+        },
+        {
+            "id": "Demon Lords_Superset of_Baphomet",
+            "source": "Demon Lords",
+            "target": "Baphomet",
+            "label": "Superset of"
+        },
+        {
+            "id": "Demon Lords_Superset of_Demogorgon",
+            "source": "Demon Lords",
+            "target": "Demogorgon",
+            "label": "Superset of"
+        },
+        {
+            "id": "Demon Lords_Superset of_Orcus",
+            "source": "Demon Lords",
+            "target": "Orcus",
+            "label": "Superset of"
+        },
+        {
+            "id": "Demon Lords_Superset of_Yeenoghu",
+            "source": "Demon Lords",
+            "target": "Yeenoghu",
+            "label": "Superset of"
+        },
+        {
+            "id": "Demonic Amulet_Protector of_Demons",
+            "source": "Demonic Amulet",
+            "target": "Demons",
+            "label": "Protector of"
+        },
+        {
+            "id": "Demonic Essence_Found in_Demonic Amulet",
+            "source": "Demonic Essence",
+            "target": "Demonic Amulet",
+            "label": "Found in"
+        },
+        {
+            "id": "Demons_Master of_Gargoyle",
+            "source": "Demons",
+            "target": "Gargoyle",
+            "label": "Master of"
+        },
+        {
+            "id": "Demons_Master of_Armanite",
+            "source": "Demons",
+            "target": "Armanite",
+            "label": "Master of\nSuperset of"
+        },
+        {
+            "id": "Demons_Superset of_Babau",
+            "source": "Demons",
+            "target": "Babau",
+            "label": "Superset of"
+        },
+        {
+            "id": "Demons_Superset of_Demon Lords",
+            "source": "Demons",
+            "target": "Demon Lords",
+            "label": "Superset of"
+        },
+        {
+            "id": "Demons_Found in_Abyss",
+            "source": "Demons",
+            "target": "Abyss",
+            "label": "Found in"
+        },
+        {
+            "id": "Demons_Maker of_Abyssal Corruption",
+            "source": "Demons",
+            "target": "Abyssal Corruption",
+            "label": "Maker of"
+        },
+        {
+            "id": "Demons_Composed of_Demonic Essence",
+            "source": "Demons",
+            "target": "Demonic Essence",
+            "label": "Composed of"
+        },
+        {
+            "id": "Devils_Superset of_Archdevils",
+            "source": "Devils",
+            "target": "Archdevils",
+            "label": "Superset of"
+        },
+        {
+            "id": "Devils_Superset of_Barbed Devil",
+            "source": "Devils",
+            "target": "Barbed Devil",
+            "label": "Superset of"
+        },
+        {
+            "id": "Dinosaurs_Superset of_Allosaurus",
+            "source": "Dinosaurs",
+            "target": "Allosaurus",
+            "label": "Superset of"
+        },
+        {
+            "id": "Dinosaurs_Superset of_Ankylosaurus",
+            "source": "Dinosaurs",
+            "target": "Ankylosaurus",
+            "label": "Superset of"
+        },
+        {
+            "id": "Dracolich_Master of_Greedy",
+            "source": "Dracolich",
+            "target": "Greedy",
+            "label": "Master of"
+        },
+        {
+            "id": "Dracolich Phylactery_Protector of_Dracolich",
+            "source": "Dracolich Phylactery",
+            "target": "Dracolich",
+            "label": "Protector of"
+        },
+        {
+            "id": "Dragons_Superset of_Chromatic Dragons",
+            "source": "Dragons",
+            "target": "Chromatic Dragons",
+            "label": "Superset of"
+        },
+        {
+            "id": "Dragons_Superset of_Metallic Dragons",
+            "source": "Dragons",
+            "target": "Metallic Dragons",
+            "label": "Superset of"
+        },
+        {
+            "id": "Drow_Master of_Balhannoth",
+            "source": "Drow",
+            "target": "Balhannoth",
+            "label": "Master of"
+        },
+        {
+            "id": "Drow_Found in_Underdark",
+            "source": "Drow",
+            "target": "Underdark",
+            "label": "Found in"
+        },
+        {
+            "id": "Eladrin_Found in_Feywild",
+            "source": "Eladrin",
+            "target": "Feywild",
+            "label": "Found in"
+        },
+        {
+            "id": "Eladrin_Superset of_Noble Eladrin",
+            "source": "Eladrin",
+            "target": "Noble Eladrin",
+            "label": "Superset of"
+        },
+        {
+            "id": "Eladrin_Superset of_High Elf",
+            "source": "Eladrin",
+            "target": "High Elf",
+            "label": "Superset of"
+        },
+        {
+            "id": "Elemental_Superset of_Air Elemental",
+            "source": "Elemental",
+            "target": "Air Elemental",
+            "label": "Superset of"
+        },
+        {
+            "id": "Elves_Superset of_High Elf",
+            "source": "Elves",
+            "target": "High Elf",
+            "label": "Superset of"
+        },
+        {
+            "id": "Elves_Transformed into_Banshee",
+            "source": "Elves",
+            "target": "Banshee",
+            "label": "Transformed into"
+        },
+        {
+            "id": "Farmer_Enemy of_Ankheg",
+            "source": "Farmer",
+            "target": "Ankheg",
+            "label": "Enemy of"
+        },
+        {
+            "id": "Farmer_Maker of_Pastures",
+            "source": "Farmer",
+            "target": "Pastures",
+            "label": "Maker of"
+        },
+        {
+            "id": "Farmer_Master of_Livestock",
+            "source": "Farmer",
+            "target": "Livestock",
+            "label": "Master of"
+        },
+        {
+            "id": "Fey_Found in_Feywild",
+            "source": "Fey",
+            "target": "Feywild",
+            "label": "Found in"
+        },
+        {
+            "id": "Frost Giant_Master of_White Dragon",
+            "source": "Frost Giant",
+            "target": "White Dragon",
+            "label": "Master of"
+        },
+        {
+            "id": "Gargoyle_Protector of_Castles",
+            "source": "Gargoyle",
+            "target": "Castles",
+            "label": "Protector of"
+        },
+        {
+            "id": "Gargoyle_Found in_Elemental Plane of Earth",
+            "source": "Gargoyle",
+            "target": "Elemental Plane of Earth",
+            "label": "Found in"
+        },
+        {
+            "id": "General of Gehenna_Found in_Gehenna",
+            "source": "General of Gehenna",
+            "target": "Gehenna",
+            "label": "Found in"
+        },
+        {
+            "id": "General of Gehenna_Master of_Yugoloths",
+            "source": "General of Gehenna",
+            "target": "Yugoloths",
+            "label": "Master of"
+        },
+        {
+            "id": "General of Gehenna_Maker of_Barghest",
+            "source": "General of Gehenna",
+            "target": "Barghest",
+            "label": "Maker of"
+        },
+        {
+            "id": "General of Gehenna_Enemy of_Maglubiyet",
+            "source": "General of Gehenna",
+            "target": "Maglubiyet",
+            "label": "Enemy of"
+        },
+        {
+            "id": "Githyanki_Hunter of_Astral Dreadnought",
+            "source": "Githyanki",
+            "target": "Astral Dreadnought",
+            "label": "Hunter of"
+        },
+        {
+            "id": "Goblin_Transformed into_Barghest",
+            "source": "Goblin",
+            "target": "Barghest",
+            "label": "Transformed into\nEnemy of"
+        },
+        {
+            "id": "Gods_Master of_Androsphinx",
+            "source": "Gods",
+            "target": "Androsphinx",
+            "label": "Master of"
+        },
+        {
+            "id": "Gold Dragon_Devourer of_Gems",
+            "source": "Gold Dragon",
+            "target": "Gems",
+            "label": "Devourer of"
+        },
+        {
+            "id": "Gold Dragon_Devourer of_Pearls",
+            "source": "Gold Dragon",
+            "target": "Pearls",
+            "label": "Devourer of"
+        },
+        {
+            "id": "Gold Dragon_Devourer of_Treasures",
+            "source": "Gold Dragon",
+            "target": "Treasures",
+            "label": "Devourer of\nProtector of"
+        },
+        {
+            "id": "Gold Dragon_Protector of_Vaults",
+            "source": "Gold Dragon",
+            "target": "Vaults",
+            "label": "Protector of"
+        },
+        {
+            "id": "Gold Dragon_Maker of_Mist",
+            "source": "Gold Dragon",
+            "target": "Mist",
+            "label": "Maker of"
+        },
+        {
+            "id": "Gold Dragon_User of_Telepathic Contact",
+            "source": "Gold Dragon",
+            "target": "Telepathic Contact",
+            "label": "User of"
+        },
+        {
+            "id": "Graz'zt_Maker of_Babau",
+            "source": "Graz'zt",
+            "target": "Babau",
+            "label": "Maker of"
+        },
+        {
+            "id": "Greedy_Superset of_Yugoloths",
+            "source": "Greedy",
+            "target": "Yugoloths",
+            "label": "Superset of"
+        },
+        {
+            "id": "Green Dragon_Maker of_Treachery",
+            "source": "Green Dragon",
+            "target": "Treachery",
+            "label": "Maker of"
+        },
+        {
+            "id": "Green Dragon_Found in_Forest",
+            "source": "Green Dragon",
+            "target": "Forest",
+            "label": "Found in"
+        },
+        {
+            "id": "Green Dragon_Protector of_Treasures",
+            "source": "Green Dragon",
+            "target": "Treasures",
+            "label": "Protector of"
+        },
+        {
+            "id": "Green Dragon_Hunter of_Elves",
+            "source": "Green Dragon",
+            "target": "Elves",
+            "label": "Hunter of"
+        },
+        {
+            "id": "Green Dragon_Master of_Bugbear",
+            "source": "Green Dragon",
+            "target": "Bugbear",
+            "label": "Master of"
+        },
+        {
+            "id": "Green Dragon_Master of_Goblin",
+            "source": "Green Dragon",
+            "target": "Goblin",
+            "label": "Master of"
+        },
+        {
+            "id": "Green Dragon_Master of_Hobgoblin",
+            "source": "Green Dragon",
+            "target": "Hobgoblin",
+            "label": "Master of"
+        },
+        {
+            "id": "Green Dragon_Master of_Ettercap",
+            "source": "Green Dragon",
+            "target": "Ettercap",
+            "label": "Master of"
+        },
+        {
+            "id": "Green Dragon_Master of_Ettin",
+            "source": "Green Dragon",
+            "target": "Ettin",
+            "label": "Master of"
+        },
+        {
+            "id": "Green Dragon_Master of_Kobold",
+            "source": "Green Dragon",
+            "target": "Kobold",
+            "label": "Master of"
+        },
+        {
+            "id": "Green Dragon_Master of_Orc",
+            "source": "Green Dragon",
+            "target": "Orc",
+            "label": "Master of"
+        },
+        {
+            "id": "Green Dragon_Master of_Yuan-ti",
+            "source": "Green Dragon",
+            "target": "Yuan-ti",
+            "label": "Master of"
+        },
+        {
+            "id": "Green Dragon_Protector of_Emeralds",
+            "source": "Green Dragon",
+            "target": "Emeralds",
+            "label": "Protector of"
+        },
+        {
+            "id": "Gruumsh_Parent of_Bahgtru",
+            "source": "Gruumsh",
+            "target": "Bahgtru",
+            "label": "Parent of"
+        },
+        {
+            "id": "Gruumsh_Worshipped by_Orc",
+            "source": "Gruumsh",
+            "target": "Orc",
+            "label": "Worshipped by"
+        },
+        {
+            "id": "Hags_Superset of_Annis Hag",
+            "source": "Hags",
+            "target": "Annis Hag",
+            "label": "Superset of"
+        },
+        {
+            "id": "Hags_Superset of_Night Hag",
+            "source": "Hags",
+            "target": "Night Hag",
+            "label": "Superset of"
+        },
+        {
+            "id": "Inner Planes_Superset of_Elemental Plane of Air",
+            "source": "Inner Planes",
+            "target": "Elemental Plane of Air",
+            "label": "Superset of"
+        },
+        {
+            "id": "Inner Planes_Superset of_Elemental Plane of Earth",
+            "source": "Inner Planes",
+            "target": "Elemental Plane of Earth",
+            "label": "Superset of"
+        },
+        {
+            "id": "Inner Planes_Superset of_Elemental Plane of Water",
+            "source": "Inner Planes",
+            "target": "Elemental Plane of Water",
+            "label": "Superset of"
+        },
+        {
+            "id": "Inner Planes_Superset of_Elemental Plane of Fire",
+            "source": "Inner Planes",
+            "target": "Elemental Plane of Fire",
+            "label": "Superset of"
+        },
+        {
+            "id": "Items_Superset of_Metallic Items",
+            "source": "Items",
+            "target": "Metallic Items",
+            "label": "Superset of"
+        },
+        {
+            "id": "Items_Superset of_Magic Items",
+            "source": "Items",
+            "target": "Magic Items",
+            "label": "Superset of"
+        },
+        {
+            "id": "Juiblex_Maker of_Alkilith",
+            "source": "Juiblex",
+            "target": "Alkilith",
+            "label": "Maker of"
+        },
+        {
+            "id": "Kruthik_Afraid of_Kruthik Corpse",
+            "source": "Kruthik",
+            "target": "Kruthik Corpse",
+            "label": "Afraid of"
+        },
+        {
+            "id": "Kruthik_Protector of_Kruthik Eggs",
+            "source": "Kruthik",
+            "target": "Kruthik Eggs",
+            "label": "Protector of"
+        },
+        {
+            "id": "Kruthik_Found in_Tunnel",
+            "source": "Kruthik",
+            "target": "Tunnel",
+            "label": "Found in"
+        },
+        {
+            "id": "Kruthik_Seeker of_Heat",
+            "source": "Kruthik",
+            "target": "Heat",
+            "label": "Seeker of"
+        },
+        {
+            "id": "Lich_Transformed into_Demilich",
+            "source": "Lich",
+            "target": "Demilich",
+            "label": "Transformed into"
+        },
+        {
+            "id": "Lich_Superset of_Dracolich",
+            "source": "Lich",
+            "target": "Dracolich",
+            "label": "Superset of"
+        },
+        {
+            "id": "Livestock_Found in_Pastures",
+            "source": "Livestock",
+            "target": "Pastures",
+            "label": "Found in"
+        },
+        {
+            "id": "Lolth_Worshipped by_Drow",
+            "source": "Lolth",
+            "target": "Drow",
+            "label": "Worshipped by"
+        },
+        {
+            "id": "Lower Planes_Superset of_River Styx",
+            "source": "Lower Planes",
+            "target": "River Styx",
+            "label": "Superset of"
+        },
+        {
+            "id": "Lower Planes_Superset of_Nine Hells",
+            "source": "Lower Planes",
+            "target": "Nine Hells",
+            "label": "Superset of"
+        },
+        {
+            "id": "Lower Planes_Superset of_Gehenna",
+            "source": "Lower Planes",
+            "target": "Gehenna",
+            "label": "Superset of"
+        },
+        {
+            "id": "Lower Planes_Superset of_Acheron",
+            "source": "Lower Planes",
+            "target": "Acheron",
+            "label": "Superset of"
+        },
+        {
+            "id": "Lower Planes_Superset of_Hades",
+            "source": "Lower Planes",
+            "target": "Hades",
+            "label": "Superset of"
+        },
+        {
+            "id": "Lower Planes_Superset of_Carceri",
+            "source": "Lower Planes",
+            "target": "Carceri",
+            "label": "Superset of"
+        },
+        {
+            "id": "Lower Planes_Superset of_Abyss",
+            "source": "Lower Planes",
+            "target": "Abyss",
+            "label": "Superset of"
+        },
+        {
+            "id": "Luthic_Parent of_Bahgtru",
+            "source": "Luthic",
+            "target": "Bahgtru",
+            "label": "Parent of"
+        },
+        {
+            "id": "Luthic_Worshipped by_Orc",
+            "source": "Luthic",
+            "target": "Orc",
+            "label": "Worshipped by"
+        },
+        {
+            "id": "Mage_User of_Arcane Magic",
+            "source": "Mage",
+            "target": "Arcane Magic",
+            "label": "User of"
+        },
+        {
+            "id": "Magic Items_Superset of_Sentient Items",
+            "source": "Magic Items",
+            "target": "Sentient Items",
+            "label": "Superset of"
+        },
+        {
+            "id": "Magic Items_Superset of_Deck of Many Things",
+            "source": "Magic Items",
+            "target": "Deck of Many Things",
+            "label": "Superset of"
+        },
+        {
+            "id": "Mammon_Master of_Bael",
+            "source": "Mammon",
+            "target": "Bael",
+            "label": "Master of"
+        },
+        {
+            "id": "Metallic Dragons_Superset of_Brass Dragon",
+            "source": "Metallic Dragons",
+            "target": "Brass Dragon",
+            "label": "Superset of"
+        },
+        {
+            "id": "Metallic Dragons_Superset of_Bronze Dragon",
+            "source": "Metallic Dragons",
+            "target": "Bronze Dragon",
+            "label": "Superset of"
+        },
+        {
+            "id": "Metallic Dragons_Superset of_Copper Dragon",
+            "source": "Metallic Dragons",
+            "target": "Copper Dragon",
+            "label": "Superset of"
+        },
+        {
+            "id": "Metallic Dragons_Superset of_Gold Dragon",
+            "source": "Metallic Dragons",
+            "target": "Gold Dragon",
+            "label": "Superset of"
+        },
+        {
+            "id": "Metallic Dragons_Superset of_Silver Dragon",
+            "source": "Metallic Dragons",
+            "target": "Silver Dragon",
+            "label": "Superset of"
+        },
+        {
+            "id": "Metallic Items_Composed of_Metals",
+            "source": "Metallic Items",
+            "target": "Metals",
+            "label": "Composed of"
+        },
+        {
+            "id": "Metals_Found in_Mine",
+            "source": "Metals",
+            "target": "Mine",
+            "label": "Found in"
+        },
+        {
+            "id": "Metals_Found in_Elemental Plane of Earth",
+            "source": "Metals",
+            "target": "Elemental Plane of Earth",
+            "label": "Found in"
+        },
+        {
+            "id": "Metals_Found in_Mountains",
+            "source": "Metals",
+            "target": "Mountains",
+            "label": "Found in"
+        },
+        {
+            "id": "Mind Flayer_Maker of_Oblex",
+            "source": "Mind Flayer",
+            "target": "Oblex",
+            "label": "Maker of"
+        },
+        {
+            "id": "Mind Flayer_Superset of_Alhoon",
+            "source": "Mind Flayer",
+            "target": "Alhoon",
+            "label": "Superset of"
+        },
+        {
+            "id": "Mine_Superset of_Abandoned Mine",
+            "source": "Mine",
+            "target": "Abandoned Mine",
+            "label": "Superset of"
+        },
+        {
+            "id": "Miners_Maker of_Mine",
+            "source": "Miners",
+            "target": "Mine",
+            "label": "Maker of\nFound in"
+        },
+        {
+            "id": "Miners_Superset of_Azer",
+            "source": "Miners",
+            "target": "Azer",
+            "label": "Superset of"
+        },
+        {
+            "id": "Miners_Seeker of_Gems",
+            "source": "Miners",
+            "target": "Gems",
+            "label": "Seeker of"
+        },
+        {
+            "id": "Miners_Seeker of_Metals",
+            "source": "Miners",
+            "target": "Metals",
+            "label": "Seeker of"
+        },
+        {
+            "id": "Mountain Peaks_Superset of_Alpine Peaks",
+            "source": "Mountain Peaks",
+            "target": "Alpine Peaks",
+            "label": "Superset of"
+        },
+        {
+            "id": "Mountains_Superset of_Mountain Peaks",
+            "source": "Mountains",
+            "target": "Mountain Peaks",
+            "label": "Superset of"
+        },
+        {
+            "id": "Night Hag_Maker of_Yugoloths",
+            "source": "Night Hag",
+            "target": "Yugoloths",
+            "label": "Maker of"
+        },
+        {
+            "id": "Night Hag_Found in_Gehenna",
+            "source": "Night Hag",
+            "target": "Gehenna",
+            "label": "Found in"
+        },
+        {
+            "id": "Night Hag_Maker of_Books of Keeping",
+            "source": "Night Hag",
+            "target": "Books of Keeping",
+            "label": "Maker of"
+        },
+        {
+            "id": "Night Hag_Maker of_General of Gehenna",
+            "source": "Night Hag",
+            "target": "General of Gehenna",
+            "label": "Maker of"
+        },
+        {
+            "id": "Night Hag_Maker of_Banderhobb",
+            "source": "Night Hag",
+            "target": "Banderhobb",
+            "label": "Maker of"
+        },
+        {
+            "id": "Noble Eladrin_Superset of_Autumn Eladrin",
+            "source": "Noble Eladrin",
+            "target": "Autumn Eladrin",
+            "label": "Superset of"
+        },
+        {
+            "id": "Oblex_Hunter of_Memories",
+            "source": "Oblex",
+            "target": "Memories",
+            "label": "Hunter of"
+        },
+        {
+            "id": "Oblex_Maker of_Duplicate",
+            "source": "Oblex",
+            "target": "Duplicate",
+            "label": "Maker of"
+        },
+        {
+            "id": "Ogr\u00e9moch_Maker of_Gargoyle",
+            "source": "Ogr\u00e9moch",
+            "target": "Gargoyle",
+            "label": "Maker of"
+        },
+        {
+            "id": "Ogr\u00e9moch_Enemy of_Miners",
+            "source": "Ogr\u00e9moch",
+            "target": "Miners",
+            "label": "Enemy of"
+        },
+        {
+            "id": "Ogr\u00e9moch_Found in_Elemental Plane of Earth",
+            "source": "Ogr\u00e9moch",
+            "target": "Elemental Plane of Earth",
+            "label": "Found in"
+        },
+        {
+            "id": "Ooze_Transformed into_Oblex",
+            "source": "Ooze",
+            "target": "Oblex",
+            "label": "Transformed into"
+        },
+        {
+            "id": "Ooze_Superset of_Alkilith",
+            "source": "Ooze",
+            "target": "Alkilith",
+            "label": "Superset of"
+        },
+        {
+            "id": "Orc_Ally of_Aurochs",
+            "source": "Orc",
+            "target": "Aurochs",
+            "label": "Ally of"
+        },
+        {
+            "id": "Orcus_Worshipped by_Undeads",
+            "source": "Orcus",
+            "target": "Undeads",
+            "label": "Worshipped by"
+        },
+        {
+            "id": "Outer Planes_Superset of_Upper Planes",
+            "source": "Outer Planes",
+            "target": "Upper Planes",
+            "label": "Superset of"
+        },
+        {
+            "id": "Outer Planes_Superset of_Lower Planes",
+            "source": "Outer Planes",
+            "target": "Lower Planes",
+            "label": "Superset of"
+        },
+        {
+            "id": "Phylactery_Protector of_Acererak Demilich",
+            "source": "Phylactery",
+            "target": "Acererak Demilich",
+            "label": "Protector of"
+        },
+        {
+            "id": "Phylactery_Protector of_Demilich",
+            "source": "Phylactery",
+            "target": "Demilich",
+            "label": "Protector of"
+        },
+        {
+            "id": "Phylactery_Protector of_Lich",
+            "source": "Phylactery",
+            "target": "Lich",
+            "label": "Protector of"
+        },
+        {
+            "id": "Phylactery_Superset of_Dracolich Phylactery",
+            "source": "Phylactery",
+            "target": "Dracolich Phylactery",
+            "label": "Superset of"
+        },
+        {
+            "id": "Planes_Superset of_Inner Planes",
+            "source": "Planes",
+            "target": "Inner Planes",
+            "label": "Superset of"
+        },
+        {
+            "id": "Planes_Superset of_Outer Planes",
+            "source": "Planes",
+            "target": "Outer Planes",
+            "label": "Superset of"
+        },
+        {
+            "id": "Planes_Superset of_Transitive Planes",
+            "source": "Planes",
+            "target": "Transitive Planes",
+            "label": "Superset of"
+        },
+        {
+            "id": "Planes_Superset of_Demiplane",
+            "source": "Planes",
+            "target": "Demiplane",
+            "label": "Superset of"
+        },
+        {
+            "id": "Planes_Superset of_Feywild",
+            "source": "Planes",
+            "target": "Feywild",
+            "label": "Superset of"
+        },
+        {
+            "id": "Planes_Superset of_Shadowfell",
+            "source": "Planes",
+            "target": "Shadowfell",
+            "label": "Superset of"
+        },
+        {
+            "id": "Planes_Superset of_Material Plane",
+            "source": "Planes",
+            "target": "Material Plane",
+            "label": "Superset of"
+        },
+        {
+            "id": "Portal to Elemental Plane of Fire_Seeker of_Elemental Plane of Fire",
+            "source": "Portal to Elemental Plane of Fire",
+            "target": "Elemental Plane of Fire",
+            "label": "Seeker of"
+        },
+        {
+            "id": "Portal to the Abyss_Seeker of_Abyss",
+            "source": "Portal to the Abyss",
+            "target": "Abyss",
+            "label": "Seeker of"
+        },
+        {
+            "id": "Priest_Master of_Acolyte",
+            "source": "Priest",
+            "target": "Acolyte",
+            "label": "Master of"
+        },
+        {
+            "id": "Red Dragon_Protector of_Treasures",
+            "source": "Red Dragon",
+            "target": "Treasures",
+            "label": "Protector of"
+        },
+        {
+            "id": "Red Dragon_User of_Tyranny",
+            "source": "Red Dragon",
+            "target": "Tyranny",
+            "label": "User of"
+        },
+        {
+            "id": "Red Dragon_Found in_Mountains",
+            "source": "Red Dragon",
+            "target": "Mountains",
+            "label": "Found in"
+        },
+        {
+            "id": "Red Dragon_Found in_Cavern",
+            "source": "Red Dragon",
+            "target": "Cavern",
+            "label": "Found in"
+        },
+        {
+            "id": "Red Dragon_Found in_Abandoned Mine",
+            "source": "Red Dragon",
+            "target": "Abandoned Mine",
+            "label": "Found in"
+        },
+        {
+            "id": "Red Dragon_Seeker of_Heat",
+            "source": "Red Dragon",
+            "target": "Heat",
+            "label": "Seeker of"
+        },
+        {
+            "id": "Red Dragon_Maker of_Earthquakes",
+            "source": "Red Dragon",
+            "target": "Earthquakes",
+            "label": "Maker of"
+        },
+        {
+            "id": "Red Dragon_Maker of_Portal to Elemental Plane of Fire",
+            "source": "Red Dragon",
+            "target": "Portal to Elemental Plane of Fire",
+            "label": "Maker of"
+        },
+        {
+            "id": "Red Dragon_Master of_Humanoids",
+            "source": "Red Dragon",
+            "target": "Humanoids",
+            "label": "Master of"
+        },
+        {
+            "id": "Rutterkin_Maker of_Abyssal Wretch",
+            "source": "Rutterkin",
+            "target": "Abyssal Wretch",
+            "label": "Maker of"
+        },
+        {
+            "id": "Secrets_Found in_Allip",
+            "source": "Secrets",
+            "target": "Allip",
+            "label": "Found in"
+        },
+        {
+            "id": "Secrets_Found in_Books of Keeping",
+            "source": "Secrets",
+            "target": "Books of Keeping",
+            "label": "Found in"
+        },
+        {
+            "id": "Silver Dragon_Ally of_Humanoids",
+            "source": "Silver Dragon",
+            "target": "Humanoids",
+            "label": "Ally of"
+        },
+        {
+            "id": "Silver Dragon_Found in_Alpine Peaks",
+            "source": "Silver Dragon",
+            "target": "Alpine Peaks",
+            "label": "Found in"
+        },
+        {
+            "id": "Silver Dragon_Found in_Cavern",
+            "source": "Silver Dragon",
+            "target": "Cavern",
+            "label": "Found in"
+        },
+        {
+            "id": "Silver Dragon_Found in_Abandoned Mine",
+            "source": "Silver Dragon",
+            "target": "Abandoned Mine",
+            "label": "Found in"
+        },
+        {
+            "id": "Silver Dragon_Seeker of_Historic Relics",
+            "source": "Silver Dragon",
+            "target": "Historic Relics",
+            "label": "Seeker of"
+        },
+        {
+            "id": "Silver Dragon_Maker of_Weather",
+            "source": "Silver Dragon",
+            "target": "Weather",
+            "label": "Maker of"
+        },
+        {
+            "id": "Silver Dragon_Maker of_Wind",
+            "source": "Silver Dragon",
+            "target": "Wind",
+            "label": "Maker of"
+        },
+        {
+            "id": "Silver Dragon_Maker of_Solid Clouds",
+            "source": "Silver Dragon",
+            "target": "Solid Clouds",
+            "label": "Maker of"
+        },
+        {
+            "id": "Sinkhole_Protector of_Blue Dragon",
+            "source": "Sinkhole",
+            "target": "Blue Dragon",
+            "label": "Protector of"
+        },
+        {
+            "id": "Sisterhood_Composed of_Hags",
+            "source": "Sisterhood",
+            "target": "Hags",
+            "label": "Composed of"
+        },
+        {
+            "id": "Souls_Found in_Periapt of Mind Trapping",
+            "source": "Souls",
+            "target": "Periapt of Mind Trapping",
+            "label": "Found in"
+        },
+        {
+            "id": "Souls_Found in_Phylactery",
+            "source": "Souls",
+            "target": "Phylactery",
+            "label": "Found in"
+        },
+        {
+            "id": "Spellcasters_Master of_Gargoyle",
+            "source": "Spellcasters",
+            "target": "Gargoyle",
+            "label": "Master of"
+        },
+        {
+            "id": "Spellcasters_Superset of_Abjurer",
+            "source": "Spellcasters",
+            "target": "Abjurer",
+            "label": "Superset of"
+        },
+        {
+            "id": "Spellcasters_Superset of_Summoner",
+            "source": "Spellcasters",
+            "target": "Summoner",
+            "label": "Superset of"
+        },
+        {
+            "id": "Spellcasters_Superset of_Wizards",
+            "source": "Spellcasters",
+            "target": "Wizards",
+            "label": "Superset of"
+        },
+        {
+            "id": "Spellcasters_Superset of_Archmage",
+            "source": "Spellcasters",
+            "target": "Archmage",
+            "label": "Superset of"
+        },
+        {
+            "id": "Spellcasters_Superset of_Mage",
+            "source": "Spellcasters",
+            "target": "Mage",
+            "label": "Superset of"
+        },
+        {
+            "id": "Summoner_Summoner of_Demons",
+            "source": "Summoner",
+            "target": "Demons",
+            "label": "Summoner of"
+        },
+        {
+            "id": "Tharizdun, the Chained God_Maker of_Astral Dreadnought",
+            "source": "Tharizdun, the Chained God",
+            "target": "Astral Dreadnought",
+            "label": "Maker of"
+        },
+        {
+            "id": "Tiamat the Dragon Queen_Worshipped by_Chromatic Dragons",
+            "source": "Tiamat the Dragon Queen",
+            "target": "Chromatic Dragons",
+            "label": "Worshipped by"
+        },
+        {
+            "id": "Transitive Planes_Superset of_Astral Plane",
+            "source": "Transitive Planes",
+            "target": "Astral Plane",
+            "label": "Superset of"
+        },
+        {
+            "id": "Transitive Planes_Superset of_Ethereal Plane",
+            "source": "Transitive Planes",
+            "target": "Ethereal Plane",
+            "label": "Superset of"
+        },
+        {
+            "id": "Transmutation Magic_Maker of_Awakened Shrub",
+            "source": "Transmutation Magic",
+            "target": "Awakened Shrub",
+            "label": "Maker of"
+        },
+        {
+            "id": "Transmutation Magic_Maker of_Awakened Tree",
+            "source": "Transmutation Magic",
+            "target": "Awakened Tree",
+            "label": "Maker of"
+        },
+        {
+            "id": "Treasures_Superset of_Deck of Many Things",
+            "source": "Treasures",
+            "target": "Deck of Many Things",
+            "label": "Superset of"
+        },
+        {
+            "id": "Tunnel_Found in_Mountains",
+            "source": "Tunnel",
+            "target": "Mountains",
+            "label": "Found in"
+        },
+        {
+            "id": "Undeads_Superset of_Lich",
+            "source": "Undeads",
+            "target": "Lich",
+            "label": "Superset of"
+        },
+        {
+            "id": "Vaults_Protector of_Treasures",
+            "source": "Vaults",
+            "target": "Treasures",
+            "label": "Protector of"
+        },
+        {
+            "id": "Water_Superset of_Ocean",
+            "source": "Water",
+            "target": "Ocean",
+            "label": "Superset of"
+        },
+        {
+            "id": "Water_Superset of_Lake",
+            "source": "Water",
+            "target": "Lake",
+            "label": "Superset of"
+        },
+        {
+            "id": "Wealthy_Employer of_Abjurer",
+            "source": "Wealthy",
+            "target": "Abjurer",
+            "label": "Employer of"
+        },
+        {
+            "id": "Wealthy_Found in_Castles",
+            "source": "Wealthy",
+            "target": "Castles",
+            "label": "Found in"
+        },
+        {
+            "id": "Wealthy_Seeker of_Treasures",
+            "source": "Wealthy",
+            "target": "Treasures",
+            "label": "Seeker of"
+        },
+        {
+            "id": "Wealthy_Employer of_Assassin",
+            "source": "Wealthy",
+            "target": "Assassin",
+            "label": "Employer of"
+        },
+        {
+            "id": "Weather_Superset of_Thunderstorm",
+            "source": "Weather",
+            "target": "Thunderstorm",
+            "label": "Superset of"
+        },
+        {
+            "id": "White Dragon_Found in_Alpine Peaks",
+            "source": "White Dragon",
+            "target": "Alpine Peaks",
+            "label": "Found in"
+        },
+        {
+            "id": "White Dragon_Maker of_Frozen Corpses",
+            "source": "White Dragon",
+            "target": "Frozen Corpses",
+            "label": "Maker of\nDevourer of"
+        },
+        {
+            "id": "White Dragon_Master of_Kobold",
+            "source": "White Dragon",
+            "target": "Kobold",
+            "label": "Master of"
+        },
+        {
+            "id": "White Dragon_Protector of_Treasures",
+            "source": "White Dragon",
+            "target": "Treasures",
+            "label": "Protector of"
+        },
+        {
+            "id": "White Dragon_Found in_Ice Cavern",
+            "source": "White Dragon",
+            "target": "Ice Cavern",
+            "label": "Found in"
+        },
+        {
+            "id": "Wizards_Summoner of_Air Elemental Myrmidon",
+            "source": "Wizards",
+            "target": "Air Elemental Myrmidon",
+            "label": "Summoner of\nMaster of"
+        },
+        {
+            "id": "Wizards_User of_Arcane Magic",
+            "source": "Wizards",
+            "target": "Arcane Magic",
+            "label": "User of"
+        },
+        {
+            "id": "Wizards_Master of_Apprentice Wizard",
+            "source": "Wizards",
+            "target": "Apprentice Wizard",
+            "label": "Master of"
+        },
+        {
+            "id": "Yeenoghu_Worshipped by_Gnoll",
+            "source": "Yeenoghu",
+            "target": "Gnoll",
+            "label": "Worshipped by"
+        },
+        {
+            "id": "Yugoloths_Superset of_Arcanaloth",
+            "source": "Yugoloths",
+            "target": "Arcanaloth",
+            "label": "Superset of"
+        },
+        {
+            "id": "Yugoloths_Found in_Gehenna",
+            "source": "Yugoloths",
+            "target": "Gehenna",
+            "label": "Found in"
+        },
+        {
+            "id": "Yugoloths_Found in_Acheron",
+            "source": "Yugoloths",
+            "target": "Acheron",
+            "label": "Found in"
+        },
+        {
+            "id": "Yugoloths_Found in_Hades",
+            "source": "Yugoloths",
+            "target": "Hades",
+            "label": "Found in"
+        },
+        {
+            "id": "Yugoloths_Found in_Carceri",
+            "source": "Yugoloths",
+            "target": "Carceri",
+            "label": "Found in"
+        },
+        {
+            "id": "Yugoloths_Afraid of_Books of Keeping",
+            "source": "Yugoloths",
+            "target": "Books of Keeping",
+            "label": "Afraid of"
+        }
+    ]
+}

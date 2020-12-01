@@ -1,0 +1,166 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta http-equiv="Content-type" content="text/html; charset=iso-8859-1"/>
+        <title>Tome of Mastering</title>
+        <link href="../css/bootstrap.min.css" rel="stylesheet">
+        <link href="../css/style.css" rel="stylesheet">
+        <link href="../css/rpg-awesome.min.css" rel="stylesheet">
+        <script src="../js/three.min.js"></script>
+        <script src="../js/spritetext.js"></script>
+        <script src="../js/3d-force-graph.js"></script>
+    </head>
+    <body>
+        <div class="d-flex flex-column" id="wrapper">
+            <div class="border-right d-flex justify-content-between" id="menu-wrapper">
+                <div class="menu-heading"> <a href="../index.html">Tome of Mastering </a> </div>
+                <div class="menu-about d-flex flex-row justify-content-end align-items-center"> <a href="https://github.com/tomeofmastering/tomeofmastering.github.io/archive/master.zip" >Download</a> <a href="../pages/tools.html" >Tools</a> <a href="../pages/graph.html" >Graph</a> <a href="../pages/about.html" >About</a> </div>
+            </div>
+            <div id="page-content-wrapper">
+                <div class="container-fluid">
+                    <div class="d-flex flex-row" style="justify-content: space-evenly">
+                        <div id="graph"></div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <script>
+fetch("../json/blueprint.json").then(function(response)
+{
+	return response.json();
+}).then(function(response)
+{
+	var myGraph = ForceGraph3D();
+	myGraph(document.getElementById("graph")).graphData(response)
+		.linkDirectionalArrowLength(5.0)
+		.linkDirectionalArrowRelPos(1)
+		.linkCurvature(0.1)
+		.linkDirectionalParticles(1)
+		.linkDirectionalParticleWidth(2)
+		.linkThreeObjectExtend(true)
+		.linkThreeObject(link => {
+			// extend link with text sprite
+			const sprite = new SpriteText(`${link.label}`);
+			sprite.color = '#111111';
+			sprite.textHeight = 4;
+			sprite.material.depthTest = false;
+			return sprite;
+        })
+		.linkMaterial(material => {
+			mat = new THREE.MeshLambertMaterial({
+                color: '#111111',
+				transparent: true
+            });
+			
+			mat.onBeforeCompile = function ( shader ) {
+				shader.vertexShader = shader.vertexShader.replace(
+					'varying vec3 vIndirectFront;',
+					[
+						'varying vec3 vIndirectFront;',
+						'varying float distance;'
+					].join('\n')
+				);
+				shader.vertexShader = shader.vertexShader.replace(
+					'#include <fog_vertex>',
+					[
+						'#include <fog_vertex>',
+						'distance = length(cameraPosition - mvPosition.xyz);',
+						'distance = 1.0 - clamp(distance / 1000.0, 0.0, 1.0);'
+					].join('\n')
+				);
+				
+				shader.fragmentShader = shader.fragmentShader.replace(
+					'uniform float opacity;',
+					[
+						'uniform float opacity;',
+						'varying float distance;'
+					].join('\n')
+				);
+				shader.fragmentShader = shader.fragmentShader.replace(
+					'#include <dithering_fragment>',
+					[
+						'#include <dithering_fragment>',
+						'gl_FragColor = vec4(gl_FragColor.xyz, gl_FragColor.a * distance);'
+					].join('\n')
+				);
+			};
+			
+			mat.depthTest = false;
+			
+			return mat;
+		})
+        .linkPositionUpdate((sprite, { start, end }) => {
+			const startV = new THREE.Vector3(start.x, start.y, start.z);
+			const endV = new THREE.Vector3(end.x, end.y, end.z);
+			
+			var diff = new THREE.Vector3(end.x, end.y, end.z);
+			if(diff.sub(start).lengthSq() <= 0.001)
+			{
+				var d = 0.1 * 700;
+                var endAngle = 0;
+
+                var startAngle = endAngle + Math.PI / 2;
+                var curve = new THREE.CubicBezierCurve3(startV, new THREE.Vector3(d * Math.cos(startAngle), d * Math.sin(startAngle), 0).add(startV), new THREE.Vector3(d * Math.cos(endAngle), d * Math.sin(endAngle), 0).add(startV), startV);
+				var p = curve.getPoint(0.5);
+				
+				const middlePos = Object.assign(...['x', 'y', 'z'].map(c => ({
+					[c]: p[c]
+				})));
+				
+				Object.assign(sprite.position, middlePos);
+			}
+			else
+			{
+				const middlePos = Object.assign(...['x', 'y', 'z'].map(c => ({
+					[c]: startV[c] + (endV[c] - startV[c]) / 2 // calc middle point
+				})));
+				
+				// Position sprite
+				Object.assign(sprite.position, middlePos);
+			}
+        })
+		.nodeThreeObject(node => {
+			// use a sphere as a drag handle
+			const obj = new THREE.Mesh(
+				new THREE.SphereGeometry(10),
+				new THREE.MeshBasicMaterial({ depthWrite: false, transparent: true, opacity: 0 })
+			);
+
+			// add text sprite as child
+			const sprite = new SpriteText(node.id);
+			sprite.color = "#111111";
+			sprite.textHeight = 8;
+			obj.add(sprite);
+			obj.material.transparent = true;
+			obj.material.depthWrite = false;
+
+			return obj;
+		})
+		.enableNodeDrag(false)
+		.onNodeClick((node, event) =>
+		{
+			var dir = new THREE.Vector3();
+			myGraph.camera().getWorldDirection(dir);
+			myGraph.cameraPosition({x: node.x - dir.x * 300, y: node.y - dir.y * 300, z: node.z - dir.z * 300}, {x: node.x, y: node.y, z: node.z}, 1000);
+		})
+		.onNodeHover((node, prevnode) =>
+		{
+			if(node !== null)
+			{
+				node.__threeObj.children[0].color = "#FF1111";
+				node.__threeObj.children[0].textHeight = 10;
+			}
+			
+			if(prevnode !== null)
+			{
+				prevnode.__threeObj.children[0].color = "#111111";
+				prevnode.__threeObj.children[0].textHeight = 8;
+			}
+		});
+	
+	myGraph.d3Force('charge').strength(-120);
+	myGraph.backgroundColor("#f8f9fa");
+});
+</script>
+    </body>
+</html>
